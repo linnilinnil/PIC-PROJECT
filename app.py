@@ -27,6 +27,7 @@ fund_pi = pd.read_csv(path + "fund_pi_avg.csv")
 fund_proj = pd.read_csv(path + "fund_proj_avg.csv")
 fatal = pd.read_csv(path+'fatal.csv')
 nonfatal = pd.read_csv(path+'nonfatal.csv')
+divsum = pd.read_csv(path + 'divsum.csv')
 #filter options
 years = list(np.arange(2011,2023))
 fund_mech = ['All','RPGs - SBIR/STTR', 'RPGs - Non SBIR/STTR',
@@ -78,7 +79,7 @@ map_indice = dcc.Dropdown(
     )
 
 parallel = px.parallel_categories(fatal, dimensions=['exist','est_str','mort_str'],
-                color="exist", color_continuous_scale="Viridis",
+                color="exist", color_continuous_scale="PuBu",
                 labels={'exist':'Category existed time (yr)',
                         'est_str':'Estimated pct. change',
                         'mort_str':'Mortality rate (raw ct.)'}
@@ -86,25 +87,81 @@ parallel = px.parallel_categories(fatal, dimensions=['exist','est_str','mort_str
 dimensions=['exist','est_str','mort_bin']
 parallel.update_traces(dimensions=[{"categoryorder": "category descending"} for _ in dimensions])
 
-area = "Area/M.USD"
-
 fatal10 = fatal.sort_values('2019 US Mortality 19').iloc[-10:,]
-sem = pd.melt(fatal10, id_vars=['Research/Disease Areas \n (Dollars in millions and rounded)'], 
-        value_vars=fatal.columns[1:17],
-        var_name='year', value_name='value')
-sem = sem.rename(columns={'2022 Estimated': '2022','2023 Estimated': '2023',
-                          'Research/Disease Areas \n (Dollars in millions and rounded)':"Area/M.USD"})
-sem['value'] = sem['value'].astype(int)
-histo = px.bar(sem, x=area, 
-             y="value", color=area,
-             title='Top 10 funded fatal diseases',
-             hover_name = area,
-             hover_data = [area],
-  animation_frame="year",range_y=[0,8000])
-histo.update_layout(showlegend=False)
+nonfatal10 = nonfatal.sort_values('2019 US Mortality 19').iloc[-10:,]
+
+def get_histo(type,ten):
+    area = "Area(M.USD)"
+    
+    sem = pd.melt(ten, id_vars=['Research/Disease Areas \n (Dollars in millions and rounded)'], 
+            value_vars=fatal.columns[1:17],
+            var_name='year', value_name='value')
+    sem = sem.rename(columns={'2022 Estimated': '2022','2023 Estimated': '2023',
+                            'Research/Disease Areas \n (Dollars in millions and rounded)':area})
+    sem['value'] = sem['value'].astype(int)
+    if type == 'nonfatal':
+        up = 800
+    else:
+        up = 8000
+    histo = px.bar(sem, x=area, 
+                y="value", color=area,
+                title='Top 10 funded '+type+ ' diseases',
+                hover_name = area,
+                hover_data = [area],
+                color_continuous_scale="PuBu",
+                animation_frame="year",range_y=[0,up],
+                height=600)
+    histo.update_layout(showlegend=False)
+    histo.update_xaxes(tickangle=60)
+    return histo
+#histo = get_histo()
+
+def cleanpi(pi):
+    pi=pi[pi['ETHNICITY2']!="Unknown"]
+    pi=pi[pi['ETHNICITY2']!="Withheld"]
+
+    pi=pi[pi['gender']!="Unknown"]
+    pi=pi[pi['gender']!="Withheld"]
+
+    pi=pi[pi['race']!="Unknown"]
+    pi=pi[pi['race']!="Withheld"]
+    pi=pi[pi['age']!="Unknown"]
+
+    pi['tot_doll']=round(pi['tot_doll'],2)
+
+    cols=["FY","ETHNICITY2","gender","DEGREE","tot_doll","race","age"]
+    pi=pi[cols]
+    pi = pi.rename(columns={'ETHNICITY2':'hispanic','DEGREE':'degree'})
+    return pi
+
+## not reading because this shit is too large lmao
+path2 = 'https://raw.githubusercontent.com/linnilinnil/NIH-Fundings-Dashboard/main/'
+
+#pi = pd.read_csv(path2+'pi-organization/pi.csv')
+#pi = cleanpi(pi)
 
 
+def stacked_bar(divsum,par):
+    subdiv = divsum.groupby([par,'FY'])['tot_doll'].agg(sum)
+    subdiv = subdiv.reset_index(0).reset_index(0)
+    subdiv = pd.pivot(subdiv, index='FY', columns=par, values='tot_doll')
+    return px.bar(subdiv)
 
+fatal_radio = dbc.RadioItems(
+        id='fatal_radio', 
+        className='radio',
+        options=[dict(label='Fatal', value=0), dict(label='Non-fatal', value=1)],
+        value=0, 
+        inline=True
+    )
+
+div_radio = dbc.RadioItems(
+        id='div_radio', 
+        className='radio',
+        options=[dict(label='Race', value=0), dict(label='Degree', value=1), dict(label='Age', value=2)],
+        value=0, 
+        inline=True
+    )
 #------------------------------------------------------ APP LAYOUT ------------------------------------------------------ 
 
 app.layout = html.Div([
@@ -161,8 +218,11 @@ app.layout = html.Div([
                 className='row'),
     html.Div([
                 html.Div([
+                            html.Div([
+                                      fatal_radio,
+                            ]),
                             dcc.Graph(  id='histo', 
-                                        figure = histo,
+                                        figure = dict(),
                                         hoverData={'points': [{'hovertext': 'Cancer '}]},
                                         )],
                             style={'margin-left':'20%','width': '55%'},
@@ -172,23 +232,35 @@ app.layout = html.Div([
                                     figure = dict(),)],
                             style={'width': '45%',},
                             className='box'),],
-                className='row')
+                className='row'),
+    html.Div([
+                html.Div([
+                            html.Div([
+                                      div_radio,
+                            ]),
+                            dcc.Graph(  id='stacked', 
+                                        )],
+                            style={'margin-left':'20%','width': '100%'},
+                            className='box'),
+                #html.Div([
+                 #           dcc.Graph(id='hoverline', 
+                  #                  figure = dict(),)],
+                   #         style={'width': '45%',},
+                    #        className='box'),
+                ],
+                className='row'),
+                
                 
 ])
-
-
-
-
 
 #------------------------------------------------------ CALLBACK ------------------------------------------------------ 
 # helper function to create time series
 
 def draw_line(df, selected):
-
-    sub = df[df['Research/Disease Areas \n (Dollars in millions and rounded)'] == selected]
+    area = "Research/Disease Areas \n (Dollars in millions and rounded)"
+    sub = df[df[area]== selected]
     sub.rename(columns={'2022 Estimated': '2022','2023 Estimated':'2023'})
-
-    melted = pd.melt(sub, id_vars=['Research/Disease Areas \n (Dollars in millions and rounded)'], 
+    melted = pd.melt(sub, id_vars=[area], 
             value_vars=fatal.columns[1:17],
             var_name='year', value_name='value')
     melted['value'] = melted['value'].astype(int)
@@ -234,21 +306,45 @@ def update_map(fund,inst,yr,idx):
                         locations="CODE", 
                         locationmode="USA-states", 
                         scope="usa",
+                        color_continuous_scale="PuBu",
                         range_color=(0, 2*10e5))
     
     return fig
 
 # HIST HOVER
-
 @app.callback(
-    Output('hoverline', 'figure'),
-    [Input('histo', 'hoverData')
+    [Output('hoverline', 'figure'),
+     Output('histo', 'figure'),],
+    [Input('histo', 'hoverData'),
+     Input('fatal_radio', 'value')
      ])
-def update_line(hoverData):
-    df = fatal
+def update_line(hoverData,val):
+    if val == 0:
+        df = fatal10
+        type = 'fatal'
+    else:
+        type = 'nonfatal'
+        df = nonfatal10
     selected_area = hoverData['points'][0]['hovertext']
-    return draw_line(df, selected_area)
+    return draw_line(df, selected_area),get_histo(type,df)
 
+
+# DIST PLOT 
+@app.callback(
+    Output('stacked', 'figure'),
+    Input('div_radio', 'value'))
+def update_stack(val):
+    #0 race, 1 degree, 2 age
+    if val == 0:
+       para = 'race'
+    elif val == 1:
+        para = 'degree'
+    else:
+        para = 'age'
+    return stacked_bar(divsum,para)
 
 if __name__ == '__main__':
     app.run_server(debug=True,port="7001")
+if __name__ == '__main__':
+    app.run_server(debug=True,port="7001")
+
