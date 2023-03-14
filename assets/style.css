@@ -9,7 +9,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #4B9072;
+    background-color: #5a8cca;
     padding-left: 1%;
     padding-right: 1%;
     color:rgb(7, 7, 7);
@@ -27,7 +27,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #4b9072a7;
+    background-color: #4e6db1a7;
     padding-left: 1%;
   }
   
@@ -68,7 +68,7 @@ body {
   
   .box_comment {
     border-radius: 20px;
-    background-color: #d4f5c29a;
+    background-color: #a9bfe09a;
     margin: 10px;
     padding: 10px;
     box-shadow: 2px 2px 2px lightgrey;
@@ -92,7 +92,7 @@ body {
   }
   
   #drop_continent .VirtualizedSelectFocusedOption {
-    background-color:#ebb36abf;
+    background-color:#8d857bbf;
   }
   
   /* Radio buttons */
@@ -113,7 +113,7 @@ body {
     background-color: #F9F9F8;
     padding: 15px 15px;
     font-size: 16px;
-    border: 2px solid #e9a8538e;
+    border: 2px solid #928a7e8e;
     border-radius: 10px;
     width: 200%;
     text-align: center;
@@ -137,7 +137,7 @@ body {
     background: #EDEFEB;        
   }
   *::-webkit-scrollbar-thumb {
-    background-color:#ebb36abf;    
+    background-color:#969087bf;    
     border-radius: 20px;      
     border: 3px solid #EDEFEB;  
   }
