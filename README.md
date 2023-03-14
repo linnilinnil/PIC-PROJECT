@@ -38,4 +38,6 @@ and all of the required pip packages will be installed.
 
 The app will be able to run by running the *app.py* file directly.  
 
+`python3 app.py`  
+
 *(README Reference: Ploly Dash Sample)*
