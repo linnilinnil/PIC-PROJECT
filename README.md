@@ -14,7 +14,7 @@ Run in Terminal/Command Prompt:
 
 Enter the directory:
 
-`ce NIH-Fundings-Dashboard`
+`cd NIH-Fundings-Dashboard`
 
 
 
