@@ -28,8 +28,10 @@ fund_proj = pd.read_csv(path + "fund_proj_avg.csv")
 fatal = pd.read_csv(path+'fatal.csv')
 nonfatal = pd.read_csv(path+'nonfatal.csv')
 divsum = pd.read_csv(path + 'divsum.csv')
+pag = pd.read_csv(path + 'pag.csv')
 #filter options
 years = list(np.arange(2011,2023))
+years2 = list(np.arange(1985,2021))
 fund_mech = ['All','RPGs - SBIR/STTR', 'RPGs - Non SBIR/STTR',
        'Other Research-Related', 'Training - Individual',
        'Training - Institutional', 'Research Centers', 'Other',
@@ -44,6 +46,16 @@ year_slider = daq.Slider(
         id = 'year_slider',
         handleLabel={"showCurrentValue": True,"label": "Year"},
         value = 2022,
+        marks = {str(i):str(i) for i in years},
+        min = min(years),
+        max = max(years),
+        size=450, 
+        color='0c4db4'
+    )
+year2_slider = daq.Slider(
+        id = 'year_slider',
+        handleLabel={"showCurrentValue": True,"label": "Year"},
+        value = 2020,
         marks = {str(i):str(i) for i in years},
         min = min(years),
         max = max(years),
@@ -249,9 +261,28 @@ app.layout = html.Div([
                     #        className='box'),
                 ],
                 className='row'),
-                
-                
-])
+    html.Div([
+                html.Div([
+                            html.Div([
+                                        dcc.Graph(
+                                                id='div-line', 
+                                                figure = dict(),
+                                                hoverData = {'points': [{'hovertext': '2020 '}]},
+                                            ),],
+                                        style={'position':'relative'}),
+                            html.Br(),
+                            html.Br(),],
+                            className = 'box',
+                            style = {'margin-left':"20%","width":"70%"}),
+                html.Div([
+                            dcc.Graph(id='div-bar', 
+                                    figure = dict(),
+                                    hoverData={'points': [{'hovertext': 2020}]},
+                                )],
+                            style={'width': '30%',},
+                            className='box'),],
+                className='row'),        
+ ])
 
 #------------------------------------------------------ CALLBACK ------------------------------------------------------ 
 # helper function to create time series
@@ -343,8 +374,51 @@ def update_stack(val):
         para = 'age'
     return stacked_bar(divsum,para)
 
+# LINEPLOT 
+@app.callback(
+    [Output('div-line', 'figure'),
+    Output('div-bar', 'figure')],
+    [Input('div_radio', 'value'),
+    Input('div-line', 'hoverData')]
+    )
+def update_div(val,hov):
+    #0 race, 1 degree, 2 age
+    if val == 0:
+       para = 'race'
+    elif val == 1:
+        para = 'degree'
+    else:
+        para = 'age'
+    subdiv = divsum.groupby([para,'FY'])['tot_doll'].agg(sum)
+    subdiv = subdiv.reset_index(0).reset_index(0)
+    linefig = px.line(subdiv,x='FY',y='tot_doll',color=para,hover_name = 'FY',
+                hover_data = ['FY'])
+    linefig.update_layout(
+        font=dict(
+                size=10,
+            ))
+    
+    year = hov['points'][0]['hovertext']
+    ag = pag[pag['FY']==int(year)].loc[:,[para,'mean','count']]
+    ag['prod'] = ag['mean'] * ag['count']
+    ag = ag.groupby([para]).agg('sum').apply(lambda x:x['prod'] / x['count'],axis=1)
+    barfig = go.Figure()
+    barfig.add_trace(go.Bar(
+        x=list(ag.index), y=list(ag.values),
+        #error_y=dict(type='data', array=ag['std'])
+        ))
+    barfig.update_layout(
+        font=dict(
+                size=10,
+            ),
+        showlegend=False)
+    barfig.update_xaxes(tickangle=60)
+    barfig.update_yaxes(title_text='avg. fund per PI (USD)')
+    
+    return linefig,barfig
+    
+
+
 if __name__ == '__main__':
-    app.run_server(debug=True,port="7001")
-if __name__ == '__main__':
-    app.run_server(debug=True,port="7001")
+    app.run_server(debug=True,port="7000")
 
