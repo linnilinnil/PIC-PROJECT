@@ -7,9 +7,9 @@ To run the dashboard locally:
 
 We suggest you to create a separate virtual environment running Python 3 for this app, and install all of the required dependencies there. Run in Terminal/Command Prompt:
 
-`git clone https://github.com/linnilinnil/NIH-Fundings-Dashboard/main
+`git clone https://github.com/linnilinnil/NIH-Fundings-Dashboard/main`
 
-python3 -m virtualenv venv`
+`python3 -m virtualenv venv`
 
 In UNIX system:
 
