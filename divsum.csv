@@ -1,0 +1,3289 @@
+,age,degree,gender,FY,race,tot_doll
+0,Early,PhD,Female,1985,American Indian/Alaska Native,245787.16
+1,Early,MD,Male,1985,American Indian/Alaska Native,341255.73
+2,Early,MD-PhD,Male,1985,American Indian/Alaska Native,1243063.03
+3,Early,PhD,Male,1985,American Indian/Alaska Native,931707.97
+4,Early,MD-PhD,Male,1986,American Indian/Alaska Native,1162575.71
+5,Early,PhD,Male,1986,American Indian/Alaska Native,3063484.2399999998
+6,Early,MD,Male,1987,American Indian/Alaska Native,818313.36
+7,Early,MD-PhD,Male,1987,American Indian/Alaska Native,912234.74
+8,Early,PhD,Male,1987,American Indian/Alaska Native,3438982.66
+9,Early,PhD,Female,1988,American Indian/Alaska Native,943658.88
+10,Early,MD,Male,1988,American Indian/Alaska Native,812006.77
+11,Early,MD-PhD,Male,1988,American Indian/Alaska Native,348511.66
+12,Mid,MD-PhD,Male,1988,American Indian/Alaska Native,645479.38
+13,Early,PhD,Male,1988,American Indian/Alaska Native,4066350.41
+14,Early,PhD,Female,1989,American Indian/Alaska Native,890865.47
+15,Early,MD,Male,1989,American Indian/Alaska Native,928200.96
+16,Early,MD-PhD,Male,1989,American Indian/Alaska Native,361392.71
+17,Early,PhD,Male,1989,American Indian/Alaska Native,5664913.42
+18,Early,PhD,Female,1990,American Indian/Alaska Native,1795192.55
+19,Early,MD,Male,1990,American Indian/Alaska Native,990872.23
+20,Early,MD-PhD,Male,1990,American Indian/Alaska Native,724887.2
+21,Early,PhD,Male,1990,American Indian/Alaska Native,3799750.48
+22,Mid,PhD,Male,1990,American Indian/Alaska Native,1991073.54
+23,Early,PhD,Female,1991,American Indian/Alaska Native,1980199.14
+24,Mid,MD,Male,1991,American Indian/Alaska Native,743037.46
+25,Early,MD-PhD,Male,1991,American Indian/Alaska Native,680483.14
+26,Early,PhD,Male,1991,American Indian/Alaska Native,6900078.9
+27,Mid,PhD,Male,1991,American Indian/Alaska Native,3688719.57
+28,Early,PhD,Female,1992,American Indian/Alaska Native,2707927.36
+29,Mid,MD-PhD,Male,1992,American Indian/Alaska Native,891192.53
+30,Early,PhD,Male,1992,American Indian/Alaska Native,9864549.49
+31,Mid,PhD,Male,1992,American Indian/Alaska Native,1076526.4
+32,Early,PhD,Female,1993,American Indian/Alaska Native,3109818.56
+33,Mid,MD,Male,1993,American Indian/Alaska Native,1071879.73
+34,Mid,MD-PhD,Male,1993,American Indian/Alaska Native,521808.97
+35,Early,PhD,Male,1993,American Indian/Alaska Native,9774063.95
+36,Mid,PhD,Male,1993,American Indian/Alaska Native,1933889.32
+37,Early,PhD,Female,1994,American Indian/Alaska Native,2630171.13
+38,Mid,PhD,Female,1994,American Indian/Alaska Native,533580.54
+39,Early,MD,Male,1994,American Indian/Alaska Native,346943.1
+40,Mid,MD,Male,1994,American Indian/Alaska Native,1178816.83
+41,Mid,MD-PhD,Male,1994,American Indian/Alaska Native,527756.6
+42,Early,PhD,Male,1994,American Indian/Alaska Native,11032304.38
+43,Mid,PhD,Male,1994,American Indian/Alaska Native,2193101.9699999997
+44,Early,PhD,Female,1995,American Indian/Alaska Native,1344799.72
+45,Mid,PhD,Female,1995,American Indian/Alaska Native,1777315.35
+46,Early,MD,Male,1995,American Indian/Alaska Native,384000.89
+47,Mid,MD,Male,1995,American Indian/Alaska Native,1145495.84
+48,Mid,MD-PhD,Male,1995,American Indian/Alaska Native,483452.67
+49,Early,PhD,Male,1995,American Indian/Alaska Native,14496997.92
+50,Mid,PhD,Male,1995,American Indian/Alaska Native,1256924.9
+51,Early,PhD,Female,1996,American Indian/Alaska Native,1312568.12
+52,Mid,PhD,Female,1996,American Indian/Alaska Native,1377382.17
+53,Early,MD,Male,1996,American Indian/Alaska Native,356220.65
+54,Mid,MD,Male,1996,American Indian/Alaska Native,1161053.33
+55,Mid,MD-PhD,Male,1996,American Indian/Alaska Native,433337.3
+56,Early,PhD,Male,1996,American Indian/Alaska Native,3420454.18
+57,Mid,PhD,Male,1996,American Indian/Alaska Native,12637355.74
+58,Early,MD-PhD,Female,1997,American Indian/Alaska Native,153741.12
+59,Early,PhD,Female,1997,American Indian/Alaska Native,1056607.33
+60,Mid,PhD,Female,1997,American Indian/Alaska Native,1507274.13
+61,Mid,MD,Male,1997,American Indian/Alaska Native,1179152.98
+62,Mid,MD-PhD,Male,1997,American Indian/Alaska Native,173177.09
+63,Early,PhD,Male,1997,American Indian/Alaska Native,2356441.79
+64,Mid,PhD,Male,1997,American Indian/Alaska Native,16019493.620000001
+65,Early,MD,Female,1998,American Indian/Alaska Native,527136.03
+66,Early,MD-PhD,Female,1998,American Indian/Alaska Native,348185.89
+67,Early,PhD,Female,1998,American Indian/Alaska Native,1837161.71
+68,Mid,PhD,Female,1998,American Indian/Alaska Native,922184.13
+69,Mid,MD-PhD,Male,1998,American Indian/Alaska Native,698493.65
+70,Early,PhD,Male,1998,American Indian/Alaska Native,582422.37
+71,Mid,PhD,Male,1998,American Indian/Alaska Native,15755169.88
+72,Early,MD,Female,1999,American Indian/Alaska Native,469373.28
+73,Early,MD-PhD,Female,1999,American Indian/Alaska Native,870629.48
+74,Early,PhD,Female,1999,American Indian/Alaska Native,2203673.95
+75,Mid,PhD,Female,1999,American Indian/Alaska Native,1382764.57
+76,Early,MD,Male,1999,American Indian/Alaska Native,402224.94
+77,Mid,MD-PhD,Male,1999,American Indian/Alaska Native,677973.58
+78,Early,PhD,Male,1999,American Indian/Alaska Native,1277074.57
+79,Mid,PhD,Male,1999,American Indian/Alaska Native,16788845.39
+80,Early,MD,Female,2000,American Indian/Alaska Native,597510.67
+81,Mid,MD,Female,2000,American Indian/Alaska Native,2361101.16
+82,Early,MD-PhD,Female,2000,American Indian/Alaska Native,881951.19
+83,Early,PhD,Female,2000,American Indian/Alaska Native,2486771.08
+84,Mid,PhD,Female,2000,American Indian/Alaska Native,2069934.92
+85,Mid,MD,Male,2000,American Indian/Alaska Native,694850.68
+86,Mid,MD-PhD,Male,2000,American Indian/Alaska Native,442467.1
+87,Early,PhD,Male,2000,American Indian/Alaska Native,1707357.53
+88,Mid,PhD,Male,2000,American Indian/Alaska Native,12880915.55
+89,Early,MD,Female,2001,American Indian/Alaska Native,127319.33
+90,Mid,MD,Female,2001,American Indian/Alaska Native,2752311.76
+91,Early,MD-PhD,Female,2001,American Indian/Alaska Native,1217948.54
+92,Mid,Other,Female,2001,American Indian/Alaska Native,126476.16
+93,Early,PhD,Female,2001,American Indian/Alaska Native,1650409.32
+94,Mid,PhD,Female,2001,American Indian/Alaska Native,3028458.12
+95,Early,MD,Male,2001,American Indian/Alaska Native,1043881.93
+96,Mid,MD,Male,2001,American Indian/Alaska Native,691568.26
+97,Mid,MD-PhD,Male,2001,American Indian/Alaska Native,468894.34
+98,Early,PhD,Male,2001,American Indian/Alaska Native,1208715.79
+99,Mid,PhD,Male,2001,American Indian/Alaska Native,11048842.530000001
+100,Mid,MD,Female,2002,American Indian/Alaska Native,2881942.71
+101,Early,MD-PhD,Female,2002,American Indian/Alaska Native,1107452.47
+102,Early,PhD,Female,2002,American Indian/Alaska Native,2137887.26
+103,Mid,PhD,Female,2002,American Indian/Alaska Native,2366265.02
+104,Early,MD,Male,2002,American Indian/Alaska Native,1405530.39
+105,Mid,MD,Male,2002,American Indian/Alaska Native,687469.06
+106,Mid,MD-PhD,Male,2002,American Indian/Alaska Native,578050.53
+107,Early,PhD,Male,2002,American Indian/Alaska Native,844689.03
+108,Mid,PhD,Male,2002,American Indian/Alaska Native,13178715.14
+109,Early,MD,Female,2003,American Indian/Alaska Native,161484.26
+110,Mid,MD,Female,2003,American Indian/Alaska Native,1983984.67
+111,Early,MD-PhD,Female,2003,American Indian/Alaska Native,1120564.46
+112,Early,PhD,Female,2003,American Indian/Alaska Native,2320723.89
+113,Mid,PhD,Female,2003,American Indian/Alaska Native,1974304.3499999999
+114,Early,MD,Male,2003,American Indian/Alaska Native,3205280.2800000003
+115,Mid,MD,Male,2003,American Indian/Alaska Native,682078.6
+116,Mid,MD-PhD,Male,2003,American Indian/Alaska Native,504464.67
+117,Early,PhD,Male,2003,American Indian/Alaska Native,285410.97
+118,Late,PhD,Male,2003,American Indian/Alaska Native,810556.11
+119,Mid,PhD,Male,2003,American Indian/Alaska Native,13781566.89
+120,Early,MD,Female,2004,American Indian/Alaska Native,110975.96
+121,Late,MD,Female,2004,American Indian/Alaska Native,2054771.5
+122,Mid,MD,Female,2004,American Indian/Alaska Native,146622.04
+123,Early,MD-PhD,Female,2004,American Indian/Alaska Native,643225.76
+124,Early,PhD,Female,2004,American Indian/Alaska Native,1121656.79
+125,Mid,PhD,Female,2004,American Indian/Alaska Native,3883673.5
+126,Early,MD,Male,2004,American Indian/Alaska Native,2695460.0199999996
+127,Late,MD,Male,2004,American Indian/Alaska Native,909396.27
+128,Mid,MD,Male,2004,American Indian/Alaska Native,327196.64
+129,Early,MD-PhD,Male,2004,American Indian/Alaska Native,667936.91
+130,Mid,MD-PhD,Male,2004,American Indian/Alaska Native,486345.28
+131,Early,PhD,Male,2004,American Indian/Alaska Native,983882.41
+132,Late,PhD,Male,2004,American Indian/Alaska Native,4288662.76
+133,Mid,PhD,Male,2004,American Indian/Alaska Native,11465506.68
+134,Early,MD,Female,2005,American Indian/Alaska Native,106820.17
+135,Late,MD,Female,2005,American Indian/Alaska Native,1609794.64
+136,Mid,MD,Female,2005,American Indian/Alaska Native,526345.43
+137,Early,MD-PhD,Female,2005,American Indian/Alaska Native,459180.41
+138,Mid,Other,Female,2005,American Indian/Alaska Native,300750.0
+139,Early,PhD,Female,2005,American Indian/Alaska Native,948222.19
+140,Mid,PhD,Female,2005,American Indian/Alaska Native,2798934.36
+141,Early,MD,Male,2005,American Indian/Alaska Native,3113970.4699999997
+142,Late,MD,Male,2005,American Indian/Alaska Native,816390.0
+143,Early,MD-PhD,Male,2005,American Indian/Alaska Native,630211.22
+144,Late,MD-PhD,Male,2005,American Indian/Alaska Native,468132.82
+145,Early,PhD,Male,2005,American Indian/Alaska Native,891925.02
+146,Late,PhD,Male,2005,American Indian/Alaska Native,3431440.01
+147,Mid,PhD,Male,2005,American Indian/Alaska Native,10561775.81
+148,Late,MD,Female,2006,American Indian/Alaska Native,1543030.2
+149,Mid,MD,Female,2006,American Indian/Alaska Native,855557.17
+150,Mid,Other,Female,2006,American Indian/Alaska Native,226564.31
+151,Early,PhD,Female,2006,American Indian/Alaska Native,1823683.24
+152,Mid,PhD,Female,2006,American Indian/Alaska Native,4782467.649999999
+153,Early,MD,Male,2006,American Indian/Alaska Native,1330552.03
+154,Late,MD,Male,2006,American Indian/Alaska Native,788259.18
+155,Mid,MD,Male,2006,American Indian/Alaska Native,484560.92
+156,Early,MD-PhD,Male,2006,American Indian/Alaska Native,503603.51
+157,Late,MD-PhD,Male,2006,American Indian/Alaska Native,436905.49
+158,Early,PhD,Male,2006,American Indian/Alaska Native,1198897.2
+159,Late,PhD,Male,2006,American Indian/Alaska Native,7495723.48
+160,Mid,PhD,Male,2006,American Indian/Alaska Native,5388362.15
+161,Late,MD,Female,2007,American Indian/Alaska Native,1546376.5
+162,Mid,MD,Female,2007,American Indian/Alaska Native,800379.9099999999
+163,Early,MD-PhD,Female,2007,American Indian/Alaska Native,508988.96
+164,Mid,Other,Female,2007,American Indian/Alaska Native,194072.0
+165,Early,PhD,Female,2007,American Indian/Alaska Native,2138244.1
+166,Late,PhD,Female,2007,American Indian/Alaska Native,615050.0
+167,Mid,PhD,Female,2007,American Indian/Alaska Native,3750188.89
+168,Early,MD,Male,2007,American Indian/Alaska Native,1234728.3900000001
+169,Late,MD,Male,2007,American Indian/Alaska Native,648091.5
+170,Mid,MD,Male,2007,American Indian/Alaska Native,1484082.45
+171,Early,MD-PhD,Male,2007,American Indian/Alaska Native,573341.87
+172,Late,MD-PhD,Male,2007,American Indian/Alaska Native,507238.66
+173,Early,PhD,Male,2007,American Indian/Alaska Native,2738829.5
+174,Late,PhD,Male,2007,American Indian/Alaska Native,5238011.78
+175,Mid,PhD,Male,2007,American Indian/Alaska Native,4352441.06
+176,Late,MD,Female,2008,American Indian/Alaska Native,1360776.98
+177,Mid,MD,Female,2008,American Indian/Alaska Native,430224.16
+178,Early,MD-PhD,Female,2008,American Indian/Alaska Native,476504.41
+179,Early,PhD,Female,2008,American Indian/Alaska Native,2179053.72
+180,Late,PhD,Female,2008,American Indian/Alaska Native,668047.09
+181,Mid,PhD,Female,2008,American Indian/Alaska Native,2905082.73
+182,Early,MD,Male,2008,American Indian/Alaska Native,644863.8500000001
+183,Late,MD,Male,2008,American Indian/Alaska Native,496702.7
+184,Mid,MD,Male,2008,American Indian/Alaska Native,2456762.87
+185,Early,MD-PhD,Male,2008,American Indian/Alaska Native,547704.29
+186,Late,MD-PhD,Male,2008,American Indian/Alaska Native,452932.44
+187,Early,Other,Male,2008,American Indian/Alaska Native,52033.9
+188,Early,PhD,Male,2008,American Indian/Alaska Native,2972630.89
+189,Late,PhD,Male,2008,American Indian/Alaska Native,4392725.9
+190,Mid,PhD,Male,2008,American Indian/Alaska Native,3274237.05
+191,Late,MD,Female,2009,American Indian/Alaska Native,794164.77
+192,Mid,MD,Female,2009,American Indian/Alaska Native,779314.36
+193,Early,MD-PhD,Female,2009,American Indian/Alaska Native,878753.94
+194,Mid,MD-PhD,Female,2009,American Indian/Alaska Native,472399.27
+195,Early,PhD,Female,2009,American Indian/Alaska Native,2613177.73
+196,Late,PhD,Female,2009,American Indian/Alaska Native,1177033.9100000001
+197,Mid,PhD,Female,2009,American Indian/Alaska Native,2362717.95
+198,Early,MD,Male,2009,American Indian/Alaska Native,1955143.98
+199,Mid,MD,Male,2009,American Indian/Alaska Native,2303873.44
+200,Early,MD-PhD,Male,2009,American Indian/Alaska Native,532126.05
+201,Late,MD-PhD,Male,2009,American Indian/Alaska Native,916183.22
+202,Early,Other,Male,2009,American Indian/Alaska Native,50553.91
+203,Early,PhD,Male,2009,American Indian/Alaska Native,2944841.41
+204,Late,PhD,Male,2009,American Indian/Alaska Native,3649184.66
+205,Mid,PhD,Male,2009,American Indian/Alaska Native,3421203.72
+206,Mid,MD,Female,2010,American Indian/Alaska Native,346894.92
+207,Early,MD-PhD,Female,2010,American Indian/Alaska Native,930410.98
+208,Mid,MD-PhD,Female,2010,American Indian/Alaska Native,458457.58
+209,Early,PhD,Female,2010,American Indian/Alaska Native,1556162.2
+210,Late,PhD,Female,2010,American Indian/Alaska Native,1077254.55
+211,Mid,PhD,Female,2010,American Indian/Alaska Native,2640349.13
+212,Early,MD,Male,2010,American Indian/Alaska Native,743685.55
+213,Mid,MD,Male,2010,American Indian/Alaska Native,1957693.35
+214,Early,MD-PhD,Male,2010,American Indian/Alaska Native,516421.67
+215,Late,MD-PhD,Male,2010,American Indian/Alaska Native,889150.41
+216,Early,PhD,Male,2010,American Indian/Alaska Native,2883310.43
+217,Late,PhD,Male,2010,American Indian/Alaska Native,4702730.41
+218,Mid,PhD,Male,2010,American Indian/Alaska Native,1571244.27
+219,Mid,MD,Female,2011,American Indian/Alaska Native,322255.71
+220,Early,MD-PhD,Female,2011,American Indian/Alaska Native,884694.71
+221,Mid,MD-PhD,Female,2011,American Indian/Alaska Native,445705.93
+222,Early,Other,Female,2011,American Indian/Alaska Native,26777.75
+223,Early,PhD,Female,2011,American Indian/Alaska Native,888912.8500000001
+224,Mid,PhD,Female,2011,American Indian/Alaska Native,1856057.54
+225,Early,MD,Male,2011,American Indian/Alaska Native,1450212.07
+226,Mid,MD,Male,2011,American Indian/Alaska Native,681455.1699999999
+227,Late,MD-PhD,Male,2011,American Indian/Alaska Native,779810.17
+228,Mid,MD-PhD,Male,2011,American Indian/Alaska Native,502057.79
+229,Early,PhD,Male,2011,American Indian/Alaska Native,1677853.6300000001
+230,Late,PhD,Male,2011,American Indian/Alaska Native,4179752.36
+231,Mid,PhD,Male,2011,American Indian/Alaska Native,2095765.34
+232,Early,MD,Female,2012,American Indian/Alaska Native,209520.44
+233,Early,MD-PhD,Female,2012,American Indian/Alaska Native,1341258.19
+234,Early,Other,Female,2012,American Indian/Alaska Native,25953.27
+235,Early,PhD,Female,2012,American Indian/Alaska Native,752234.89
+236,Mid,PhD,Female,2012,American Indian/Alaska Native,2009271.35
+237,Early,MD,Male,2012,American Indian/Alaska Native,917538.78
+238,Mid,MD,Male,2012,American Indian/Alaska Native,805341.36
+239,Early,PhD,Male,2012,American Indian/Alaska Native,1641341.92
+240,Late,PhD,Male,2012,American Indian/Alaska Native,3452358.6799999997
+241,Mid,PhD,Male,2012,American Indian/Alaska Native,1911554.55
+242,Early,MD,Female,2013,American Indian/Alaska Native,191663.16
+243,Mid,MD-PhD,Female,2013,American Indian/Alaska Native,1172851.22
+244,Early,PhD,Female,2013,American Indian/Alaska Native,2001746.4100000001
+245,Late,PhD,Female,2013,American Indian/Alaska Native,456688.78
+246,Mid,PhD,Female,2013,American Indian/Alaska Native,2303572.46
+247,Early,MD,Male,2013,American Indian/Alaska Native,1861500.8800000001
+248,Late,MD,Male,2013,American Indian/Alaska Native,127235.69
+249,Mid,MD,Male,2013,American Indian/Alaska Native,1328737.71
+250,Early,MD-PhD,Male,2013,American Indian/Alaska Native,260580.62
+251,Early,PhD,Male,2013,American Indian/Alaska Native,3183336.09
+252,Late,PhD,Male,2013,American Indian/Alaska Native,2114054.88
+253,Mid,PhD,Male,2013,American Indian/Alaska Native,2004872.3
+254,Mid,MD-PhD,Female,2014,American Indian/Alaska Native,1344019.38
+255,Early,PhD,Female,2014,American Indian/Alaska Native,1968061.44
+256,Late,PhD,Female,2014,American Indian/Alaska Native,1665138.0
+257,Mid,PhD,Female,2014,American Indian/Alaska Native,3529880.75
+258,Early,MD,Male,2014,American Indian/Alaska Native,427009.0
+259,Late,MD,Male,2014,American Indian/Alaska Native,120856.37
+260,Mid,MD,Male,2014,American Indian/Alaska Native,1725697.15
+261,Early,MD-PhD,Male,2014,American Indian/Alaska Native,869348.94
+262,Mid,MD-PhD,Male,2014,American Indian/Alaska Native,206628.83
+263,Early,PhD,Male,2014,American Indian/Alaska Native,4345446.63
+264,Late,PhD,Male,2014,American Indian/Alaska Native,4018366.1399999997
+265,Mid,PhD,Male,2014,American Indian/Alaska Native,2545784.33
+266,Late,MD,Female,2015,American Indian/Alaska Native,1100361.7
+267,Mid,MD-PhD,Female,2015,American Indian/Alaska Native,953055.43
+268,Early,PhD,Female,2015,American Indian/Alaska Native,2422497.66
+269,Late,PhD,Female,2015,American Indian/Alaska Native,1324368.52
+270,Mid,PhD,Female,2015,American Indian/Alaska Native,4380937.76
+271,Early,MD,Male,2015,American Indian/Alaska Native,372089.35
+272,Late,MD,Male,2015,American Indian/Alaska Native,118447.15
+273,Mid,MD,Male,2015,American Indian/Alaska Native,3440513.8
+274,Early,MD-PhD,Male,2015,American Indian/Alaska Native,797972.89
+275,Mid,MD-PhD,Male,2015,American Indian/Alaska Native,228381.28
+276,Early,PhD,Male,2015,American Indian/Alaska Native,3482524.64
+277,Late,PhD,Male,2015,American Indian/Alaska Native,3505409.0700000003
+278,Mid,PhD,Male,2015,American Indian/Alaska Native,3352887.35
+279,Early,MD,Female,2016,American Indian/Alaska Native,709021.9199999999
+280,Late,MD,Female,2016,American Indian/Alaska Native,1118895.5
+281,Mid,MD-PhD,Female,2016,American Indian/Alaska Native,932776.86
+282,Early,PhD,Female,2016,American Indian/Alaska Native,3222458.22
+283,Late,PhD,Female,2016,American Indian/Alaska Native,2268733.54
+284,Mid,PhD,Female,2016,American Indian/Alaska Native,4457156.96
+285,Early,MD,Male,2016,American Indian/Alaska Native,369569.88
+286,Late,MD,Male,2016,American Indian/Alaska Native,115926.9
+287,Mid,MD,Male,2016,American Indian/Alaska Native,3322636.98
+288,Early,MD-PhD,Male,2016,American Indian/Alaska Native,569664.48
+289,Mid,MD-PhD,Male,2016,American Indian/Alaska Native,232552.33
+290,Early,PhD,Male,2016,American Indian/Alaska Native,4030357.24
+291,Late,PhD,Male,2016,American Indian/Alaska Native,3632488.0700000003
+292,Mid,PhD,Male,2016,American Indian/Alaska Native,3668712.25
+293,Early,MD,Female,2017,American Indian/Alaska Native,704933.76
+294,Late,MD,Female,2017,American Indian/Alaska Native,1115958.13
+295,Mid,MD-PhD,Female,2017,American Indian/Alaska Native,962981.69
+296,Early,PhD,Female,2017,American Indian/Alaska Native,3465161.0
+297,Late,PhD,Female,2017,American Indian/Alaska Native,5042414.87
+298,Mid,PhD,Female,2017,American Indian/Alaska Native,3723059.2600000002
+299,Early,MD,Male,2017,American Indian/Alaska Native,401418.99
+300,Late,MD,Male,2017,American Indian/Alaska Native,343044.83999999997
+301,Mid,MD,Male,2017,American Indian/Alaska Native,2573381.0300000003
+302,Early,MD-PhD,Male,2017,American Indian/Alaska Native,366317.88
+303,Mid,MD-PhD,Male,2017,American Indian/Alaska Native,227836.64
+304,Early,PhD,Male,2017,American Indian/Alaska Native,4624562.85
+305,Late,PhD,Male,2017,American Indian/Alaska Native,12650334.93
+306,Mid,PhD,Male,2017,American Indian/Alaska Native,318187.9
+307,Early,MD,Female,2018,American Indian/Alaska Native,435251.97
+308,Late,MD,Female,2018,American Indian/Alaska Native,1141034.05
+309,Mid,MD-PhD,Female,2018,American Indian/Alaska Native,1307164.06
+310,Mid,Other,Female,2018,American Indian/Alaska Native,250669.81
+311,Early,PhD,Female,2018,American Indian/Alaska Native,3500473.16
+312,Late,PhD,Female,2018,American Indian/Alaska Native,716838.22
+313,Mid,PhD,Female,2018,American Indian/Alaska Native,4197586.21
+314,Early,MD,Male,2018,American Indian/Alaska Native,356750.21
+315,Late,MD,Male,2018,American Indian/Alaska Native,26969.87
+316,Mid,MD,Male,2018,American Indian/Alaska Native,1604333.88
+317,Early,MD-PhD,Male,2018,American Indian/Alaska Native,357401.71
+318,Late,MD-PhD,Male,2018,American Indian/Alaska Native,125804.72
+319,Mid,MD-PhD,Male,2018,American Indian/Alaska Native,222291.1
+320,Early,PhD,Male,2018,American Indian/Alaska Native,3295279.98
+321,Late,PhD,Male,2018,American Indian/Alaska Native,6092117.84
+322,Mid,PhD,Male,2018,American Indian/Alaska Native,2645962.7800000003
+323,Early,MD,Female,2019,American Indian/Alaska Native,329400.92
+324,Late,MD,Female,2019,American Indian/Alaska Native,1332990.69
+325,Mid,MD-PhD,Female,2019,American Indian/Alaska Native,722879.83
+326,Mid,Other,Female,2019,American Indian/Alaska Native,351571.42
+327,Early,PhD,Female,2019,American Indian/Alaska Native,4577089.08
+328,Late,PhD,Female,2019,American Indian/Alaska Native,2321581.12
+329,Mid,PhD,Female,2019,American Indian/Alaska Native,3547710.5
+330,Early,MD,Male,2019,American Indian/Alaska Native,350454.92
+331,Late,MD,Male,2019,American Indian/Alaska Native,217466.28
+332,Mid,MD,Male,2019,American Indian/Alaska Native,4255381.16
+333,Late,MD-PhD,Male,2019,American Indian/Alaska Native,118199.31
+334,Mid,MD-PhD,Male,2019,American Indian/Alaska Native,458771.39
+335,Early,Other,Male,2019,American Indian/Alaska Native,202159.95
+336,Early,PhD,Male,2019,American Indian/Alaska Native,7774884.33
+337,Late,PhD,Male,2019,American Indian/Alaska Native,7328580.75
+338,Mid,PhD,Male,2019,American Indian/Alaska Native,3186300.24
+339,Early,MD,Female,2020,American Indian/Alaska Native,326398.19
+340,Late,MD,Female,2020,American Indian/Alaska Native,599861.26
+341,Mid,MD,Female,2020,American Indian/Alaska Native,160679.65
+342,Early,MD-PhD,Female,2020,American Indian/Alaska Native,164386.22
+343,Mid,MD-PhD,Female,2020,American Indian/Alaska Native,539501.79
+344,Mid,Other,Female,2020,American Indian/Alaska Native,321126.02
+345,Early,PhD,Female,2020,American Indian/Alaska Native,4582798.4
+346,Late,PhD,Female,2020,American Indian/Alaska Native,3112503.61
+347,Mid,PhD,Female,2020,American Indian/Alaska Native,3761993.73
+348,Early,MD,Male,2020,American Indian/Alaska Native,842339.6000000001
+349,Late,MD,Male,2020,American Indian/Alaska Native,80679.18
+350,Mid,MD,Male,2020,American Indian/Alaska Native,3877324.1100000003
+351,Late,MD-PhD,Male,2020,American Indian/Alaska Native,116349.35
+352,Mid,MD-PhD,Male,2020,American Indian/Alaska Native,171680.24
+353,Early,Other,Male,2020,American Indian/Alaska Native,199973.38
+354,Early,PhD,Male,2020,American Indian/Alaska Native,4944318.81
+355,Late,PhD,Male,2020,American Indian/Alaska Native,3405566.84
+356,Mid,PhD,Male,2020,American Indian/Alaska Native,4203131.2
+357,Early,MD,Female,1985,Asian,1930137.1400000001
+358,Early,MD-PhD,Female,1985,Asian,828554.91
+359,Early,PhD,Female,1985,Asian,17664739.97
+360,Mid,PhD,Female,1985,Asian,4589600.55
+361,Early,MD,Male,1985,Asian,12218263.73
+362,Mid,MD,Male,1985,Asian,6816978.15
+363,Early,MD-PhD,Male,1985,Asian,10059019.72
+364,Late,MD-PhD,Male,1985,Asian,2045701.69
+365,Mid,MD-PhD,Male,1985,Asian,17341270.48
+366,Early,Other,Male,1985,Asian,840211.21
+367,Early,PhD,Male,1985,Asian,90337883.11
+368,Late,PhD,Male,1985,Asian,2428441.73
+369,Mid,PhD,Male,1985,Asian,42816115.74
+370,Early,MD,Female,1986,Asian,1821956.21
+371,Early,MD-PhD,Female,1986,Asian,722973.55
+372,Mid,MD-PhD,Female,1986,Asian,809273.46
+373,Early,PhD,Female,1986,Asian,20778343.89
+374,Mid,PhD,Female,1986,Asian,4981059.0
+375,Early,MD,Male,1986,Asian,10759595.290000001
+376,Mid,MD,Male,1986,Asian,10077850.65
+377,Early,MD-PhD,Male,1986,Asian,10202968.67
+378,Late,MD-PhD,Male,1986,Asian,1795094.94
+379,Mid,MD-PhD,Male,1986,Asian,17190382.849999998
+380,Early,Other,Male,1986,Asian,439617.32
+381,Mid,Other,Male,1986,Asian,315227.07
+382,Early,PhD,Male,1986,Asian,95032502.08
+383,Late,PhD,Male,1986,Asian,2197498.29
+384,Mid,PhD,Male,1986,Asian,53754464.14
+385,Early,MD,Female,1987,Asian,3719860.07
+386,Mid,MD,Female,1987,Asian,498356.51
+387,Early,MD-PhD,Female,1987,Asian,802818.63
+388,Mid,MD-PhD,Female,1987,Asian,850417.01
+389,Early,PhD,Female,1987,Asian,23449755.18
+390,Mid,PhD,Female,1987,Asian,6726251.05
+391,Early,MD,Male,1987,Asian,13592095.81
+392,Mid,MD,Male,1987,Asian,13095898.54
+393,Early,MD-PhD,Male,1987,Asian,12961800.84
+394,Late,MD-PhD,Male,1987,Asian,3192281.77
+395,Mid,MD-PhD,Male,1987,Asian,17425290.31
+396,Early,Other,Male,1987,Asian,318356.13
+397,Mid,Other,Male,1987,Asian,466160.74
+398,Early,PhD,Male,1987,Asian,110298853.26
+399,Late,PhD,Male,1987,Asian,3130009.16
+400,Mid,PhD,Male,1987,Asian,58920318.32
+401,Early,MD,Female,1988,Asian,2992909.18
+402,Mid,MD,Female,1988,Asian,968963.4099999999
+403,Early,MD-PhD,Female,1988,Asian,246997.44
+404,Mid,MD-PhD,Female,1988,Asian,760811.02
+405,Early,PhD,Female,1988,Asian,24444933.61
+406,Mid,PhD,Female,1988,Asian,9393927.43
+407,Early,MD,Male,1988,Asian,15670665.61
+408,Mid,MD,Male,1988,Asian,13092800.14
+409,Early,MD-PhD,Male,1988,Asian,10907853.93
+410,Late,MD-PhD,Male,1988,Asian,5812442.53
+411,Mid,MD-PhD,Male,1988,Asian,10541017.75
+412,Early,Other,Male,1988,Asian,877850.6499999999
+413,Mid,Other,Male,1988,Asian,419997.64
+414,Early,PhD,Male,1988,Asian,112630689.61
+415,Late,PhD,Male,1988,Asian,6852439.58
+416,Mid,PhD,Male,1988,Asian,73961319.67
+417,Early,MD,Female,1989,Asian,5294837.09
+418,Mid,MD,Female,1989,Asian,1465716.26
+419,Early,MD-PhD,Female,1989,Asian,504091.62
+420,Mid,MD-PhD,Female,1989,Asian,756855.4099999999
+421,Early,PhD,Female,1989,Asian,27792149.490000002
+422,Mid,PhD,Female,1989,Asian,9918399.01
+423,Early,MD,Male,1989,Asian,19440032.25
+424,Mid,MD,Male,1989,Asian,12634106.09
+425,Early,MD-PhD,Male,1989,Asian,10849782.06
+426,Late,MD-PhD,Male,1989,Asian,5342792.5600000005
+427,Mid,MD-PhD,Male,1989,Asian,16897924.99
+428,Early,Other,Male,1989,Asian,866094.1599999999
+429,Mid,Other,Male,1989,Asian,373547.72
+430,Early,PhD,Male,1989,Asian,112739484.77
+431,Late,PhD,Male,1989,Asian,7202222.82
+432,Mid,PhD,Male,1989,Asian,85439373.5
+433,Early,MD,Female,1990,Asian,7198627.449999999
+434,Mid,MD,Female,1990,Asian,1117880.19
+435,Early,MD-PhD,Female,1990,Asian,607692.81
+436,Mid,MD-PhD,Female,1990,Asian,1019133.8400000001
+437,Early,PhD,Female,1990,Asian,29679009.78
+438,Mid,PhD,Female,1990,Asian,9598113.88
+439,Early,MD,Male,1990,Asian,26191924.31
+440,Mid,MD,Male,1990,Asian,13971652.14
+441,Early,MD-PhD,Male,1990,Asian,13228435.54
+442,Late,MD-PhD,Male,1990,Asian,12273618.95
+443,Mid,MD-PhD,Male,1990,Asian,9999172.81
+444,Early,Other,Male,1990,Asian,842904.74
+445,Mid,Other,Male,1990,Asian,307340.48
+446,Early,PhD,Male,1990,Asian,108259568.25
+447,Late,PhD,Male,1990,Asian,13267536.62
+448,Mid,PhD,Male,1990,Asian,89954564.11
+449,Early,MD,Female,1991,Asian,7666954.77
+450,Mid,MD,Female,1991,Asian,1550598.29
+451,Early,MD-PhD,Female,1991,Asian,1194856.68
+452,Mid,MD-PhD,Female,1991,Asian,1130208.34
+453,Early,PhD,Female,1991,Asian,29707026.52
+454,Late,PhD,Female,1991,Asian,117906.89
+455,Mid,PhD,Female,1991,Asian,14665165.24
+456,Early,MD,Male,1991,Asian,24804295.11
+457,Mid,MD,Male,1991,Asian,20429866.79
+458,Early,MD-PhD,Male,1991,Asian,17597978.95
+459,Late,MD-PhD,Male,1991,Asian,11957136.280000001
+460,Mid,MD-PhD,Male,1991,Asian,9491969.58
+461,Early,Other,Male,1991,Asian,505009.38
+462,Mid,Other,Male,1991,Asian,392757.3
+463,Early,PhD,Male,1991,Asian,105688552.34
+464,Late,PhD,Male,1991,Asian,17401100.45
+465,Mid,PhD,Male,1991,Asian,105440513.93
+466,Early,MD,Female,1992,Asian,12313610.209999999
+467,Mid,MD,Female,1992,Asian,1010430.9099999999
+468,Early,MD-PhD,Female,1992,Asian,1575832.45
+469,Late,MD-PhD,Female,1992,Asian,474704.03
+470,Mid,MD-PhD,Female,1992,Asian,819193.29
+471,Early,PhD,Female,1992,Asian,35725701.39
+472,Late,PhD,Female,1992,Asian,505433.4
+473,Mid,PhD,Female,1992,Asian,19409932.240000002
+474,Early,MD,Male,1992,Asian,27319315.61
+475,Late,MD,Male,1992,Asian,806640.45
+476,Mid,MD,Male,1992,Asian,24322054.2
+477,Early,MD-PhD,Male,1992,Asian,23628615.14
+478,Late,MD-PhD,Male,1992,Asian,11146693.489999998
+479,Mid,MD-PhD,Male,1992,Asian,10154012.28
+480,Early,Other,Male,1992,Asian,417895.56
+481,Mid,Other,Male,1992,Asian,498427.48
+482,Early,PhD,Male,1992,Asian,118928885.88
+483,Late,PhD,Male,1992,Asian,16137066.32
+484,Mid,PhD,Male,1992,Asian,120201787.96
+485,Early,MD,Female,1993,Asian,12590991.59
+486,Mid,MD,Female,1993,Asian,1638213.96
+487,Early,MD-PhD,Female,1993,Asian,2458917.38
+488,Late,MD-PhD,Female,1993,Asian,472415.82
+489,Mid,MD-PhD,Female,1993,Asian,836890.44
+490,Early,PhD,Female,1993,Asian,34593966.11
+491,Late,PhD,Female,1993,Asian,799058.8200000001
+492,Mid,PhD,Female,1993,Asian,26321233.91
+493,Early,MD,Male,1993,Asian,27619631.62
+494,Late,MD,Male,1993,Asian,3703285.5
+495,Mid,MD,Male,1993,Asian,27269131.76
+496,Early,MD-PhD,Male,1993,Asian,25477809.29
+497,Late,MD-PhD,Male,1993,Asian,12026627.27
+498,Mid,MD-PhD,Male,1993,Asian,11289344.26
+499,Early,Other,Male,1993,Asian,489675.14
+500,Mid,Other,Male,1993,Asian,522682.53
+501,Early,PhD,Male,1993,Asian,111228965.23
+502,Late,PhD,Male,1993,Asian,20746210.55
+503,Mid,PhD,Male,1993,Asian,134499099.06
+504,Early,MD,Female,1994,Asian,10769341.709999999
+505,Mid,MD,Female,1994,Asian,4092040.07
+506,Early,MD-PhD,Female,1994,Asian,2465883.34
+507,Late,MD-PhD,Female,1994,Asian,470368.67
+508,Mid,MD-PhD,Female,1994,Asian,1220299.3
+509,Early,PhD,Female,1994,Asian,35935743.33
+510,Late,PhD,Female,1994,Asian,1901427.47
+511,Mid,PhD,Female,1994,Asian,28311359.0
+512,Early,MD,Male,1994,Asian,31384656.62
+513,Late,MD,Male,1994,Asian,3626942.38
+514,Mid,MD,Male,1994,Asian,29705249.67
+515,Early,MD-PhD,Male,1994,Asian,28174119.97
+516,Late,MD-PhD,Male,1994,Asian,13972467.03
+517,Mid,MD-PhD,Male,1994,Asian,12079466.41
+518,Early,Other,Male,1994,Asian,376249.94
+519,Mid,Other,Male,1994,Asian,527794.44
+520,Early,PhD,Male,1994,Asian,105186618.96
+521,Late,PhD,Male,1994,Asian,20300460.27
+522,Mid,PhD,Male,1994,Asian,140775232.13
+523,Early,MD,Female,1995,Asian,13438854.63
+524,Mid,MD,Female,1995,Asian,6150421.55
+525,Early,MD-PhD,Female,1995,Asian,4352197.73
+526,Late,MD-PhD,Female,1995,Asian,476559.73
+527,Mid,MD-PhD,Female,1995,Asian,1903306.57
+528,Early,PhD,Female,1995,Asian,35732434.59
+529,Late,PhD,Female,1995,Asian,1620183.98
+530,Mid,PhD,Female,1995,Asian,33759117.589999996
+531,Early,MD,Male,1995,Asian,33935515.44
+532,Late,MD,Male,1995,Asian,2878931.7
+533,Mid,MD,Male,1995,Asian,35090539.910000004
+534,Early,MD-PhD,Male,1995,Asian,36849586.5
+535,Late,MD-PhD,Male,1995,Asian,13455879.69
+536,Mid,MD-PhD,Male,1995,Asian,15867747.76
+537,Mid,Other,Male,1995,Asian,523471.13
+538,Early,PhD,Male,1995,Asian,120272734.85
+539,Late,PhD,Male,1995,Asian,31605328.31
+540,Mid,PhD,Male,1995,Asian,135270568.21
+541,Early,MD,Female,1996,Asian,13402352.07
+542,Mid,MD,Female,1996,Asian,10647011.14
+543,Early,MD-PhD,Female,1996,Asian,4723648.21
+544,Late,MD-PhD,Female,1996,Asian,1052370.77
+545,Mid,MD-PhD,Female,1996,Asian,1864138.4
+546,Early,PhD,Female,1996,Asian,42873015.57
+547,Late,PhD,Female,1996,Asian,1925637.55
+548,Mid,PhD,Female,1996,Asian,40597168.96
+549,Early,MD,Male,1996,Asian,35498859.08
+550,Late,MD,Male,1996,Asian,3662612.73
+551,Mid,MD,Male,1996,Asian,26691248.38
+552,Early,MD-PhD,Male,1996,Asian,34617658.71
+553,Late,MD-PhD,Male,1996,Asian,14103641.98
+554,Mid,MD-PhD,Male,1996,Asian,19779474.72
+555,Early,Other,Male,1996,Asian,415774.04
+556,Mid,Other,Male,1996,Asian,522881.38
+557,Early,PhD,Male,1996,Asian,125685657.8
+558,Late,PhD,Male,1996,Asian,36082997.87
+559,Mid,PhD,Male,1996,Asian,149183543.93
+560,Early,MD,Female,1997,Asian,13174592.67
+561,Late,MD,Female,1997,Asian,1146716.01
+562,Mid,MD,Female,1997,Asian,11633578.370000001
+563,Early,MD-PhD,Female,1997,Asian,7911065.27
+564,Late,MD-PhD,Female,1997,Asian,1061530.9
+565,Mid,MD-PhD,Female,1997,Asian,2447549.07
+566,Early,Other,Female,1997,Asian,19206.56
+567,Early,PhD,Female,1997,Asian,54149407.32
+568,Late,PhD,Female,1997,Asian,3282001.91
+569,Mid,PhD,Female,1997,Asian,39808822.68
+570,Early,MD,Male,1997,Asian,37799357.77
+571,Late,MD,Male,1997,Asian,4552038.55
+572,Mid,MD,Male,1997,Asian,35637717.06
+573,Early,MD-PhD,Male,1997,Asian,39184381.21
+574,Late,MD-PhD,Male,1997,Asian,13926559.31
+575,Mid,MD-PhD,Male,1997,Asian,30997110.150000002
+576,Early,Other,Male,1997,Asian,420068.95
+577,Mid,Other,Male,1997,Asian,546088.48
+578,Early,PhD,Male,1997,Asian,147945841.93
+579,Late,PhD,Male,1997,Asian,42651844.05
+580,Mid,PhD,Male,1997,Asian,163358604.68
+581,Early,MD,Female,1998,Asian,10818818.53
+582,Late,MD,Female,1998,Asian,800548.97
+583,Mid,MD,Female,1998,Asian,12867247.09
+584,Early,MD-PhD,Female,1998,Asian,8539586.18
+585,Late,MD-PhD,Female,1998,Asian,1061046.04
+586,Mid,MD-PhD,Female,1998,Asian,2602341.66
+587,Early,PhD,Female,1998,Asian,58509289.62
+588,Late,PhD,Female,1998,Asian,8280090.37
+589,Mid,PhD,Female,1998,Asian,50757800.74
+590,Early,MD,Male,1998,Asian,34648491.42
+591,Late,MD,Male,1998,Asian,4713939.95
+592,Mid,MD,Male,1998,Asian,48657546.51
+593,Early,MD-PhD,Male,1998,Asian,50408911.92
+594,Late,MD-PhD,Male,1998,Asian,11896476.03
+595,Mid,MD-PhD,Male,1998,Asian,40380465.51
+596,Early,Other,Male,1998,Asian,422380.82
+597,Mid,Other,Male,1998,Asian,693703.5800000001
+598,Early,PhD,Male,1998,Asian,184831221.41
+599,Late,PhD,Male,1998,Asian,49816264.31
+600,Mid,PhD,Male,1998,Asian,193853697.39
+601,Early,MD,Female,1999,Asian,15171514.35
+602,Late,MD,Female,1999,Asian,418223.57
+603,Mid,MD,Female,1999,Asian,20337053.11
+604,Early,MD-PhD,Female,1999,Asian,13856277.68
+605,Late,MD-PhD,Female,1999,Asian,778780.14
+606,Mid,MD-PhD,Female,1999,Asian,3070560.42
+607,Early,PhD,Female,1999,Asian,62924217.4
+608,Late,PhD,Female,1999,Asian,8697561.67
+609,Mid,PhD,Female,1999,Asian,63360523.47
+610,Early,MD,Male,1999,Asian,48729658.71
+611,Late,MD,Male,1999,Asian,9158785.620000001
+612,Mid,MD,Male,1999,Asian,51605560.660000004
+613,Early,MD-PhD,Male,1999,Asian,66469323.77
+614,Late,MD-PhD,Male,1999,Asian,11757758.75
+615,Mid,MD-PhD,Male,1999,Asian,41149250.35
+616,Early,Other,Male,1999,Asian,421720.78
+617,Late,Other,Male,1999,Asian,148202.4
+618,Mid,Other,Male,1999,Asian,543149.16
+619,Early,PhD,Male,1999,Asian,214649113.5
+620,Late,PhD,Male,1999,Asian,55092940.34
+621,Mid,PhD,Male,1999,Asian,213117257.28
+622,Early,MD,Female,2000,Asian,18316744.8
+623,Late,MD,Female,2000,Asian,372892.47
+624,Mid,MD,Female,2000,Asian,25044700.169999998
+625,Early,MD-PhD,Female,2000,Asian,13466290.290000001
+626,Late,MD-PhD,Female,2000,Asian,985706.77
+627,Mid,MD-PhD,Female,2000,Asian,6830107.91
+628,Early,PhD,Female,2000,Asian,73661969.03
+629,Late,PhD,Female,2000,Asian,13179622.969999999
+630,Mid,PhD,Female,2000,Asian,73117692.57000001
+631,Early,MD,Male,2000,Asian,51758722.68
+632,Late,MD,Male,2000,Asian,10624275.65
+633,Mid,MD,Male,2000,Asian,62527512.49
+634,Early,MD-PhD,Male,2000,Asian,82254803.13
+635,Late,MD-PhD,Male,2000,Asian,12937965.7
+636,Mid,MD-PhD,Male,2000,Asian,54864634.81
+637,Early,Other,Male,2000,Asian,4715002.65
+638,Mid,Other,Male,2000,Asian,539341.89
+639,Early,PhD,Male,2000,Asian,253124602.04
+640,Late,PhD,Male,2000,Asian,63565495.21
+641,Mid,PhD,Male,2000,Asian,243631115.23
+642,Early,MD,Female,2001,Asian,22455020.68
+643,Late,MD,Female,2001,Asian,1404511.0
+644,Mid,MD,Female,2001,Asian,29496951.8
+645,Early,MD-PhD,Female,2001,Asian,22392592.04
+646,Late,MD-PhD,Female,2001,Asian,1023977.96
+647,Mid,MD-PhD,Female,2001,Asian,8719404.66
+648,Early,PhD,Female,2001,Asian,90113396.06
+649,Late,PhD,Female,2001,Asian,14056109.99
+650,Mid,PhD,Female,2001,Asian,73816735.66
+651,Early,MD,Male,2001,Asian,62677605.96
+652,Late,MD,Male,2001,Asian,17212369.73
+653,Mid,MD,Male,2001,Asian,73034222.58
+654,Early,MD-PhD,Male,2001,Asian,98150074.0
+655,Late,MD-PhD,Male,2001,Asian,18168411.439999998
+656,Mid,MD-PhD,Male,2001,Asian,61000198.25
+657,Late,Other,Male,2001,Asian,605719.62
+658,Mid,Other,Male,2001,Asian,537648.46
+659,Early,PhD,Male,2001,Asian,286822805.64
+660,Late,PhD,Male,2001,Asian,73183015.84
+661,Mid,PhD,Male,2001,Asian,259835334.88
+662,Early,MD,Female,2002,Asian,25040707.57
+663,Late,MD,Female,2002,Asian,1359367.77
+664,Mid,MD,Female,2002,Asian,29946979.55
+665,Early,MD-PhD,Female,2002,Asian,23073178.53
+666,Late,MD-PhD,Female,2002,Asian,1002863.8700000001
+667,Mid,MD-PhD,Female,2002,Asian,11121580.26
+668,Early,PhD,Female,2002,Asian,95761219.71
+669,Late,PhD,Female,2002,Asian,13475221.15
+670,Mid,PhD,Female,2002,Asian,89135302.17
+671,Early,MD,Male,2002,Asian,65257977.34
+672,Late,MD,Male,2002,Asian,16156379.879999999
+673,Mid,MD,Male,2002,Asian,79665079.19
+674,Early,MD-PhD,Male,2002,Asian,106954520.82000001
+675,Late,MD-PhD,Male,2002,Asian,22050009.04
+676,Mid,MD-PhD,Male,2002,Asian,69655374.98
+677,Early,Other,Male,2002,Asian,728375.73
+678,Late,Other,Male,2002,Asian,598640.16
+679,Mid,Other,Male,2002,Asian,953784.3600000001
+680,Early,PhD,Male,2002,Asian,345264259.74
+681,Late,PhD,Male,2002,Asian,94117431.38
+682,Mid,PhD,Male,2002,Asian,300530105.71
+683,Early,MD,Female,2003,Asian,30524146.35
+684,Late,MD,Female,2003,Asian,2768019.64
+685,Mid,MD,Female,2003,Asian,37436800.06
+686,Early,MD-PhD,Female,2003,Asian,26445413.96
+687,Late,MD-PhD,Female,2003,Asian,810928.24
+688,Mid,MD-PhD,Female,2003,Asian,16501935.49
+689,Early,Other,Female,2003,Asian,283244.37
+690,Early,PhD,Female,2003,Asian,127005066.17
+691,Late,PhD,Female,2003,Asian,13353324.280000001
+692,Mid,PhD,Female,2003,Asian,96917478.69
+693,Early,MD,Male,2003,Asian,77822587.64
+694,Late,MD,Male,2003,Asian,14766048.67
+695,Mid,MD,Male,2003,Asian,89281686.7
+696,Early,MD-PhD,Male,2003,Asian,123843769.11
+697,Late,MD-PhD,Male,2003,Asian,22276789.64
+698,Mid,MD-PhD,Male,2003,Asian,88485978.17
+699,Early,Other,Male,2003,Asian,1493282.8
+700,Late,Other,Male,2003,Asian,578312.0
+701,Mid,Other,Male,2003,Asian,936993.17
+702,Early,PhD,Male,2003,Asian,402417023.73
+703,Late,PhD,Male,2003,Asian,107172766.26
+704,Mid,PhD,Male,2003,Asian,336326182.9
+705,Early,MD,Female,2004,Asian,36393299.81
+706,Late,MD,Female,2004,Asian,2881124.3200000003
+707,Mid,MD,Female,2004,Asian,35250958.91
+708,Early,MD-PhD,Female,2004,Asian,24337892.02
+709,Late,MD-PhD,Female,2004,Asian,941395.3400000001
+710,Mid,MD-PhD,Female,2004,Asian,18571525.15
+711,Early,Other,Female,2004,Asian,815893.7000000001
+712,Mid,Other,Female,2004,Asian,546377.2
+713,Early,PhD,Female,2004,Asian,137318340.87
+714,Late,PhD,Female,2004,Asian,20826214.51
+715,Mid,PhD,Female,2004,Asian,105284535.42999999
+716,Early,MD,Male,2004,Asian,80760579.22
+717,Late,MD,Male,2004,Asian,19947347.25
+718,Mid,MD,Male,2004,Asian,108327676.99
+719,Early,MD-PhD,Male,2004,Asian,143016902.97
+720,Late,MD-PhD,Male,2004,Asian,16297924.290000001
+721,Mid,MD-PhD,Male,2004,Asian,118251343.05
+722,Late,Other,Male,2004,Asian,701048.79
+723,Mid,Other,Male,2004,Asian,2465411.42
+724,Early,PhD,Male,2004,Asian,437622350.34
+725,Late,PhD,Male,2004,Asian,127596321.13
+726,Mid,PhD,Male,2004,Asian,363306868.41
+727,Early,MD,Female,2005,Asian,30953032.74
+728,Late,MD,Female,2005,Asian,1948205.33
+729,Mid,MD,Female,2005,Asian,48127125.04
+730,Early,MD-PhD,Female,2005,Asian,24308289.74
+731,Late,MD-PhD,Female,2005,Asian,373870.6
+732,Mid,MD-PhD,Female,2005,Asian,20835356.65
+733,Early,Other,Female,2005,Asian,913524.6599999999
+734,Mid,Other,Female,2005,Asian,757150.16
+735,Early,PhD,Female,2005,Asian,142998960.99
+736,Late,PhD,Female,2005,Asian,27483263.26
+737,Mid,PhD,Female,2005,Asian,109093282.7
+738,Early,MD,Male,2005,Asian,76882571.16
+739,Late,MD,Male,2005,Asian,19889641.06
+740,Mid,MD,Male,2005,Asian,132293163.79
+741,Early,MD-PhD,Male,2005,Asian,133504121.22
+742,Late,MD-PhD,Male,2005,Asian,14049379.82
+743,Mid,MD-PhD,Male,2005,Asian,129680299.95
+744,Early,Other,Male,2005,Asian,591862.78
+745,Late,Other,Male,2005,Asian,1450622.33
+746,Mid,Other,Male,2005,Asian,1699211.9
+747,Early,PhD,Male,2005,Asian,427978645.29
+748,Late,PhD,Male,2005,Asian,145895209.98
+749,Mid,PhD,Male,2005,Asian,394754023.08
+750,Early,MD,Female,2006,Asian,29618988.29
+751,Late,MD,Female,2006,Asian,983910.04
+752,Mid,MD,Female,2006,Asian,50577800.64
+753,Early,MD-PhD,Female,2006,Asian,28012756.43
+754,Late,MD-PhD,Female,2006,Asian,704967.4299999999
+755,Mid,MD-PhD,Female,2006,Asian,21820015.44
+756,Early,Other,Female,2006,Asian,1129381.12
+757,Mid,Other,Female,2006,Asian,702064.05
+758,Early,PhD,Female,2006,Asian,143284694.5
+759,Late,PhD,Female,2006,Asian,28854999.47
+760,Mid,PhD,Female,2006,Asian,111805344.67
+761,Early,MD,Male,2006,Asian,75457811.84
+762,Late,MD,Male,2006,Asian,25400390.24
+763,Mid,MD,Male,2006,Asian,122077198.41
+764,Early,MD-PhD,Male,2006,Asian,127547387.95
+765,Late,MD-PhD,Male,2006,Asian,17800647.16
+766,Mid,MD-PhD,Male,2006,Asian,127590759.64
+767,Early,Other,Male,2006,Asian,574271.99
+768,Late,Other,Male,2006,Asian,676444.1000000001
+769,Mid,Other,Male,2006,Asian,1044548.1599999999
+770,Early,PhD,Male,2006,Asian,435989944.01
+771,Late,PhD,Male,2006,Asian,139772202.26
+772,Mid,PhD,Male,2006,Asian,374164913.74
+773,Early,MD,Female,2007,Asian,28040059.63
+774,Late,MD,Female,2007,Asian,821378.16
+775,Mid,MD,Female,2007,Asian,44049272.22
+776,Early,MD-PhD,Female,2007,Asian,26932642.5
+777,Late,MD-PhD,Female,2007,Asian,659501.47
+778,Mid,MD-PhD,Female,2007,Asian,25390340.58
+779,Early,Other,Female,2007,Asian,477583.23
+780,Early,PhD,Female,2007,Asian,155060513.48
+781,Late,PhD,Female,2007,Asian,29849074.47
+782,Mid,PhD,Female,2007,Asian,118778623.68
+783,Early,MD,Male,2007,Asian,74648539.09
+784,Late,MD,Male,2007,Asian,28419733.75
+785,Mid,MD,Male,2007,Asian,128242042.2
+786,Early,MD-PhD,Male,2007,Asian,119534570.26
+787,Late,MD-PhD,Male,2007,Asian,16012074.48
+788,Mid,MD-PhD,Male,2007,Asian,142052902.14
+789,Early,Other,Male,2007,Asian,287460.53
+790,Late,Other,Male,2007,Asian,415727.09
+791,Mid,Other,Male,2007,Asian,1458135.13
+792,Early,PhD,Male,2007,Asian,438455691.13
+793,Late,PhD,Male,2007,Asian,144675544.65
+794,Mid,PhD,Male,2007,Asian,373771916.06
+795,Early,MD,Female,2008,Asian,27967306.35
+796,Late,MD,Female,2008,Asian,1592209.1099999999
+797,Mid,MD,Female,2008,Asian,50080761.92
+798,Early,MD-PhD,Female,2008,Asian,30461459.63
+799,Late,MD-PhD,Female,2008,Asian,875819.72
+800,Mid,MD-PhD,Female,2008,Asian,29672437.07
+801,Early,Other,Female,2008,Asian,1590647.78
+802,Early,PhD,Female,2008,Asian,149128282.12
+803,Late,PhD,Female,2008,Asian,28654843.14
+804,Mid,PhD,Female,2008,Asian,131404017.22
+805,Early,MD,Male,2008,Asian,81033348.85
+806,Late,MD,Male,2008,Asian,28649128.11
+807,Mid,MD,Male,2008,Asian,120142019.73
+808,Early,MD-PhD,Male,2008,Asian,120331167.24
+809,Late,MD-PhD,Male,2008,Asian,16631184.82
+810,Mid,MD-PhD,Male,2008,Asian,163438698.85
+811,Early,Other,Male,2008,Asian,370477.53
+812,Late,Other,Male,2008,Asian,940265.8200000001
+813,Mid,Other,Male,2008,Asian,568215.37
+814,Early,PhD,Male,2008,Asian,443572372.41
+815,Late,PhD,Male,2008,Asian,146526515.02
+816,Mid,PhD,Male,2008,Asian,388385663.23
+817,Early,MD,Female,2009,Asian,32942734.66
+818,Late,MD,Female,2009,Asian,3752400.94
+819,Mid,MD,Female,2009,Asian,46301782.51
+820,Early,MD-PhD,Female,2009,Asian,29489038.55
+821,Late,MD-PhD,Female,2009,Asian,1924406.46
+822,Mid,MD-PhD,Female,2009,Asian,33937020.05
+823,Early,Other,Female,2009,Asian,930939.21
+824,Mid,Other,Female,2009,Asian,452177.71
+825,Early,PhD,Female,2009,Asian,159694844.87
+826,Late,PhD,Female,2009,Asian,25744726.900000002
+827,Mid,PhD,Female,2009,Asian,150191087.39
+828,Early,MD,Male,2009,Asian,81391866.35
+829,Late,MD,Male,2009,Asian,26919549.16
+830,Mid,MD,Male,2009,Asian,137332728.71
+831,Early,MD-PhD,Male,2009,Asian,96149171.49
+832,Late,MD-PhD,Male,2009,Asian,18870233.84
+833,Mid,MD-PhD,Male,2009,Asian,178438114.85
+834,Early,Other,Male,2009,Asian,1121959.8499999999
+835,Late,Other,Male,2009,Asian,895263.8400000001
+836,Mid,Other,Male,2009,Asian,1272619.27
+837,Early,PhD,Male,2009,Asian,433750791.59
+838,Late,PhD,Male,2009,Asian,149531242.2
+839,Mid,PhD,Male,2009,Asian,440230615.62
+840,Early,MD,Female,2010,Asian,41451125.01
+841,Late,MD,Female,2010,Asian,5105626.34
+842,Mid,MD,Female,2010,Asian,47570467.480000004
+843,Early,MD-PhD,Female,2010,Asian,29990436.76
+844,Late,MD-PhD,Female,2010,Asian,2886759.61
+845,Mid,MD-PhD,Female,2010,Asian,46252012.1
+846,Early,Other,Female,2010,Asian,726365.74
+847,Mid,Other,Female,2010,Asian,1277127.49
+848,Early,PhD,Female,2010,Asian,175857921.38
+849,Late,PhD,Female,2010,Asian,25873714.64
+850,Mid,PhD,Female,2010,Asian,163019314.55
+851,Early,MD,Male,2010,Asian,84101411.77
+852,Late,MD,Male,2010,Asian,28252718.27
+853,Mid,MD,Male,2010,Asian,151234718.8
+854,Early,MD-PhD,Male,2010,Asian,98075762.52
+855,Late,MD-PhD,Male,2010,Asian,20214835.32
+856,Mid,MD-PhD,Male,2010,Asian,206905811.2
+857,Early,Other,Male,2010,Asian,927412.65
+858,Late,Other,Male,2010,Asian,1212690.38
+859,Mid,Other,Male,2010,Asian,2342061.65
+860,Early,PhD,Male,2010,Asian,476272755.95
+861,Late,PhD,Male,2010,Asian,150693276.47
+862,Mid,PhD,Male,2010,Asian,492819072.79
+863,Early,MD,Female,2011,Asian,41016018.28
+864,Late,MD,Female,2011,Asian,9919762.799999999
+865,Mid,MD,Female,2011,Asian,42735161.28
+866,Early,MD-PhD,Female,2011,Asian,36109924.02
+867,Late,MD-PhD,Female,2011,Asian,2482382.06
+868,Mid,MD-PhD,Female,2011,Asian,49553460.9
+869,Early,Other,Female,2011,Asian,1195677.34
+870,Late,Other,Female,2011,Asian,145910.73
+871,Mid,Other,Female,2011,Asian,1331880.24
+872,Early,PhD,Female,2011,Asian,182538560.37
+873,Late,PhD,Female,2011,Asian,37210386.0
+874,Mid,PhD,Female,2011,Asian,152738733.98
+875,Early,MD,Male,2011,Asian,94353088.52
+876,Late,MD,Male,2011,Asian,40981537.85
+877,Mid,MD,Male,2011,Asian,150440090.54
+878,Early,MD-PhD,Male,2011,Asian,81265760.67
+879,Late,MD-PhD,Male,2011,Asian,25396233.47
+880,Mid,MD-PhD,Male,2011,Asian,235819361.32
+881,Early,Other,Male,2011,Asian,1307053.44
+882,Late,Other,Male,2011,Asian,1191630.6400000001
+883,Mid,Other,Male,2011,Asian,1803935.6199999999
+884,Early,PhD,Male,2011,Asian,474604568.81
+885,Late,PhD,Male,2011,Asian,159729017.81
+886,Mid,PhD,Male,2011,Asian,498467572.52
+887,Early,MD,Female,2012,Asian,44583344.96
+888,Late,MD,Female,2012,Asian,11157037.85
+889,Mid,MD,Female,2012,Asian,48131863.16
+890,Early,MD-PhD,Female,2012,Asian,34296790.19
+891,Late,MD-PhD,Female,2012,Asian,3563960.78
+892,Mid,MD-PhD,Female,2012,Asian,50977935.92
+893,Early,Other,Female,2012,Asian,1104889.77
+894,Late,Other,Female,2012,Asian,140965.26
+895,Mid,Other,Female,2012,Asian,622747.59
+896,Early,PhD,Female,2012,Asian,200794082.79
+897,Late,PhD,Female,2012,Asian,35402343.63
+898,Mid,PhD,Female,2012,Asian,174337262.55
+899,Early,MD,Male,2012,Asian,88899817.04
+900,Late,MD,Male,2012,Asian,33997789.92
+901,Mid,MD,Male,2012,Asian,141884587.48
+902,Early,MD-PhD,Male,2012,Asian,79871772.03
+903,Late,MD-PhD,Male,2012,Asian,29302083.32
+904,Mid,MD-PhD,Male,2012,Asian,228684149.56
+905,Early,Other,Male,2012,Asian,1848624.24
+906,Late,Other,Male,2012,Asian,1368757.3900000001
+907,Mid,Other,Male,2012,Asian,2340510.52
+908,Early,PhD,Male,2012,Asian,460718121.88
+909,Late,PhD,Male,2012,Asian,171644272.22
+910,Mid,PhD,Male,2012,Asian,524703613.8
+911,Early,MD,Female,2013,Asian,31356130.46
+912,Late,MD,Female,2013,Asian,6317571.95
+913,Mid,MD,Female,2013,Asian,53941355.15
+914,Early,MD-PhD,Female,2013,Asian,30862474.36
+915,Late,MD-PhD,Female,2013,Asian,5351794.8100000005
+916,Mid,MD-PhD,Female,2013,Asian,49470030.14
+917,Early,Other,Female,2013,Asian,1506773.13
+918,Late,Other,Female,2013,Asian,129462.95
+919,Mid,Other,Female,2013,Asian,396646.39
+920,Early,PhD,Female,2013,Asian,180362199.5
+921,Late,PhD,Female,2013,Asian,38331517.52
+922,Mid,PhD,Female,2013,Asian,168305084.05
+923,Early,MD,Male,2013,Asian,91508913.82
+924,Late,MD,Male,2013,Asian,50361931.84
+925,Mid,MD,Male,2013,Asian,134589288.77
+926,Early,MD-PhD,Male,2013,Asian,83922990.28
+927,Late,MD-PhD,Male,2013,Asian,26726876.42
+928,Mid,MD-PhD,Male,2013,Asian,205448048.59
+929,Early,Other,Male,2013,Asian,1831704.43
+930,Late,Other,Male,2013,Asian,853507.3300000001
+931,Mid,Other,Male,2013,Asian,3043019.67
+932,Early,PhD,Male,2013,Asian,425786921.21
+933,Late,PhD,Male,2013,Asian,148515494.73
+934,Mid,PhD,Male,2013,Asian,505352459.84
+935,Early,MD,Female,2014,Asian,40491088.1
+936,Late,MD,Female,2014,Asian,7244334.710000001
+937,Mid,MD,Female,2014,Asian,52452364.31
+938,Early,MD-PhD,Female,2014,Asian,23202927.17
+939,Late,MD-PhD,Female,2014,Asian,5380101.74
+940,Mid,MD-PhD,Female,2014,Asian,56261778.96
+941,Early,Other,Female,2014,Asian,1004221.3999999999
+942,Mid,Other,Female,2014,Asian,388328.02999999997
+943,Early,PhD,Female,2014,Asian,202295589.22
+944,Late,PhD,Female,2014,Asian,53686977.27
+945,Mid,PhD,Female,2014,Asian,192501896.04
+946,Early,MD,Male,2014,Asian,80614520.76
+947,Late,MD,Male,2014,Asian,56035468.88
+948,Mid,MD,Male,2014,Asian,134247716.45
+949,Early,MD-PhD,Male,2014,Asian,83891489.51
+950,Late,MD-PhD,Male,2014,Asian,35812191.089999996
+951,Mid,MD-PhD,Male,2014,Asian,223673063.43
+952,Early,Other,Male,2014,Asian,1058177.5999999999
+953,Late,Other,Male,2014,Asian,497878.16
+954,Mid,Other,Male,2014,Asian,2500581.11
+955,Early,PhD,Male,2014,Asian,467119340.85
+956,Late,PhD,Male,2014,Asian,158736836.29
+957,Mid,PhD,Male,2014,Asian,518972118.22
+958,Early,MD,Female,2015,Asian,32056626.99
+959,Late,MD,Female,2015,Asian,16417842.2
+960,Mid,MD,Female,2015,Asian,58070673.629999995
+961,Early,MD-PhD,Female,2015,Asian,27598924.0
+962,Late,MD-PhD,Female,2015,Asian,7809587.57
+963,Mid,MD-PhD,Female,2015,Asian,60675666.37
+964,Early,Other,Female,2015,Asian,1125129.81
+965,Late,Other,Female,2015,Asian,55923.14
+966,Mid,Other,Female,2015,Asian,851943.72
+967,Early,PhD,Female,2015,Asian,191242220.28
+968,Late,PhD,Female,2015,Asian,60168473.89
+969,Mid,PhD,Female,2015,Asian,209089817.73
+970,Early,MD,Male,2015,Asian,86910092.51
+971,Late,MD,Male,2015,Asian,65706186.44
+972,Mid,MD,Male,2015,Asian,133847762.8
+973,Early,MD-PhD,Male,2015,Asian,83362517.38
+974,Late,MD-PhD,Male,2015,Asian,42334872.089999996
+975,Mid,MD-PhD,Male,2015,Asian,217413665.74
+976,Early,Other,Male,2015,Asian,1502979.83
+977,Late,Other,Male,2015,Asian,640831.22
+978,Mid,Other,Male,2015,Asian,4256215.7
+979,Early,PhD,Male,2015,Asian,478317577.14
+980,Late,PhD,Male,2015,Asian,172186645.41
+981,Mid,PhD,Male,2015,Asian,575665987.11
+982,Early,MD,Female,2016,Asian,41149634.61
+983,Late,MD,Female,2016,Asian,17710355.15
+984,Mid,MD,Female,2016,Asian,71607415.16
+985,Early,MD-PhD,Female,2016,Asian,34309120.13
+986,Late,MD-PhD,Female,2016,Asian,9787801.7
+987,Mid,MD-PhD,Female,2016,Asian,67236275.44
+988,Early,Other,Female,2016,Asian,1481975.48
+989,Mid,Other,Female,2016,Asian,2139872.31
+990,Early,PhD,Female,2016,Asian,203174045.01
+991,Late,PhD,Female,2016,Asian,61133306.88
+992,Mid,PhD,Female,2016,Asian,222732735.52
+993,Early,MD,Male,2016,Asian,83646923.33
+994,Late,MD,Male,2016,Asian,78568320.52
+995,Mid,MD,Male,2016,Asian,160463787.15
+996,Early,MD-PhD,Male,2016,Asian,78572923.89
+997,Late,MD-PhD,Male,2016,Asian,49919666.28
+998,Mid,MD-PhD,Male,2016,Asian,253278274.4
+999,Early,Other,Male,2016,Asian,2888701.46
+1000,Late,Other,Male,2016,Asian,820762.47
+1001,Mid,Other,Male,2016,Asian,3448073.59
+1002,Early,PhD,Male,2016,Asian,535115422.34
+1003,Late,PhD,Male,2016,Asian,189555089.24
+1004,Mid,PhD,Male,2016,Asian,638062511.94
+1005,Early,MD,Female,2017,Asian,44701739.38
+1006,Late,MD,Female,2017,Asian,19244303.41
+1007,Mid,MD,Female,2017,Asian,72005296.92
+1008,Early,MD-PhD,Female,2017,Asian,28313710.68
+1009,Late,MD-PhD,Female,2017,Asian,13304952.84
+1010,Mid,MD-PhD,Female,2017,Asian,76599631.33
+1011,Early,Other,Female,2017,Asian,1517274.7200000002
+1012,Mid,Other,Female,2017,Asian,2760835.84
+1013,Early,PhD,Female,2017,Asian,232103473.6
+1014,Late,PhD,Female,2017,Asian,67998646.73
+1015,Mid,PhD,Female,2017,Asian,251338987.9
+1016,Early,MD,Male,2017,Asian,74897673.4
+1017,Late,MD,Male,2017,Asian,85146929.59
+1018,Mid,MD,Male,2017,Asian,193262972.79
+1019,Early,MD-PhD,Male,2017,Asian,80407017.22
+1020,Late,MD-PhD,Male,2017,Asian,68389155.01
+1021,Mid,MD-PhD,Male,2017,Asian,274216201.35
+1022,Early,Other,Male,2017,Asian,2980656.53
+1023,Late,Other,Male,2017,Asian,1480428.99
+1024,Mid,Other,Male,2017,Asian,1665810.3499999999
+1025,Early,PhD,Male,2017,Asian,554723590.22
+1026,Late,PhD,Male,2017,Asian,212841506.22
+1027,Mid,PhD,Male,2017,Asian,722320596.69
+1028,Early,MD,Female,2018,Asian,55332089.47
+1029,Late,MD,Female,2018,Asian,35404876.46
+1030,Mid,MD,Female,2018,Asian,83351561.82
+1031,Early,MD-PhD,Female,2018,Asian,28536318.36
+1032,Late,MD-PhD,Female,2018,Asian,19537929.830000002
+1033,Mid,MD-PhD,Female,2018,Asian,85856027.7
+1034,Early,Other,Female,2018,Asian,3368805.17
+1035,Late,Other,Female,2018,Asian,54488.88
+1036,Mid,Other,Female,2018,Asian,4119431.4699999997
+1037,Early,PhD,Female,2018,Asian,254621817.53
+1038,Late,PhD,Female,2018,Asian,73979645.06
+1039,Mid,PhD,Female,2018,Asian,309839027.99
+1040,Early,MD,Male,2018,Asian,75745064.97
+1041,Late,MD,Male,2018,Asian,100230919.39999999
+1042,Mid,MD,Male,2018,Asian,189181949.04
+1043,Early,MD-PhD,Male,2018,Asian,76093864.22
+1044,Late,MD-PhD,Male,2018,Asian,79593687.47
+1045,Mid,MD-PhD,Male,2018,Asian,283953502.9
+1046,Early,Other,Male,2018,Asian,5762770.78
+1047,Late,Other,Male,2018,Asian,1741057.6600000001
+1048,Mid,Other,Male,2018,Asian,1308532.3900000001
+1049,Early,PhD,Male,2018,Asian,630981278.05
+1050,Late,PhD,Male,2018,Asian,239371665.01
+1051,Mid,PhD,Male,2018,Asian,776541844.44
+1052,Early,MD,Female,2019,Asian,61347484.25
+1053,Late,MD,Female,2019,Asian,35578503.88
+1054,Mid,MD,Female,2019,Asian,99734918.35
+1055,Early,MD-PhD,Female,2019,Asian,26450446.29
+1056,Late,MD-PhD,Female,2019,Asian,19164748.78
+1057,Mid,MD-PhD,Female,2019,Asian,99217605.87
+1058,Early,Other,Female,2019,Asian,2578854.61
+1059,Late,Other,Female,2019,Asian,306361.57
+1060,Mid,Other,Female,2019,Asian,3645924.82
+1061,Early,PhD,Female,2019,Asian,286814913.25
+1062,Late,PhD,Female,2019,Asian,90010383.21
+1063,Mid,PhD,Female,2019,Asian,334473094.98
+1064,Early,MD,Male,2019,Asian,80830995.26
+1065,Late,MD,Male,2019,Asian,104320236.25
+1066,Mid,MD,Male,2019,Asian,191178892.21
+1067,Early,MD-PhD,Male,2019,Asian,81034401.49
+1068,Late,MD-PhD,Male,2019,Asian,85365851.08
+1069,Mid,MD-PhD,Male,2019,Asian,307177580.67
+1070,Early,Other,Male,2019,Asian,5916922.43
+1071,Late,Other,Male,2019,Asian,1881194.0599999998
+1072,Mid,Other,Male,2019,Asian,4091661.6
+1073,Early,PhD,Male,2019,Asian,623484975.03
+1074,Late,PhD,Male,2019,Asian,262471228.72
+1075,Mid,PhD,Male,2019,Asian,844960018.33
+1076,Early,MD,Female,2020,Asian,64562255.04
+1077,Late,MD,Female,2020,Asian,42498125.160000004
+1078,Mid,MD,Female,2020,Asian,103240767.06
+1079,Early,MD-PhD,Female,2020,Asian,24635216.92
+1080,Late,MD-PhD,Female,2020,Asian,21303053.150000002
+1081,Mid,MD-PhD,Female,2020,Asian,106507183.7
+1082,Early,Other,Female,2020,Asian,2552517.6
+1083,Late,Other,Female,2020,Asian,1191911.82
+1084,Mid,Other,Female,2020,Asian,3521562.49
+1085,Early,PhD,Female,2020,Asian,312230395.52
+1086,Late,PhD,Female,2020,Asian,98459615.86
+1087,Mid,PhD,Female,2020,Asian,371005148.9
+1088,Early,MD,Male,2020,Asian,93267402.11
+1089,Late,MD,Male,2020,Asian,93931443.19
+1090,Mid,MD,Male,2020,Asian,221883347.44
+1091,Early,MD-PhD,Male,2020,Asian,82005823.3
+1092,Late,MD-PhD,Male,2020,Asian,94685734.46000001
+1093,Mid,MD-PhD,Male,2020,Asian,291471511.07
+1094,Early,Other,Male,2020,Asian,8341374.31
+1095,Late,Other,Male,2020,Asian,1450490.52
+1096,Mid,Other,Male,2020,Asian,4810901.1
+1097,Early,PhD,Male,2020,Asian,676518460.28
+1098,Late,PhD,Male,2020,Asian,272678774.18
+1099,Mid,PhD,Male,2020,Asian,937253170.89
+1100,Early,MD,Female,1985,Black or African-American,511329.05
+1101,Early,PhD,Female,1985,Black or African-American,1107197.1
+1102,Mid,PhD,Female,1985,Black or African-American,257288.64
+1103,Early,MD,Male,1985,Black or African-American,381134.88
+1104,Mid,MD,Male,1985,Black or African-American,489292.98
+1105,Early,MD-PhD,Male,1985,Black or African-American,1299436.05
+1106,Early,PhD,Male,1985,Black or African-American,3039438.65
+1107,Mid,PhD,Male,1985,Black or African-American,1005285.82
+1108,Early,MD,Female,1986,Black or African-American,694920.56
+1109,Early,PhD,Female,1986,Black or African-American,466314.82
+1110,Mid,PhD,Female,1986,Black or African-American,255224.4
+1111,Early,MD,Male,1986,Black or African-American,730399.97
+1112,Mid,MD,Male,1986,Black or African-American,442276.76
+1113,Early,MD-PhD,Male,1986,Black or African-American,1518855.81
+1114,Early,PhD,Male,1986,Black or African-American,2690695.58
+1115,Mid,PhD,Male,1986,Black or African-American,969664.71
+1116,Early,MD,Female,1987,Black or African-American,537545.36
+1117,Early,PhD,Female,1987,Black or African-American,1747228.98
+1118,Early,MD,Male,1987,Black or African-American,748192.61
+1119,Mid,MD,Male,1987,Black or African-American,498327.72
+1120,Early,MD-PhD,Male,1987,Black or African-American,1822030.98
+1121,Early,PhD,Male,1987,Black or African-American,5045426.03
+1122,Mid,PhD,Male,1987,Black or African-American,1459151.22
+1123,Early,MD,Female,1988,Black or African-American,1131383.95
+1124,Early,PhD,Female,1988,Black or African-American,687490.9299999999
+1125,Mid,PhD,Female,1988,Black or African-American,746083.3999999999
+1126,Early,MD,Male,1988,Black or African-American,2550131.9699999997
+1127,Mid,MD,Male,1988,Black or African-American,792305.98
+1128,Early,MD-PhD,Male,1988,Black or African-American,1433599.01
+1129,Early,PhD,Male,1988,Black or African-American,5663414.47
+1130,Mid,PhD,Male,1988,Black or African-American,2356337.0900000003
+1131,Mid,MD,Female,1989,Black or African-American,3239313.45
+1132,Early,PhD,Female,1989,Black or African-American,1105637.03
+1133,Mid,PhD,Female,1989,Black or African-American,659195.72
+1134,Early,MD,Male,1989,Black or African-American,3114617.73
+1135,Mid,MD,Male,1989,Black or African-American,2237053.96
+1136,Early,MD-PhD,Male,1989,Black or African-American,1644927.0999999999
+1137,Mid,MD-PhD,Male,1989,Black or African-American,838643.74
+1138,Early,Other,Male,1989,Black or African-American,99825.39
+1139,Early,PhD,Male,1989,Black or African-American,4384217.11
+1140,Mid,PhD,Male,1989,Black or African-American,2939204.0
+1141,Mid,MD,Female,1990,Black or African-American,2360007.2
+1142,Early,PhD,Female,1990,Black or African-American,1204996.09
+1143,Mid,PhD,Female,1990,Black or African-American,707934.68
+1144,Early,MD,Male,1990,Black or African-American,2573713.3000000003
+1145,Mid,MD,Male,1990,Black or African-American,1833314.71
+1146,Early,MD-PhD,Male,1990,Black or African-American,2443308.89
+1147,Early,Other,Male,1990,Black or African-American,208725.15
+1148,Early,PhD,Male,1990,Black or African-American,3712612.34
+1149,Mid,PhD,Male,1990,Black or African-American,3976938.6900000004
+1150,Mid,MD,Female,1991,Black or African-American,1645503.91
+1151,Early,MD-PhD,Female,1991,Black or African-American,503337.46
+1152,Early,PhD,Female,1991,Black or African-American,1892547.1500000001
+1153,Mid,PhD,Female,1991,Black or African-American,899216.94
+1154,Early,MD,Male,1991,Black or African-American,2852059.31
+1155,Mid,MD,Male,1991,Black or African-American,1878844.02
+1156,Early,MD-PhD,Male,1991,Black or African-American,1783895.9500000002
+1157,Mid,MD-PhD,Male,1991,Black or African-American,1297855.43
+1158,Early,Other,Male,1991,Black or African-American,254070.49
+1159,Early,PhD,Male,1991,Black or African-American,6393418.82
+1160,Mid,PhD,Male,1991,Black or African-American,4350101.79
+1161,Early,MD,Female,1992,Black or African-American,275457.7
+1162,Mid,MD,Female,1992,Black or African-American,1911845.49
+1163,Early,MD-PhD,Female,1992,Black or African-American,674429.15
+1164,Early,PhD,Female,1992,Black or African-American,3216095.84
+1165,Mid,PhD,Female,1992,Black or African-American,2998733.96
+1166,Early,MD,Male,1992,Black or African-American,3784349.88
+1167,Mid,MD,Male,1992,Black or African-American,2158658.42
+1168,Early,MD-PhD,Male,1992,Black or African-American,1985023.68
+1169,Mid,MD-PhD,Male,1992,Black or African-American,1915016.44
+1170,Early,Other,Male,1992,Black or African-American,234607.92
+1171,Early,PhD,Male,1992,Black or African-American,5132090.21
+1172,Mid,PhD,Male,1992,Black or African-American,6706610.46
+1173,Early,MD,Female,1993,Black or African-American,222868.68
+1174,Mid,MD,Female,1993,Black or African-American,1988314.18
+1175,Early,MD-PhD,Female,1993,Black or African-American,1340470.44
+1176,Early,PhD,Female,1993,Black or African-American,2819891.19
+1177,Late,PhD,Female,1993,Black or African-American,448364.58
+1178,Mid,PhD,Female,1993,Black or African-American,4715440.07
+1179,Early,MD,Male,1993,Black or African-American,3758647.25
+1180,Mid,MD,Male,1993,Black or African-American,2226177.48
+1181,Early,MD-PhD,Male,1993,Black or African-American,1605614.95
+1182,Mid,MD-PhD,Male,1993,Black or African-American,2737250.42
+1183,Early,Other,Male,1993,Black or African-American,222298.68
+1184,Early,PhD,Male,1993,Black or African-American,5327622.99
+1185,Mid,PhD,Male,1993,Black or African-American,7046562.43
+1186,Early,MD,Female,1994,Black or African-American,1299454.48
+1187,Mid,MD,Female,1994,Black or African-American,2812704.48
+1188,Early,MD-PhD,Female,1994,Black or African-American,1170242.8
+1189,Early,Other,Female,1994,Black or African-American,145279.03
+1190,Early,PhD,Female,1994,Black or African-American,2661164.18
+1191,Mid,PhD,Female,1994,Black or African-American,5821579.18
+1192,Early,MD,Male,1994,Black or African-American,4525322.61
+1193,Mid,MD,Male,1994,Black or African-American,2475577.99
+1194,Early,MD-PhD,Male,1994,Black or African-American,1886281.01
+1195,Mid,MD-PhD,Male,1994,Black or African-American,2202653.66
+1196,Early,Other,Male,1994,Black or African-American,230680.76
+1197,Early,PhD,Male,1994,Black or African-American,7235534.07
+1198,Mid,PhD,Male,1994,Black or African-American,7249646.12
+1199,Early,MD,Female,1995,Black or African-American,2096892.07
+1200,Mid,MD,Female,1995,Black or African-American,3199101.7899999996
+1201,Early,MD-PhD,Female,1995,Black or African-American,713738.1799999999
+1202,Early,PhD,Female,1995,Black or African-American,5149978.18
+1203,Late,PhD,Female,1995,Black or African-American,363397.27
+1204,Mid,PhD,Female,1995,Black or African-American,7034075.13
+1205,Early,MD,Male,1995,Black or African-American,7019892.970000001
+1206,Mid,MD,Male,1995,Black or African-American,2256037.25
+1207,Early,MD-PhD,Male,1995,Black or African-American,3814843.1900000004
+1208,Mid,MD-PhD,Male,1995,Black or African-American,2701865.28
+1209,Early,PhD,Male,1995,Black or African-American,9957985.7
+1210,Late,PhD,Male,1995,Black or African-American,1391005.97
+1211,Mid,PhD,Male,1995,Black or African-American,5863135.17
+1212,Early,MD,Female,1996,Black or African-American,2440135.54
+1213,Mid,MD,Female,1996,Black or African-American,3183665.2600000002
+1214,Early,MD-PhD,Female,1996,Black or African-American,990419.8699999999
+1215,Early,PhD,Female,1996,Black or African-American,5095454.7
+1216,Late,PhD,Female,1996,Black or African-American,366975.77
+1217,Mid,PhD,Female,1996,Black or African-American,8386223.33
+1218,Early,MD,Male,1996,Black or African-American,5043791.3
+1219,Late,MD,Male,1996,Black or African-American,239733.3
+1220,Mid,MD,Male,1996,Black or African-American,4918304.36
+1221,Early,MD-PhD,Male,1996,Black or African-American,2351613.88
+1222,Mid,MD-PhD,Male,1996,Black or African-American,2628994.06
+1223,Early,Other,Male,1996,Black or African-American,226745.13
+1224,Early,PhD,Male,1996,Black or African-American,10601599.11
+1225,Late,PhD,Male,1996,Black or African-American,1202290.53
+1226,Mid,PhD,Male,1996,Black or African-American,6341405.6899999995
+1227,Early,MD,Female,1997,Black or African-American,2476641.32
+1228,Mid,MD,Female,1997,Black or African-American,3386202.73
+1229,Early,MD-PhD,Female,1997,Black or African-American,1028442.3300000001
+1230,Early,PhD,Female,1997,Black or African-American,6532991.5
+1231,Late,PhD,Female,1997,Black or African-American,371322.89
+1232,Mid,PhD,Female,1997,Black or African-American,6946725.75
+1233,Early,MD,Male,1997,Black or African-American,7174719.48
+1234,Mid,MD,Male,1997,Black or African-American,6576881.46
+1235,Early,MD-PhD,Male,1997,Black or African-American,4865202.0
+1236,Mid,MD-PhD,Male,1997,Black or African-American,2006282.16
+1237,Early,Other,Male,1997,Black or African-American,291036.29
+1238,Early,PhD,Male,1997,Black or African-American,13226016.4
+1239,Late,PhD,Male,1997,Black or African-American,1564841.74
+1240,Mid,PhD,Male,1997,Black or African-American,8272240.26
+1241,Early,MD,Female,1998,Black or African-American,2417046.38
+1242,Mid,MD,Female,1998,Black or African-American,3499885.52
+1243,Early,MD-PhD,Female,1998,Black or African-American,1079941.59
+1244,Early,PhD,Female,1998,Black or African-American,4419597.23
+1245,Late,PhD,Female,1998,Black or African-American,373510.46
+1246,Mid,PhD,Female,1998,Black or African-American,7070277.84
+1247,Early,MD,Male,1998,Black or African-American,6851321.49
+1248,Mid,MD,Male,1998,Black or African-American,6887274.12
+1249,Early,MD-PhD,Male,1998,Black or African-American,4754917.6
+1250,Mid,MD-PhD,Male,1998,Black or African-American,2172120.34
+1251,Early,Other,Male,1998,Black or African-American,827670.99
+1252,Early,PhD,Male,1998,Black or African-American,10795380.92
+1253,Late,PhD,Male,1998,Black or African-American,1085805.65
+1254,Mid,PhD,Male,1998,Black or African-American,17116295.91
+1255,Early,MD,Female,1999,Black or African-American,2499438.96
+1256,Mid,MD,Female,1999,Black or African-American,244344.2
+1257,Early,MD-PhD,Female,1999,Black or African-American,403367.18
+1258,Mid,MD-PhD,Female,1999,Black or African-American,309056.23
+1259,Early,PhD,Female,1999,Black or African-American,6454980.98
+1260,Late,PhD,Female,1999,Black or African-American,376526.28
+1261,Mid,PhD,Female,1999,Black or African-American,8424413.8
+1262,Early,MD,Male,1999,Black or African-American,7684186.17
+1263,Mid,MD,Male,1999,Black or African-American,6207022.09
+1264,Early,MD-PhD,Male,1999,Black or African-American,6276977.24
+1265,Mid,MD-PhD,Male,1999,Black or African-American,3334085.9699999997
+1266,Early,Other,Male,1999,Black or African-American,1347642.41
+1267,Early,PhD,Male,1999,Black or African-American,11433114.19
+1268,Late,PhD,Male,1999,Black or African-American,1032864.12
+1269,Mid,PhD,Male,1999,Black or African-American,20806737.25
+1270,Early,MD,Female,2000,Black or African-American,4066594.3
+1271,Mid,MD,Female,2000,Black or African-American,4039085.06
+1272,Early,MD-PhD,Female,2000,Black or African-American,1024174.0700000001
+1273,Mid,MD-PhD,Female,2000,Black or African-American,297952.95
+1274,Early,PhD,Female,2000,Black or African-American,6253603.8
+1275,Late,PhD,Female,2000,Black or African-American,1410261.85
+1276,Mid,PhD,Female,2000,Black or African-American,9846855.43
+1277,Early,MD,Male,2000,Black or African-American,10146632.67
+1278,Mid,MD,Male,2000,Black or African-American,6111912.37
+1279,Early,MD-PhD,Male,2000,Black or African-American,5272887.33
+1280,Mid,MD-PhD,Male,2000,Black or African-American,8019980.43
+1281,Mid,Other,Male,2000,Black or African-American,1149441.5
+1282,Early,PhD,Male,2000,Black or African-American,10190750.61
+1283,Late,PhD,Male,2000,Black or African-American,1638793.51
+1284,Mid,PhD,Male,2000,Black or African-American,22286431.2
+1285,Early,MD,Female,2001,Black or African-American,8426339.16
+1286,Mid,MD,Female,2001,Black or African-American,4360236.89
+1287,Early,MD-PhD,Female,2001,Black or African-American,424534.93
+1288,Mid,MD-PhD,Female,2001,Black or African-American,1528835.3599999999
+1289,Early,PhD,Female,2001,Black or African-American,6837496.76
+1290,Late,PhD,Female,2001,Black or African-American,1346237.53
+1291,Mid,PhD,Female,2001,Black or African-American,16303869.57
+1292,Early,MD,Male,2001,Black or African-American,10249902.77
+1293,Late,MD,Male,2001,Black or African-American,1666756.78
+1294,Mid,MD,Male,2001,Black or African-American,9434448.56
+1295,Early,MD-PhD,Male,2001,Black or African-American,6590495.53
+1296,Mid,MD-PhD,Male,2001,Black or African-American,12733697.2
+1297,Mid,Other,Male,2001,Black or African-American,598491.93
+1298,Early,PhD,Male,2001,Black or African-American,13792744.49
+1299,Late,PhD,Male,2001,Black or African-American,1486857.0899999999
+1300,Mid,PhD,Male,2001,Black or African-American,21230505.49
+1301,Early,MD,Female,2002,Black or African-American,10768750.629999999
+1302,Mid,MD,Female,2002,Black or African-American,1203944.94
+1303,Early,MD-PhD,Female,2002,Black or African-American,1864127.12
+1304,Mid,MD-PhD,Female,2002,Black or African-American,3805134.81
+1305,Early,Other,Female,2002,Black or African-American,128950.44
+1306,Early,PhD,Female,2002,Black or African-American,8766107.89
+1307,Late,PhD,Female,2002,Black or African-American,804789.47
+1308,Mid,PhD,Female,2002,Black or African-American,19650767.0
+1309,Early,MD,Male,2002,Black or African-American,5629625.17
+1310,Late,MD,Male,2002,Black or African-American,1613449.0999999999
+1311,Mid,MD,Male,2002,Black or African-American,14226249.74
+1312,Early,MD-PhD,Male,2002,Black or African-American,8598044.65
+1313,Late,MD-PhD,Male,2002,Black or African-American,3910191.87
+1314,Mid,MD-PhD,Male,2002,Black or African-American,19478425.54
+1315,Mid,Other,Male,2002,Black or African-American,594314.61
+1316,Early,PhD,Male,2002,Black or African-American,13963507.5
+1317,Late,PhD,Male,2002,Black or African-American,3473524.88
+1318,Mid,PhD,Male,2002,Black or African-American,19668565.39
+1319,Early,MD,Female,2003,Black or African-American,8217101.62
+1320,Mid,MD,Female,2003,Black or African-American,5922246.0600000005
+1321,Early,MD-PhD,Female,2003,Black or African-American,85150.23
+1322,Mid,MD-PhD,Female,2003,Black or African-American,7186739.629999999
+1323,Mid,Other,Female,2003,Black or African-American,118658.43
+1324,Early,PhD,Female,2003,Black or African-American,10238621.78
+1325,Late,PhD,Female,2003,Black or African-American,3373071.9699999997
+1326,Mid,PhD,Female,2003,Black or African-American,14077123.32
+1327,Early,MD,Male,2003,Black or African-American,12554856.350000001
+1328,Late,MD,Male,2003,Black or African-American,1358728.08
+1329,Mid,MD,Male,2003,Black or African-American,16077012.18
+1330,Early,MD-PhD,Male,2003,Black or African-American,8536654.69
+1331,Late,MD-PhD,Male,2003,Black or African-American,4858306.5
+1332,Mid,MD-PhD,Male,2003,Black or African-American,13584276.940000001
+1333,Mid,Other,Male,2003,Black or African-American,236528.43
+1334,Early,PhD,Male,2003,Black or African-American,14966437.120000001
+1335,Late,PhD,Male,2003,Black or African-American,5862784.390000001
+1336,Mid,PhD,Male,2003,Black or African-American,16653780.43
+1337,Early,MD,Female,2004,Black or African-American,7387175.29
+1338,Mid,MD,Female,2004,Black or African-American,7082585.8100000005
+1339,Early,MD-PhD,Female,2004,Black or African-American,82091.8
+1340,Mid,MD-PhD,Female,2004,Black or African-American,6678294.33
+1341,Early,Other,Female,2004,Black or African-American,40966.85
+1342,Late,Other,Female,2004,Black or African-American,220431.69
+1343,Early,PhD,Female,2004,Black or African-American,12098411.69
+1344,Late,PhD,Female,2004,Black or African-American,4419856.11
+1345,Mid,PhD,Female,2004,Black or African-American,10478936.530000001
+1346,Early,MD,Male,2004,Black or African-American,6706278.49
+1347,Late,MD,Male,2004,Black or African-American,2269151.2
+1348,Mid,MD,Male,2004,Black or African-American,16184085.719999999
+1349,Early,MD-PhD,Male,2004,Black or African-American,10451428.16
+1350,Late,MD-PhD,Male,2004,Black or African-American,6048051.2299999995
+1351,Mid,MD-PhD,Male,2004,Black or African-American,18387887.310000002
+1352,Mid,Other,Male,2004,Black or African-American,225752.46
+1353,Early,PhD,Male,2004,Black or African-American,16988836.25
+1354,Late,PhD,Male,2004,Black or African-American,8558076.49
+1355,Mid,PhD,Male,2004,Black or African-American,15225119.69
+1356,Early,MD,Female,2005,Black or African-American,5927947.45
+1357,Late,MD,Female,2005,Black or African-American,852319.62
+1358,Mid,MD,Female,2005,Black or African-American,5145182.39
+1359,Early,MD-PhD,Female,2005,Black or African-American,79017.66
+1360,Mid,MD-PhD,Female,2005,Black or African-American,6678569.87
+1361,Early,Other,Female,2005,Black or African-American,92286.78
+1362,Early,PhD,Female,2005,Black or African-American,12499272.77
+1363,Late,PhD,Female,2005,Black or African-American,4124177.62
+1364,Mid,PhD,Female,2005,Black or African-American,10907603.92
+1365,Early,MD,Male,2005,Black or African-American,11644876.76
+1366,Late,MD,Male,2005,Black or African-American,5064142.45
+1367,Mid,MD,Male,2005,Black or African-American,14012875.12
+1368,Early,MD-PhD,Male,2005,Black or African-American,5361292.77
+1369,Late,MD-PhD,Male,2005,Black or African-American,5060964.2
+1370,Mid,MD-PhD,Male,2005,Black or African-American,27312176.86
+1371,Mid,Other,Male,2005,Black or African-American,912759.35
+1372,Early,PhD,Male,2005,Black or African-American,18211008.88
+1373,Late,PhD,Male,2005,Black or African-American,10194389.04
+1374,Mid,PhD,Male,2005,Black or African-American,14962325.06
+1375,Early,MD,Female,2006,Black or African-American,6338859.56
+1376,Late,MD,Female,2006,Black or African-American,795249.11
+1377,Mid,MD,Female,2006,Black or African-American,4512292.5
+1378,Early,MD-PhD,Female,2006,Black or African-American,71745.36
+1379,Mid,MD-PhD,Female,2006,Black or African-American,3900233.23
+1380,Early,Other,Female,2006,Black or African-American,244544.0
+1381,Early,PhD,Female,2006,Black or African-American,11872382.28
+1382,Late,PhD,Female,2006,Black or African-American,5998394.93
+1383,Mid,PhD,Female,2006,Black or African-American,13483402.73
+1384,Early,MD,Male,2006,Black or African-American,6743689.42
+1385,Late,MD,Male,2006,Black or African-American,4464453.87
+1386,Mid,MD,Male,2006,Black or African-American,16398949.75
+1387,Early,MD-PhD,Male,2006,Black or African-American,4550285.38
+1388,Late,MD-PhD,Male,2006,Black or African-American,3926815.38
+1389,Mid,MD-PhD,Male,2006,Black or African-American,16579258.57
+1390,Early,Other,Male,2006,Black or African-American,60891.26
+1391,Mid,Other,Male,2006,Black or African-American,965394.7100000001
+1392,Early,PhD,Male,2006,Black or African-American,18726858.85
+1393,Late,PhD,Male,2006,Black or African-American,11339877.84
+1394,Mid,PhD,Male,2006,Black or African-American,12167885.08
+1395,Early,MD,Female,2007,Black or African-American,3347855.17
+1396,Late,MD,Female,2007,Black or African-American,740753.76
+1397,Mid,MD,Female,2007,Black or African-American,6825475.28
+1398,Early,MD-PhD,Female,2007,Black or African-American,249021.25
+1399,Mid,MD-PhD,Female,2007,Black or African-American,3026333.1500000004
+1400,Early,Other,Female,2007,Black or African-American,284013.82
+1401,Early,PhD,Female,2007,Black or African-American,18410677.06
+1402,Late,PhD,Female,2007,Black or African-American,5232190.91
+1403,Mid,PhD,Female,2007,Black or African-American,12279597.49
+1404,Early,MD,Male,2007,Black or African-American,8615906.41
+1405,Late,MD,Male,2007,Black or African-American,3796730.21
+1406,Mid,MD,Male,2007,Black or African-American,13252520.26
+1407,Early,MD-PhD,Male,2007,Black or African-American,11629064.46
+1408,Late,MD-PhD,Male,2007,Black or African-American,10905755.77
+1409,Mid,MD-PhD,Male,2007,Black or African-American,15811008.01
+1410,Early,Other,Male,2007,Black or African-American,56963.65
+1411,Mid,Other,Male,2007,Black or African-American,843598.5
+1412,Early,PhD,Male,2007,Black or African-American,18021027.99
+1413,Late,PhD,Male,2007,Black or African-American,7718672.39
+1414,Mid,PhD,Male,2007,Black or African-American,15487734.37
+1415,Early,MD,Female,2008,Black or African-American,1809105.22
+1416,Late,MD,Female,2008,Black or African-American,690993.5
+1417,Mid,MD,Female,2008,Black or African-American,7249113.64
+1418,Early,MD-PhD,Female,2008,Black or African-American,501814.06
+1419,Mid,MD-PhD,Female,2008,Black or African-American,2756926.7399999998
+1420,Early,Other,Female,2008,Black or African-American,326613.3
+1421,Late,Other,Female,2008,Black or African-American,9388.63
+1422,Early,PhD,Female,2008,Black or African-American,17575813.52
+1423,Late,PhD,Female,2008,Black or African-American,3872705.45
+1424,Mid,PhD,Female,2008,Black or African-American,12918770.2
+1425,Early,MD,Male,2008,Black or African-American,4680951.88
+1426,Late,MD,Male,2008,Black or African-American,3839089.0300000003
+1427,Mid,MD,Male,2008,Black or African-American,20745825.06
+1428,Early,MD-PhD,Male,2008,Black or African-American,1888579.03
+1429,Late,MD-PhD,Male,2008,Black or African-American,15410257.71
+1430,Mid,MD-PhD,Male,2008,Black or African-American,20089676.6
+1431,Early,Other,Male,2008,Black or African-American,23695.54
+1432,Early,PhD,Male,2008,Black or African-American,15957965.9
+1433,Late,PhD,Male,2008,Black or African-American,7844045.55
+1434,Mid,PhD,Male,2008,Black or African-American,16831813.66
+1435,Early,MD,Female,2009,Black or African-American,1930823.09
+1436,Mid,MD,Female,2009,Black or African-American,8381738.14
+1437,Early,MD-PhD,Female,2009,Black or African-American,656819.45
+1438,Mid,MD-PhD,Female,2009,Black or African-American,2383300.92
+1439,Early,Other,Female,2009,Black or African-American,534891.04
+1440,Late,Other,Female,2009,Black or African-American,6570.45
+1441,Early,PhD,Female,2009,Black or African-American,19681207.37
+1442,Late,PhD,Female,2009,Black or African-American,3281154.6799999997
+1443,Mid,PhD,Female,2009,Black or African-American,11823111.52
+1444,Early,MD,Male,2009,Black or African-American,5073094.87
+1445,Late,MD,Male,2009,Black or African-American,1865313.71
+1446,Mid,MD,Male,2009,Black or African-American,12724344.28
+1447,Early,MD-PhD,Male,2009,Black or African-American,3312522.48
+1448,Late,MD-PhD,Male,2009,Black or African-American,12693868.11
+1449,Mid,MD-PhD,Male,2009,Black or African-American,15458322.39
+1450,Mid,Other,Male,2009,Black or African-American,23489.28
+1451,Early,PhD,Male,2009,Black or African-American,17772053.61
+1452,Late,PhD,Male,2009,Black or African-American,8225347.37
+1453,Mid,PhD,Male,2009,Black or African-American,19375688.52
+1454,Early,MD,Female,2010,Black or African-American,3051937.24
+1455,Late,MD,Female,2010,Black or African-American,553208.31
+1456,Mid,MD,Female,2010,Black or African-American,7220315.46
+1457,Early,MD-PhD,Female,2010,Black or African-American,940907.87
+1458,Mid,MD-PhD,Female,2010,Black or African-American,1978836.41
+1459,Early,Other,Female,2010,Black or African-American,739968.74
+1460,Early,PhD,Female,2010,Black or African-American,20146475.64
+1461,Late,PhD,Female,2010,Black or African-American,3331015.83
+1462,Mid,PhD,Female,2010,Black or African-American,13396326.469999999
+1463,Early,MD,Male,2010,Black or African-American,7964835.4
+1464,Late,MD,Male,2010,Black or African-American,1767570.3
+1465,Mid,MD,Male,2010,Black or African-American,23080091.38
+1466,Early,MD-PhD,Male,2010,Black or African-American,6974634.390000001
+1467,Late,MD-PhD,Male,2010,Black or African-American,13532831.53
+1468,Mid,MD-PhD,Male,2010,Black or African-American,13548702.98
+1469,Early,Other,Male,2010,Black or African-American,789324.98
+1470,Mid,Other,Male,2010,Black or African-American,22796.05
+1471,Early,PhD,Male,2010,Black or African-American,20529304.11
+1472,Late,PhD,Male,2010,Black or African-American,6293729.33
+1473,Mid,PhD,Male,2010,Black or African-American,18661016.06
+1474,Early,MD,Female,2011,Black or African-American,6076155.88
+1475,Late,MD,Female,2011,Black or African-American,425503.75
+1476,Mid,MD,Female,2011,Black or African-American,7692067.34
+1477,Early,MD-PhD,Female,2011,Black or African-American,975356.79
+1478,Mid,MD-PhD,Female,2011,Black or African-American,2347318.11
+1479,Early,Other,Female,2011,Black or African-American,377281.37
+1480,Mid,Other,Female,2011,Black or African-American,45779.4
+1481,Early,PhD,Female,2011,Black or African-American,18912492.5
+1482,Late,PhD,Female,2011,Black or African-American,3849005.7
+1483,Mid,PhD,Female,2011,Black or African-American,11478789.65
+1484,Early,MD,Male,2011,Black or African-American,8252724.67
+1485,Late,MD,Male,2011,Black or African-American,4414201.35
+1486,Mid,MD,Male,2011,Black or African-American,18028872.830000002
+1487,Early,MD-PhD,Male,2011,Black or African-American,3501061.11
+1488,Late,MD-PhD,Male,2011,Black or African-American,14622103.149999999
+1489,Mid,MD-PhD,Male,2011,Black or African-American,9580467.7
+1490,Early,Other,Male,2011,Black or African-American,545158.23
+1491,Early,PhD,Male,2011,Black or African-American,14811735.34
+1492,Late,PhD,Male,2011,Black or African-American,4970859.46
+1493,Mid,PhD,Male,2011,Black or African-American,21039157.71
+1494,Early,MD,Female,2012,Black or African-American,6892965.11
+1495,Late,MD,Female,2012,Black or African-American,1774161.09
+1496,Mid,MD,Female,2012,Black or African-American,6427769.350000001
+1497,Early,MD-PhD,Female,2012,Black or African-American,287742.57
+1498,Mid,MD-PhD,Female,2012,Black or African-American,2952813.48
+1499,Early,PhD,Female,2012,Black or African-American,18965845.09
+1500,Late,PhD,Female,2012,Black or African-American,5570110.01
+1501,Mid,PhD,Female,2012,Black or African-American,16053533.6
+1502,Early,MD,Male,2012,Black or African-American,5825017.22
+1503,Late,MD,Male,2012,Black or African-American,3380511.87
+1504,Mid,MD,Male,2012,Black or African-American,18645861.03
+1505,Early,MD-PhD,Male,2012,Black or African-American,6130185.09
+1506,Late,MD-PhD,Male,2012,Black or African-American,10157770.09
+1507,Mid,MD-PhD,Male,2012,Black or African-American,9822192.93
+1508,Early,Other,Male,2012,Black or African-American,391743.23
+1509,Mid,Other,Male,2012,Black or African-American,411414.98000000004
+1510,Early,PhD,Male,2012,Black or African-American,17576015.23
+1511,Late,PhD,Male,2012,Black or African-American,6445539.0600000005
+1512,Mid,PhD,Male,2012,Black or African-American,20920158.39
+1513,Early,MD,Female,2013,Black or African-American,6818386.5
+1514,Late,MD,Female,2013,Black or African-American,1659577.37
+1515,Mid,MD,Female,2013,Black or African-American,8945615.129999999
+1516,Early,MD-PhD,Female,2013,Black or African-American,321987.21
+1517,Mid,MD-PhD,Female,2013,Black or African-American,2749580.72
+1518,Early,Other,Female,2013,Black or African-American,73113.16
+1519,Early,PhD,Female,2013,Black or African-American,13486378.41
+1520,Late,PhD,Female,2013,Black or African-American,3914152.61
+1521,Mid,PhD,Female,2013,Black or African-American,17268286.599999998
+1522,Early,MD,Male,2013,Black or African-American,5410307.26
+1523,Late,MD,Male,2013,Black or African-American,3920220.88
+1524,Mid,MD,Male,2013,Black or African-American,19987450.47
+1525,Early,MD-PhD,Male,2013,Black or African-American,6919679.23
+1526,Late,MD-PhD,Male,2013,Black or African-American,17152443.77
+1527,Mid,MD-PhD,Male,2013,Black or African-American,9022816.02
+1528,Mid,Other,Male,2013,Black or African-American,448273.36
+1529,Early,PhD,Male,2013,Black or African-American,18126282.48
+1530,Late,PhD,Male,2013,Black or African-American,4541940.01
+1531,Mid,PhD,Male,2013,Black or African-American,20881153.11
+1532,Early,MD,Female,2014,Black or African-American,5813649.52
+1533,Late,MD,Female,2014,Black or African-American,2674919.38
+1534,Mid,MD,Female,2014,Black or African-American,7707985.8
+1535,Early,MD-PhD,Female,2014,Black or African-American,422539.41000000003
+1536,Late,MD-PhD,Female,2014,Black or African-American,2329693.52
+1537,Mid,MD-PhD,Female,2014,Black or African-American,720985.4199999999
+1538,Early,Other,Female,2014,Black or African-American,143789.25
+1539,Early,PhD,Female,2014,Black or African-American,16562401.59
+1540,Late,PhD,Female,2014,Black or African-American,6015865.29
+1541,Mid,PhD,Female,2014,Black or African-American,17868972.04
+1542,Early,MD,Male,2014,Black or African-American,5487124.850000001
+1543,Late,MD,Male,2014,Black or African-American,3792424.3
+1544,Mid,MD,Male,2014,Black or African-American,18543931.2
+1545,Early,MD-PhD,Male,2014,Black or African-American,5707691.04
+1546,Late,MD-PhD,Male,2014,Black or African-American,10582351.84
+1547,Mid,MD-PhD,Male,2014,Black or African-American,13850936.04
+1548,Early,Other,Male,2014,Black or African-American,732166.39
+1549,Mid,Other,Male,2014,Black or African-American,183198.89
+1550,Early,PhD,Male,2014,Black or African-American,22418861.66
+1551,Late,PhD,Male,2014,Black or African-American,4679893.97
+1552,Mid,PhD,Male,2014,Black or African-American,20500848.19
+1553,Early,MD,Female,2015,Black or African-American,6033922.99
+1554,Late,MD,Female,2015,Black or African-American,4558712.5
+1555,Mid,MD,Female,2015,Black or African-American,7943508.08
+1556,Early,MD-PhD,Female,2015,Black or African-American,394066.41000000003
+1557,Late,MD-PhD,Female,2015,Black or African-American,2303361.83
+1558,Mid,MD-PhD,Female,2015,Black or African-American,751138.12
+1559,Early,Other,Female,2015,Black or African-American,40725.12
+1560,Early,PhD,Female,2015,Black or African-American,14559152.57
+1561,Late,PhD,Female,2015,Black or African-American,5592109.14
+1562,Mid,PhD,Female,2015,Black or African-American,15463665.42
+1563,Early,MD,Male,2015,Black or African-American,3159667.3899999997
+1564,Late,MD,Male,2015,Black or African-American,3839097.67
+1565,Mid,MD,Male,2015,Black or African-American,18666996.07
+1566,Early,MD-PhD,Male,2015,Black or African-American,5964425.34
+1567,Late,MD-PhD,Male,2015,Black or African-American,4772478.48
+1568,Mid,MD-PhD,Male,2015,Black or African-American,10540065.05
+1569,Early,Other,Male,2015,Black or African-American,292007.84
+1570,Mid,Other,Male,2015,Black or African-American,165712.56
+1571,Early,PhD,Male,2015,Black or African-American,24648417.71
+1572,Late,PhD,Male,2015,Black or African-American,3512175.36
+1573,Mid,PhD,Male,2015,Black or African-American,21136593.97
+1574,Early,MD,Female,2016,Black or African-American,8929544.49
+1575,Late,MD,Female,2016,Black or African-American,5398690.58
+1576,Mid,MD,Female,2016,Black or African-American,5662569.18
+1577,Early,MD-PhD,Female,2016,Black or African-American,860628.05
+1578,Late,MD-PhD,Female,2016,Black or African-American,2615584.84
+1579,Mid,MD-PhD,Female,2016,Black or African-American,164758.46
+1580,Early,Other,Female,2016,Black or African-American,516055.95999999996
+1581,Mid,Other,Female,2016,Black or African-American,397852.0
+1582,Early,PhD,Female,2016,Black or African-American,16256264.629999999
+1583,Late,PhD,Female,2016,Black or African-American,5685695.63
+1584,Mid,PhD,Female,2016,Black or African-American,31048825.14
+1585,Early,MD,Male,2016,Black or African-American,3868164.16
+1586,Late,MD,Male,2016,Black or African-American,1264403.32
+1587,Mid,MD,Male,2016,Black or African-American,16742180.97
+1588,Early,MD-PhD,Male,2016,Black or African-American,5008251.44
+1589,Late,MD-PhD,Male,2016,Black or African-American,12968807.67
+1590,Mid,MD-PhD,Male,2016,Black or African-American,12136083.74
+1591,Early,Other,Male,2016,Black or African-American,156360.53
+1592,Early,PhD,Male,2016,Black or African-American,23043673.92
+1593,Late,PhD,Male,2016,Black or African-American,5600695.0
+1594,Mid,PhD,Male,2016,Black or African-American,23266139.17
+1595,Early,MD,Female,2017,Black or African-American,10660973.16
+1596,Late,MD,Female,2017,Black or African-American,4783207.279999999
+1597,Mid,MD,Female,2017,Black or African-American,8242946.94
+1598,Early,MD-PhD,Female,2017,Black or African-American,1186876.22
+1599,Late,MD-PhD,Female,2017,Black or African-American,2304670.66
+1600,Early,Other,Female,2017,Black or African-American,114823.91
+1601,Late,Other,Female,2017,Black or African-American,94922.38
+1602,Mid,Other,Female,2017,Black or African-American,257942.21000000002
+1603,Early,PhD,Female,2017,Black or African-American,21565395.28
+1604,Late,PhD,Female,2017,Black or African-American,5279635.89
+1605,Mid,PhD,Female,2017,Black or African-American,13002200.86
+1606,Early,MD,Male,2017,Black or African-American,3510853.93
+1607,Late,MD,Male,2017,Black or African-American,5224964.15
+1608,Mid,MD,Male,2017,Black or African-American,15597626.65
+1609,Early,MD-PhD,Male,2017,Black or African-American,8219990.78
+1610,Late,MD-PhD,Male,2017,Black or African-American,12728735.32
+1611,Mid,MD-PhD,Male,2017,Black or African-American,13389049.04
+1612,Early,Other,Male,2017,Black or African-American,162230.15
+1613,Mid,Other,Male,2017,Black or African-American,178971.41
+1614,Early,PhD,Male,2017,Black or African-American,28043803.48
+1615,Late,PhD,Male,2017,Black or African-American,6423094.18
+1616,Mid,PhD,Male,2017,Black or African-American,22228257.89
+1617,Early,MD,Female,2018,Black or African-American,11021596.61
+1618,Late,MD,Female,2018,Black or African-American,4551496.09
+1619,Mid,MD,Female,2018,Black or African-American,10565136.87
+1620,Early,MD-PhD,Female,2018,Black or African-American,408963.54
+1621,Late,MD-PhD,Female,2018,Black or African-American,1599509.46
+1622,Mid,MD-PhD,Female,2018,Black or African-American,405906.22
+1623,Early,Other,Female,2018,Black or African-American,157229.16999999998
+1624,Late,Other,Female,2018,Black or African-American,85071.82
+1625,Early,PhD,Female,2018,Black or African-American,25929257.22
+1626,Late,PhD,Female,2018,Black or African-American,6800207.51
+1627,Mid,PhD,Female,2018,Black or African-American,22865379.71
+1628,Early,MD,Male,2018,Black or African-American,4627462.95
+1629,Late,MD,Male,2018,Black or African-American,6590934.21
+1630,Mid,MD,Male,2018,Black or African-American,22115119.69
+1631,Early,MD-PhD,Male,2018,Black or African-American,5798137.51
+1632,Late,MD-PhD,Male,2018,Black or African-American,9599115.959999999
+1633,Mid,MD-PhD,Male,2018,Black or African-American,16368455.56
+1634,Early,Other,Male,2018,Black or African-American,116156.58
+1635,Mid,Other,Male,2018,Black or African-American,160778.69
+1636,Early,PhD,Male,2018,Black or African-American,33111008.32
+1637,Late,PhD,Male,2018,Black or African-American,8522421.87
+1638,Mid,PhD,Male,2018,Black or African-American,20483085.43
+1639,Early,MD,Female,2019,Black or African-American,7401250.54
+1640,Late,MD,Female,2019,Black or African-American,7335176.359999999
+1641,Mid,MD,Female,2019,Black or African-American,12336916.41
+1642,Early,MD-PhD,Female,2019,Black or African-American,1686465.2599999998
+1643,Late,MD-PhD,Female,2019,Black or African-American,1240551.7
+1644,Mid,MD-PhD,Female,2019,Black or African-American,1530407.6400000001
+1645,Early,Other,Female,2019,Black or African-American,667305.33
+1646,Early,PhD,Female,2019,Black or African-American,30670928.8
+1647,Late,PhD,Female,2019,Black or African-American,15142560.389999999
+1648,Mid,PhD,Female,2019,Black or African-American,20623535.77
+1649,Early,MD,Male,2019,Black or African-American,12888895.620000001
+1650,Late,MD,Male,2019,Black or African-American,8049798.35
+1651,Mid,MD,Male,2019,Black or African-American,18839874.11
+1652,Early,MD-PhD,Male,2019,Black or African-American,9382503.11
+1653,Late,MD-PhD,Male,2019,Black or African-American,8054623.74
+1654,Mid,MD-PhD,Male,2019,Black or African-American,17821201.1
+1655,Early,Other,Male,2019,Black or African-American,194044.94999999998
+1656,Mid,Other,Male,2019,Black or African-American,282594.93
+1657,Early,PhD,Male,2019,Black or African-American,37191785.99
+1658,Late,PhD,Male,2019,Black or African-American,9541176.01
+1659,Mid,PhD,Male,2019,Black or African-American,25181801.33
+1660,Early,MD,Female,2020,Black or African-American,12015124.22
+1661,Late,MD,Female,2020,Black or African-American,8764726.73
+1662,Mid,MD,Female,2020,Black or African-American,21416273.59
+1663,Early,MD-PhD,Female,2020,Black or African-American,2760097.5999999996
+1664,Late,MD-PhD,Female,2020,Black or African-American,1048081.75
+1665,Mid,MD-PhD,Female,2020,Black or African-American,1824089.54
+1666,Early,Other,Female,2020,Black or African-American,728922.94
+1667,Mid,Other,Female,2020,Black or African-American,246086.17
+1668,Early,PhD,Female,2020,Black or African-American,38801904.8
+1669,Late,PhD,Female,2020,Black or African-American,8204576.54
+1670,Mid,PhD,Female,2020,Black or African-American,33016365.19
+1671,Early,MD,Male,2020,Black or African-American,6367610.96
+1672,Late,MD,Male,2020,Black or African-American,10640542.79
+1673,Mid,MD,Male,2020,Black or African-American,23117354.8
+1674,Early,MD-PhD,Male,2020,Black or African-American,7167807.5600000005
+1675,Late,MD-PhD,Male,2020,Black or African-American,7015479.100000001
+1676,Mid,MD-PhD,Male,2020,Black or African-American,20419572.88
+1677,Early,Other,Male,2020,Black or African-American,454792.69
+1678,Mid,Other,Male,2020,Black or African-American,268836.93
+1679,Early,PhD,Male,2020,Black or African-American,45753751.81
+1680,Late,PhD,Male,2020,Black or African-American,12834142.77
+1681,Mid,PhD,Male,2020,Black or African-American,31728737.51
+1682,Early,PhD,Female,1985,More than One Race,150328.07
+1683,Mid,PhD,Female,1985,More than One Race,351357.43
+1684,Early,MD,Male,1985,More than One Race,806819.02
+1685,Mid,MD,Male,1985,More than One Race,3011945.7
+1686,Early,MD-PhD,Male,1985,More than One Race,3157859.6
+1687,Early,PhD,Male,1985,More than One Race,4060662.22
+1688,Late,PhD,Male,1985,More than One Race,2938023.44
+1689,Mid,PhD,Male,1985,More than One Race,3156662.06
+1690,Early,PhD,Female,1986,More than One Race,1040329.4
+1691,Mid,PhD,Female,1986,More than One Race,976766.6499999999
+1692,Early,MD,Male,1986,More than One Race,1084639.25
+1693,Mid,MD,Male,1986,More than One Race,3289870.2199999997
+1694,Early,MD-PhD,Male,1986,More than One Race,2633831.48
+1695,Early,PhD,Male,1986,More than One Race,5161649.24
+1696,Late,PhD,Male,1986,More than One Race,2797185.4099999997
+1697,Mid,PhD,Male,1986,More than One Race,3720560.08
+1698,Early,PhD,Female,1987,More than One Race,1025042.31
+1699,Mid,PhD,Female,1987,More than One Race,488697.49
+1700,Early,MD,Male,1987,More than One Race,1672199.5499999998
+1701,Mid,MD,Male,1987,More than One Race,3898228.05
+1702,Early,MD-PhD,Male,1987,More than One Race,1225820.3800000001
+1703,Mid,MD-PhD,Male,1987,More than One Race,826515.61
+1704,Early,PhD,Male,1987,More than One Race,5125790.23
+1705,Late,PhD,Male,1987,More than One Race,2451551.5100000002
+1706,Mid,PhD,Male,1987,More than One Race,4595289.7700000005
+1707,Early,PhD,Female,1988,More than One Race,1487536.3199999998
+1708,Mid,PhD,Female,1988,More than One Race,705889.49
+1709,Early,MD,Male,1988,More than One Race,2900864.27
+1710,Mid,MD,Male,1988,More than One Race,4021068.17
+1711,Early,MD-PhD,Male,1988,More than One Race,501907.01
+1712,Mid,MD-PhD,Male,1988,More than One Race,2391089.02
+1713,Early,PhD,Male,1988,More than One Race,4285669.13
+1714,Late,PhD,Male,1988,More than One Race,3014882.71
+1715,Mid,PhD,Male,1988,More than One Race,5662134.18
+1716,Early,PhD,Female,1989,More than One Race,1078217.8900000001
+1717,Mid,PhD,Female,1989,More than One Race,798334.66
+1718,Early,MD,Male,1989,More than One Race,2867305.95
+1719,Late,MD,Male,1989,More than One Race,615154.66
+1720,Mid,MD,Male,1989,More than One Race,3545333.6100000003
+1721,Early,MD-PhD,Male,1989,More than One Race,1091094.81
+1722,Mid,MD-PhD,Male,1989,More than One Race,3976013.0200000005
+1723,Early,PhD,Male,1989,More than One Race,4016387.24
+1724,Late,PhD,Male,1989,More than One Race,2856753.7199999997
+1725,Mid,PhD,Male,1989,More than One Race,5420989.64
+1726,Early,MD-PhD,Female,1990,More than One Race,275479.73
+1727,Early,PhD,Female,1990,More than One Race,1358060.71
+1728,Mid,PhD,Female,1990,More than One Race,502761.69
+1729,Early,MD,Male,1990,More than One Race,1959286.94
+1730,Late,MD,Male,1990,More than One Race,538614.62
+1731,Mid,MD,Male,1990,More than One Race,5118564.31
+1732,Early,MD-PhD,Male,1990,More than One Race,25680.92
+1733,Mid,MD-PhD,Male,1990,More than One Race,7586805.119999999
+1734,Early,PhD,Male,1990,More than One Race,4389697.27
+1735,Late,PhD,Male,1990,More than One Race,2758332.1500000004
+1736,Mid,PhD,Male,1990,More than One Race,5283521.390000001
+1737,Early,MD-PhD,Female,1991,More than One Race,252172.19
+1738,Early,PhD,Female,1991,More than One Race,2616387.02
+1739,Mid,PhD,Female,1991,More than One Race,457719.28
+1740,Early,MD,Male,1991,More than One Race,2312788.5500000003
+1741,Late,MD,Male,1991,More than One Race,512864.34
+1742,Mid,MD,Male,1991,More than One Race,3333600.5
+1743,Early,MD-PhD,Male,1991,More than One Race,189514.11000000002
+1744,Mid,MD-PhD,Male,1991,More than One Race,7688088.42
+1745,Early,PhD,Male,1991,More than One Race,5610639.66
+1746,Late,PhD,Male,1991,More than One Race,3016560.65
+1747,Mid,PhD,Male,1991,More than One Race,8617697.04
+1748,Early,MD-PhD,Female,1992,More than One Race,259246.07
+1749,Early,PhD,Female,1992,More than One Race,3596402.93
+1750,Mid,PhD,Female,1992,More than One Race,453521.4
+1751,Early,MD,Male,1992,More than One Race,2410604.98
+1752,Late,MD,Male,1992,More than One Race,592006.85
+1753,Mid,MD,Male,1992,More than One Race,3681535.43
+1754,Early,MD-PhD,Male,1992,More than One Race,753585.63
+1755,Mid,MD-PhD,Male,1992,More than One Race,5689638.88
+1756,Early,PhD,Male,1992,More than One Race,7670680.8
+1757,Late,PhD,Male,1992,More than One Race,2864054.0999999996
+1758,Mid,PhD,Male,1992,More than One Race,9215424.77
+1759,Early,MD-PhD,Female,1993,More than One Race,254203.2
+1760,Early,PhD,Female,1993,More than One Race,5502349.87
+1761,Mid,PhD,Female,1993,More than One Race,447141.6
+1762,Early,MD,Male,1993,More than One Race,1311444.29
+1763,Late,MD,Male,1993,More than One Race,3383537.05
+1764,Mid,MD,Male,1993,More than One Race,3053177.04
+1765,Early,MD-PhD,Male,1993,More than One Race,560787.13
+1766,Mid,MD-PhD,Male,1993,More than One Race,6835650.59
+1767,Early,PhD,Male,1993,More than One Race,6254769.44
+1768,Late,PhD,Male,1993,More than One Race,2621200.42
+1769,Mid,PhD,Male,1993,More than One Race,10117767.549999999
+1770,Early,MD,Female,1994,More than One Race,472189.44
+1771,Early,MD-PhD,Female,1994,More than One Race,654447.37
+1772,Early,PhD,Female,1994,More than One Race,5236874.08
+1773,Mid,PhD,Female,1994,More than One Race,426956.1
+1774,Early,MD,Male,1994,More than One Race,1511176.95
+1775,Late,MD,Male,1994,More than One Race,3804438.13
+1776,Mid,MD,Male,1994,More than One Race,3284881.31
+1777,Early,MD-PhD,Male,1994,More than One Race,471131.88
+1778,Mid,MD-PhD,Male,1994,More than One Race,5804977.78
+1779,Mid,Other,Male,1994,More than One Race,336401.13
+1780,Early,PhD,Male,1994,More than One Race,5869388.09
+1781,Late,PhD,Male,1994,More than One Race,2526401.89
+1782,Mid,PhD,Male,1994,More than One Race,11907937.59
+1783,Early,MD-PhD,Female,1995,More than One Race,738200.8
+1784,Early,PhD,Female,1995,More than One Race,6818729.72
+1785,Early,MD,Male,1995,More than One Race,2976459.06
+1786,Late,MD,Male,1995,More than One Race,3640759.91
+1787,Mid,MD,Male,1995,More than One Race,2737504.54
+1788,Early,MD-PhD,Male,1995,More than One Race,529282.99
+1789,Mid,MD-PhD,Male,1995,More than One Race,4750764.85
+1790,Early,PhD,Male,1995,More than One Race,7957789.88
+1791,Late,PhD,Male,1995,More than One Race,2452437.23
+1792,Mid,PhD,Male,1995,More than One Race,11580933.35
+1793,Early,MD,Female,1996,More than One Race,1079767.79
+1794,Early,MD-PhD,Female,1996,More than One Race,447908.62
+1795,Mid,MD-PhD,Female,1996,More than One Race,421006.96
+1796,Early,PhD,Female,1996,More than One Race,5866205.05
+1797,Late,PhD,Female,1996,More than One Race,823236.05
+1798,Mid,PhD,Female,1996,More than One Race,1874241.63
+1799,Early,MD,Male,1996,More than One Race,3416120.81
+1800,Late,MD,Male,1996,More than One Race,3950472.6000000006
+1801,Mid,MD,Male,1996,More than One Race,2716251.59
+1802,Early,MD-PhD,Male,1996,More than One Race,502781.91
+1803,Mid,MD-PhD,Male,1996,More than One Race,4457621.55
+1804,Early,PhD,Male,1996,More than One Race,10154449.4
+1805,Late,PhD,Male,1996,More than One Race,4959402.859999999
+1806,Mid,PhD,Male,1996,More than One Race,9787681.64
+1807,Early,MD,Female,1997,More than One Race,1299541.43
+1808,Early,MD-PhD,Female,1997,More than One Race,960867.57
+1809,Mid,MD-PhD,Female,1997,More than One Race,476127.11
+1810,Early,PhD,Female,1997,More than One Race,5169487.95
+1811,Late,PhD,Female,1997,More than One Race,687231.5
+1812,Mid,PhD,Female,1997,More than One Race,1769763.73
+1813,Early,MD,Male,1997,More than One Race,4118791.24
+1814,Late,MD,Male,1997,More than One Race,3998944.5
+1815,Mid,MD,Male,1997,More than One Race,2185367.92
+1816,Early,MD-PhD,Male,1997,More than One Race,663195.8400000001
+1817,Mid,MD-PhD,Male,1997,More than One Race,3543217.2399999998
+1818,Early,PhD,Male,1997,More than One Race,9703476.64
+1819,Late,PhD,Male,1997,More than One Race,5317150.77
+1820,Mid,PhD,Male,1997,More than One Race,9467908.61
+1821,Early,MD,Female,1998,More than One Race,1465625.81
+1822,Early,MD-PhD,Female,1998,More than One Race,998234.31
+1823,Early,PhD,Female,1998,More than One Race,6777104.2
+1824,Late,PhD,Female,1998,More than One Race,730280.82
+1825,Mid,PhD,Female,1998,More than One Race,3155971.36
+1826,Early,MD,Male,1998,More than One Race,5482918.03
+1827,Late,MD,Male,1998,More than One Race,1753789.3599999999
+1828,Mid,MD,Male,1998,More than One Race,2406737.19
+1829,Early,MD-PhD,Male,1998,More than One Race,307253.0
+1830,Mid,MD-PhD,Male,1998,More than One Race,4446008.84
+1831,Early,PhD,Male,1998,More than One Race,10877908.61
+1832,Late,PhD,Male,1998,More than One Race,7030217.5600000005
+1833,Mid,PhD,Male,1998,More than One Race,7300151.23
+1834,Early,MD,Female,1999,More than One Race,1918668.0699999998
+1835,Early,MD-PhD,Female,1999,More than One Race,713581.9199999999
+1836,Mid,MD-PhD,Female,1999,More than One Race,920888.17
+1837,Early,PhD,Female,1999,More than One Race,6773448.05
+1838,Late,PhD,Female,1999,More than One Race,379125.24
+1839,Mid,PhD,Female,1999,More than One Race,4331996.01
+1840,Early,MD,Male,1999,More than One Race,6041760.15
+1841,Late,MD,Male,1999,More than One Race,2183919.65
+1842,Mid,MD,Male,1999,More than One Race,1745865.88
+1843,Early,MD-PhD,Male,1999,More than One Race,1363807.31
+1844,Mid,MD-PhD,Male,1999,More than One Race,4809229.44
+1845,Early,PhD,Male,1999,More than One Race,11525118.91
+1846,Late,PhD,Male,1999,More than One Race,7469496.92
+1847,Mid,PhD,Male,1999,More than One Race,6708070.9399999995
+1848,Early,MD,Female,2000,More than One Race,1985469.5999999999
+1849,Early,MD-PhD,Female,2000,More than One Race,249205.41
+1850,Mid,MD-PhD,Female,2000,More than One Race,918505.3200000001
+1851,Early,PhD,Female,2000,More than One Race,7182091.42
+1852,Late,PhD,Female,2000,More than One Race,354119.7
+1853,Mid,PhD,Female,2000,More than One Race,11896975.59
+1854,Early,MD,Male,2000,More than One Race,5826856.7700000005
+1855,Late,MD,Male,2000,More than One Race,2189631.85
+1856,Mid,MD,Male,2000,More than One Race,2975053.24
+1857,Early,MD-PhD,Male,2000,More than One Race,2157435.5100000002
+1858,Late,MD-PhD,Male,2000,More than One Race,596095.83
+1859,Mid,MD-PhD,Male,2000,More than One Race,3899880.04
+1860,Early,Other,Male,2000,More than One Race,74404.6
+1861,Early,PhD,Male,2000,More than One Race,14348232.79
+1862,Late,PhD,Male,2000,More than One Race,7411553.53
+1863,Mid,PhD,Male,2000,More than One Race,7736315.26
+1864,Early,MD,Female,2001,More than One Race,1595058.29
+1865,Mid,MD,Female,2001,More than One Race,639411.18
+1866,Early,MD-PhD,Female,2001,More than One Race,246206.92
+1867,Mid,MD-PhD,Female,2001,More than One Race,908297.81
+1868,Early,PhD,Female,2001,More than One Race,7290353.890000001
+1869,Mid,PhD,Female,2001,More than One Race,11375940.22
+1870,Early,MD,Male,2001,More than One Race,7243301.4
+1871,Late,MD,Male,2001,More than One Race,2738495.51
+1872,Mid,MD,Male,2001,More than One Race,3137859.99
+1873,Early,MD-PhD,Male,2001,More than One Race,5422334.76
+1874,Late,MD-PhD,Male,2001,More than One Race,1562474.66
+1875,Mid,MD-PhD,Male,2001,More than One Race,2602074.95
+1876,Early,Other,Male,2001,More than One Race,73015.53
+1877,Early,PhD,Male,2001,More than One Race,17876094.68
+1878,Late,PhD,Male,2001,More than One Race,7651558.0
+1879,Mid,PhD,Male,2001,More than One Race,9530472.64
+1880,Early,MD,Female,2002,More than One Race,3546661.01
+1881,Mid,MD,Female,2002,More than One Race,611251.19
+1882,Mid,MD-PhD,Female,2002,More than One Race,991725.17
+1883,Early,PhD,Female,2002,More than One Race,7592121.89
+1884,Late,PhD,Female,2002,More than One Race,1837736.3399999999
+1885,Mid,PhD,Female,2002,More than One Race,9242742.97
+1886,Early,MD,Male,2002,More than One Race,7950383.74
+1887,Late,MD,Male,2002,More than One Race,2916927.46
+1888,Mid,MD,Male,2002,More than One Race,8842808.9
+1889,Early,MD-PhD,Male,2002,More than One Race,7712432.640000001
+1890,Late,MD-PhD,Male,2002,More than One Race,2047904.34
+1891,Mid,MD-PhD,Male,2002,More than One Race,2193970.9099999997
+1892,Early,PhD,Male,2002,More than One Race,21046980.31
+1893,Late,PhD,Male,2002,More than One Race,8325955.97
+1894,Mid,PhD,Male,2002,More than One Race,10038001.52
+1895,Early,MD,Female,2003,More than One Race,3354791.48
+1896,Mid,MD,Female,2003,More than One Race,1077118.91
+1897,Mid,MD-PhD,Female,2003,More than One Race,430481.74
+1898,Early,PhD,Female,2003,More than One Race,9969441.4
+1899,Late,PhD,Female,2003,More than One Race,48024.73
+1900,Mid,PhD,Female,2003,More than One Race,9421414.49
+1901,Early,MD,Male,2003,More than One Race,5142783.96
+1902,Late,MD,Male,2003,More than One Race,4067349.1500000004
+1903,Mid,MD,Male,2003,More than One Race,10138709.01
+1904,Early,MD-PhD,Male,2003,More than One Race,8312916.13
+1905,Late,MD-PhD,Male,2003,More than One Race,2122744.8600000003
+1906,Mid,MD-PhD,Male,2003,More than One Race,3542486.25
+1907,Early,PhD,Male,2003,More than One Race,22024535.25
+1908,Late,PhD,Male,2003,More than One Race,7373083.04
+1909,Mid,PhD,Male,2003,More than One Race,13130397.8
+1910,Early,MD,Female,2004,More than One Race,3179879.19
+1911,Mid,MD,Female,2004,More than One Race,3185899.26
+1912,Mid,MD-PhD,Female,2004,More than One Race,415019.67
+1913,Early,Other,Female,2004,More than One Race,102614.75
+1914,Early,PhD,Female,2004,More than One Race,12288992.35
+1915,Late,PhD,Female,2004,More than One Race,1043037.16
+1916,Mid,PhD,Female,2004,More than One Race,11966713.64
+1917,Early,MD,Male,2004,More than One Race,6414243.0
+1918,Late,MD,Male,2004,More than One Race,2195438.85
+1919,Mid,MD,Male,2004,More than One Race,16320415.89
+1920,Early,MD-PhD,Male,2004,More than One Race,5464460.62
+1921,Late,MD-PhD,Male,2004,More than One Race,6817029.4799999995
+1922,Mid,MD-PhD,Male,2004,More than One Race,4757267.1
+1923,Early,PhD,Male,2004,More than One Race,24749416.7
+1924,Late,PhD,Male,2004,More than One Race,6563476.77
+1925,Mid,PhD,Male,2004,More than One Race,16471850.950000001
+1926,Early,MD,Female,2005,More than One Race,2603490.02
+1927,Mid,MD,Female,2005,More than One Race,4530525.95
+1928,Mid,MD-PhD,Female,2005,More than One Race,672930.51
+1929,Early,Other,Female,2005,More than One Race,98772.08
+1930,Early,PhD,Female,2005,More than One Race,11817278.68
+1931,Late,PhD,Female,2005,More than One Race,2268718.5300000003
+1932,Mid,PhD,Female,2005,More than One Race,14112054.0
+1933,Early,MD,Male,2005,More than One Race,4380442.14
+1934,Late,MD,Male,2005,More than One Race,2347578.17
+1935,Mid,MD,Male,2005,More than One Race,14852426.08
+1936,Early,MD-PhD,Male,2005,More than One Race,9856658.78
+1937,Late,MD-PhD,Male,2005,More than One Race,2614454.45
+1938,Mid,MD-PhD,Male,2005,More than One Race,3726639.75
+1939,Early,PhD,Male,2005,More than One Race,22327485.23
+1940,Late,PhD,Male,2005,More than One Race,7562247.8
+1941,Mid,PhD,Male,2005,More than One Race,18389641.48
+1942,Early,MD,Female,2006,More than One Race,1099834.05
+1943,Mid,MD,Female,2006,More than One Race,4554539.76
+1944,Mid,MD-PhD,Female,2006,More than One Race,679084.56
+1945,Early,PhD,Female,2006,More than One Race,11327200.04
+1946,Late,PhD,Female,2006,More than One Race,2340918.36
+1947,Mid,PhD,Female,2006,More than One Race,12628379.84
+1948,Early,MD,Male,2006,More than One Race,4553485.25
+1949,Late,MD,Male,2006,More than One Race,2642454.48
+1950,Mid,MD,Male,2006,More than One Race,13403246.55
+1951,Early,MD-PhD,Male,2006,More than One Race,15853236.03
+1952,Late,MD-PhD,Male,2006,More than One Race,3026920.13
+1953,Mid,MD-PhD,Male,2006,More than One Race,1541589.69
+1954,Early,Other,Male,2006,More than One Race,349510.41
+1955,Early,PhD,Male,2006,More than One Race,20233531.07
+1956,Late,PhD,Male,2006,More than One Race,8095028.04
+1957,Mid,PhD,Male,2006,More than One Race,17924484.16
+1958,Early,MD,Female,2007,More than One Race,627182.1900000001
+1959,Mid,MD,Female,2007,More than One Race,4630871.17
+1960,Early,MD-PhD,Female,2007,More than One Race,512862.8
+1961,Early,PhD,Female,2007,More than One Race,11612020.89
+1962,Late,PhD,Female,2007,More than One Race,2368262.64
+1963,Mid,PhD,Female,2007,More than One Race,13104357.67
+1964,Early,MD,Male,2007,More than One Race,5346465.85
+1965,Late,MD,Male,2007,More than One Race,2529479.08
+1966,Mid,MD,Male,2007,More than One Race,8809594.4
+1967,Early,MD-PhD,Male,2007,More than One Race,11811369.41
+1968,Late,MD-PhD,Male,2007,More than One Race,2462326.2199999997
+1969,Mid,MD-PhD,Male,2007,More than One Race,851352.9199999999
+1970,Early,PhD,Male,2007,More than One Race,27247171.41
+1971,Late,PhD,Male,2007,More than One Race,8242151.53
+1972,Mid,PhD,Male,2007,More than One Race,18012903.04
+1973,Early,MD,Female,2008,More than One Race,1620983.8399999999
+1974,Mid,MD,Female,2008,More than One Race,3850489.51
+1975,Early,MD-PhD,Female,2008,More than One Race,642400.84
+1976,Early,PhD,Female,2008,More than One Race,18721080.04
+1977,Late,PhD,Female,2008,More than One Race,2113738.78
+1978,Mid,PhD,Female,2008,More than One Race,11306625.36
+1979,Early,MD,Male,2008,More than One Race,7007878.41
+1980,Late,MD,Male,2008,More than One Race,2010771.49
+1981,Mid,MD,Male,2008,More than One Race,7353084.91
+1982,Early,MD-PhD,Male,2008,More than One Race,13753494.379999999
+1983,Late,MD-PhD,Male,2008,More than One Race,2203961.77
+1984,Mid,MD-PhD,Male,2008,More than One Race,560552.84
+1985,Early,PhD,Male,2008,More than One Race,22444914.48
+1986,Late,PhD,Male,2008,More than One Race,7277471.96
+1987,Mid,PhD,Male,2008,More than One Race,19291465.580000002
+1988,Early,MD,Female,2009,More than One Race,2581218.4
+1989,Mid,MD,Female,2009,More than One Race,4011794.11
+1990,Early,MD-PhD,Female,2009,More than One Race,1012769.03
+1991,Mid,MD-PhD,Female,2009,More than One Race,433319.26
+1992,Early,PhD,Female,2009,More than One Race,17491468.21
+1993,Late,PhD,Female,2009,More than One Race,5055343.79
+1994,Mid,PhD,Female,2009,More than One Race,9736618.64
+1995,Early,MD,Male,2009,More than One Race,7272625.28
+1996,Late,MD,Male,2009,More than One Race,2042460.63
+1997,Mid,MD,Male,2009,More than One Race,6541272.12
+1998,Early,MD-PhD,Male,2009,More than One Race,22120981.11
+1999,Late,MD-PhD,Male,2009,More than One Race,2342585.1700000004
+2000,Mid,MD-PhD,Male,2009,More than One Race,5338166.2
+2001,Early,PhD,Male,2009,More than One Race,22450684.43
+2002,Late,PhD,Male,2009,More than One Race,6345758.529999999
+2003,Mid,PhD,Male,2009,More than One Race,21704641.99
+2004,Early,MD,Female,2010,More than One Race,2608113.29
+2005,Mid,MD,Female,2010,More than One Race,3495017.83
+2006,Early,MD-PhD,Female,2010,More than One Race,555969.78
+2007,Mid,MD-PhD,Female,2010,More than One Race,416325.6
+2008,Early,Other,Female,2010,More than One Race,273072.02
+2009,Early,PhD,Female,2010,More than One Race,21383590.830000002
+2010,Late,PhD,Female,2010,More than One Race,3938213.11
+2011,Mid,PhD,Female,2010,More than One Race,9416579.120000001
+2012,Early,MD,Male,2010,More than One Race,7058465.7
+2013,Late,MD,Male,2010,More than One Race,1946744.9900000002
+2014,Mid,MD,Male,2010,More than One Race,6844902.25
+2015,Early,MD-PhD,Male,2010,More than One Race,24362029.82
+2016,Late,MD-PhD,Male,2010,More than One Race,2505188.1999999997
+2017,Mid,MD-PhD,Male,2010,More than One Race,7426526.73
+2018,Early,PhD,Male,2010,More than One Race,21172618.92
+2019,Late,PhD,Male,2010,More than One Race,9745245.57
+2020,Mid,PhD,Male,2010,More than One Race,20900203.55
+2021,Early,MD,Female,2011,More than One Race,4044703.17
+2022,Mid,MD,Female,2011,More than One Race,5278513.93
+2023,Early,MD-PhD,Female,2011,More than One Race,1254758.01
+2024,Mid,MD-PhD,Female,2011,More than One Race,1709012.94
+2025,Early,Other,Female,2011,More than One Race,565887.84
+2026,Early,PhD,Female,2011,More than One Race,17499269.2
+2027,Late,PhD,Female,2011,More than One Race,4493103.98
+2028,Mid,PhD,Female,2011,More than One Race,11074266.23
+2029,Early,MD,Male,2011,More than One Race,6584693.67
+2030,Late,MD,Male,2011,More than One Race,814773.75
+2031,Mid,MD,Male,2011,More than One Race,7645440.96
+2032,Early,MD-PhD,Male,2011,More than One Race,9483066.56
+2033,Late,MD-PhD,Male,2011,More than One Race,1986331.1199999999
+2034,Mid,MD-PhD,Male,2011,More than One Race,6280653.600000001
+2035,Early,PhD,Male,2011,More than One Race,23060046.52
+2036,Late,PhD,Male,2011,More than One Race,7226676.58
+2037,Mid,PhD,Male,2011,More than One Race,21259481.98
+2038,Early,MD,Female,2012,More than One Race,4357829.5
+2039,Late,MD,Female,2012,More than One Race,258951.42
+2040,Mid,MD,Female,2012,More than One Race,4108198.4499999997
+2041,Early,MD-PhD,Female,2012,More than One Race,1114293.44
+2042,Late,MD-PhD,Female,2012,More than One Race,387516.71
+2043,Mid,MD-PhD,Female,2012,More than One Race,1314392.75
+2044,Early,Other,Female,2012,More than One Race,275942.56
+2045,Early,PhD,Female,2012,More than One Race,16164502.28
+2046,Late,PhD,Female,2012,More than One Race,4423814.75
+2047,Mid,PhD,Female,2012,More than One Race,14600393.9
+2048,Early,MD,Male,2012,More than One Race,4405074.41
+2049,Late,MD,Male,2012,More than One Race,746082.96
+2050,Mid,MD,Male,2012,More than One Race,7692617.13
+2051,Early,MD-PhD,Male,2012,More than One Race,12957054.07
+2052,Late,MD-PhD,Male,2012,More than One Race,1590407.53
+2053,Mid,MD-PhD,Male,2012,More than One Race,5814352.09
+2054,Early,PhD,Male,2012,More than One Race,29897065.05
+2055,Late,PhD,Male,2012,More than One Race,9765605.129999999
+2056,Mid,PhD,Male,2012,More than One Race,20032406.03
+2057,Early,MD,Female,2013,More than One Race,4813160.84
+2058,Late,MD,Female,2013,More than One Race,201845.37
+2059,Mid,MD,Female,2013,More than One Race,5415116.489999999
+2060,Early,MD-PhD,Female,2013,More than One Race,889538.46
+2061,Late,MD-PhD,Female,2013,More than One Race,361372.37
+2062,Mid,MD-PhD,Female,2013,More than One Race,1007336.5700000001
+2063,Early,Other,Female,2013,More than One Race,39169.03
+2064,Early,PhD,Female,2013,More than One Race,16675108.7
+2065,Late,PhD,Female,2013,More than One Race,5368608.69
+2066,Mid,PhD,Female,2013,More than One Race,12374371.18
+2067,Early,MD,Male,2013,More than One Race,4420829.02
+2068,Late,MD,Male,2013,More than One Race,1856466.1
+2069,Mid,MD,Male,2013,More than One Race,5671052.09
+2070,Early,MD-PhD,Male,2013,More than One Race,9170993.72
+2071,Late,MD-PhD,Male,2013,More than One Race,1012778.75
+2072,Mid,MD-PhD,Male,2013,More than One Race,4683673.3
+2073,Early,PhD,Male,2013,More than One Race,27053587.28
+2074,Late,PhD,Male,2013,More than One Race,7663294.7
+2075,Mid,PhD,Male,2013,More than One Race,20732664.71
+2076,Early,MD,Female,2014,More than One Race,4352508.23
+2077,Late,MD,Female,2014,More than One Race,893216.0399999999
+2078,Mid,MD,Female,2014,More than One Race,5170026.34
+2079,Early,MD-PhD,Female,2014,More than One Race,462684.0
+2080,Mid,MD-PhD,Female,2014,More than One Race,2152823.7
+2081,Early,PhD,Female,2014,More than One Race,14601329.78
+2082,Late,PhD,Female,2014,More than One Race,6420721.69
+2083,Mid,PhD,Female,2014,More than One Race,14040845.08
+2084,Early,MD,Male,2014,More than One Race,4214440.08
+2085,Late,MD,Male,2014,More than One Race,1732166.17
+2086,Mid,MD,Male,2014,More than One Race,8715939.48
+2087,Early,MD-PhD,Male,2014,More than One Race,10129428.36
+2088,Late,MD-PhD,Male,2014,More than One Race,1219496.66
+2089,Mid,MD-PhD,Male,2014,More than One Race,6441812.08
+2090,Early,PhD,Male,2014,More than One Race,29330702.66
+2091,Late,PhD,Male,2014,More than One Race,10632136.6
+2092,Mid,PhD,Male,2014,More than One Race,18081002.98
+2093,Early,MD,Female,2015,More than One Race,4509691.63
+2094,Late,MD,Female,2015,More than One Race,865346.87
+2095,Mid,MD,Female,2015,More than One Race,7917471.62
+2096,Early,MD-PhD,Female,2015,More than One Race,261852.40000000002
+2097,Mid,MD-PhD,Female,2015,More than One Race,1937699.58
+2098,Mid,Other,Female,2015,More than One Race,200655.55
+2099,Early,PhD,Female,2015,More than One Race,15591411.9
+2100,Late,PhD,Female,2015,More than One Race,3480604.58
+2101,Mid,PhD,Female,2015,More than One Race,15146344.9
+2102,Early,MD,Male,2015,More than One Race,4164135.0199999996
+2103,Late,MD,Male,2015,More than One Race,858932.75
+2104,Mid,MD,Male,2015,More than One Race,5228396.65
+2105,Early,MD-PhD,Male,2015,More than One Race,10104230.67
+2106,Late,MD-PhD,Male,2015,More than One Race,1194343.38
+2107,Mid,MD-PhD,Male,2015,More than One Race,6086614.41
+2108,Early,PhD,Male,2015,More than One Race,33226423.21
+2109,Late,PhD,Male,2015,More than One Race,8413112.379999999
+2110,Mid,PhD,Male,2015,More than One Race,19177903.78
+2111,Early,MD,Female,2016,More than One Race,3043254.36
+2112,Late,MD,Female,2016,More than One Race,1232881.98
+2113,Mid,MD,Female,2016,More than One Race,5661997.0
+2114,Early,MD-PhD,Female,2016,More than One Race,421615.07000000007
+2115,Late,MD-PhD,Female,2016,More than One Race,418795.54
+2116,Mid,MD-PhD,Female,2016,More than One Race,2510353.51
+2117,Early,Other,Female,2016,More than One Race,86980.61
+2118,Mid,Other,Female,2016,More than One Race,177145.14
+2119,Early,PhD,Female,2016,More than One Race,14488221.49
+2120,Late,PhD,Female,2016,More than One Race,3268077.59
+2121,Mid,PhD,Female,2016,More than One Race,17670887.509999998
+2122,Early,MD,Male,2016,More than One Race,5136478.140000001
+2123,Late,MD,Male,2016,More than One Race,1835118.55
+2124,Mid,MD,Male,2016,More than One Race,4976423.350000001
+2125,Early,MD-PhD,Male,2016,More than One Race,13323767.029999997
+2126,Late,MD-PhD,Male,2016,More than One Race,680508.38
+2127,Mid,MD-PhD,Male,2016,More than One Race,6363314.6
+2128,Early,PhD,Male,2016,More than One Race,28854662.9
+2129,Late,PhD,Male,2016,More than One Race,10447524.56
+2130,Mid,PhD,Male,2016,More than One Race,26739130.330000002
+2131,Early,MD,Female,2017,More than One Race,2332607.45
+2132,Late,MD,Female,2017,More than One Race,4296890.970000001
+2133,Mid,MD,Female,2017,More than One Race,4569931.78
+2134,Early,MD-PhD,Female,2017,More than One Race,565189.4199999999
+2135,Late,MD-PhD,Female,2017,More than One Race,408182.78
+2136,Mid,MD-PhD,Female,2017,More than One Race,3256349.67
+2137,Early,Other,Female,2017,More than One Race,283686.51
+2138,Early,PhD,Female,2017,More than One Race,20092975.99
+2139,Late,PhD,Female,2017,More than One Race,6566827.37
+2140,Mid,PhD,Female,2017,More than One Race,14689372.08
+2141,Early,MD,Male,2017,More than One Race,3802136.55
+2142,Late,MD,Male,2017,More than One Race,2382255.55
+2143,Mid,MD,Male,2017,More than One Race,12572761.0
+2144,Early,MD-PhD,Male,2017,More than One Race,11708092.77
+2145,Late,MD-PhD,Male,2017,More than One Race,1027494.45
+2146,Mid,MD-PhD,Male,2017,More than One Race,4554540.13
+2147,Early,Other,Male,2017,More than One Race,211601.96
+2148,Early,PhD,Male,2017,More than One Race,33993210.14
+2149,Late,PhD,Male,2017,More than One Race,7675787.0
+2150,Mid,PhD,Male,2017,More than One Race,30998732.57
+2151,Early,MD,Female,2018,More than One Race,2708200.87
+2152,Late,MD,Female,2018,More than One Race,2444335.1100000003
+2153,Mid,MD,Female,2018,More than One Race,6863453.609999999
+2154,Early,MD-PhD,Female,2018,More than One Race,643380.9299999999
+2155,Late,MD-PhD,Female,2018,More than One Race,398247.62
+2156,Mid,MD-PhD,Female,2018,More than One Race,4781947.34
+2157,Early,Other,Female,2018,More than One Race,520944.13
+2158,Early,PhD,Female,2018,More than One Race,27846478.97
+2159,Late,PhD,Female,2018,More than One Race,7667926.640000001
+2160,Mid,PhD,Female,2018,More than One Race,19033652.42
+2161,Early,MD,Male,2018,More than One Race,4683317.41
+2162,Late,MD,Male,2018,More than One Race,4164584.92
+2163,Mid,MD,Male,2018,More than One Race,15202027.129999999
+2164,Early,MD-PhD,Male,2018,More than One Race,15628616.179999998
+2165,Late,MD-PhD,Male,2018,More than One Race,835565.37
+2166,Mid,MD-PhD,Male,2018,More than One Race,7396473.24
+2167,Early,Other,Male,2018,More than One Race,206451.56
+2168,Early,PhD,Male,2018,More than One Race,33579635.76
+2169,Late,PhD,Male,2018,More than One Race,7448815.55
+2170,Mid,PhD,Male,2018,More than One Race,34209376.83
+2171,Early,MD,Female,2019,More than One Race,4799263.86
+2172,Late,MD,Female,2019,More than One Race,6380300.48
+2173,Mid,MD,Female,2019,More than One Race,5335011.57
+2174,Early,MD-PhD,Female,2019,More than One Race,1665915.93
+2175,Late,MD-PhD,Female,2019,More than One Race,1383827.01
+2176,Mid,MD-PhD,Female,2019,More than One Race,4094766.0300000003
+2177,Early,Other,Female,2019,More than One Race,1031639.26
+2178,Early,PhD,Female,2019,More than One Race,31364799.619999997
+2179,Late,PhD,Female,2019,More than One Race,8163095.06
+2180,Mid,PhD,Female,2019,More than One Race,21087543.73
+2181,Early,MD,Male,2019,More than One Race,2480569.91
+2182,Late,MD,Male,2019,More than One Race,4175044.68
+2183,Mid,MD,Male,2019,More than One Race,17525972.68
+2184,Early,MD-PhD,Male,2019,More than One Race,6922283.36
+2185,Late,MD-PhD,Male,2019,More than One Race,964874.27
+2186,Mid,MD-PhD,Male,2019,More than One Race,23651294.57
+2187,Early,Other,Male,2019,More than One Race,202175.95
+2188,Early,PhD,Male,2019,More than One Race,38424162.58
+2189,Late,PhD,Male,2019,More than One Race,9966934.06
+2190,Mid,PhD,Male,2019,More than One Race,26158276.19
+2191,Early,MD,Female,2020,More than One Race,6905550.1
+2192,Late,MD,Female,2020,More than One Race,4591089.57
+2193,Mid,MD,Female,2020,More than One Race,11235684.82
+2194,Early,MD-PhD,Female,2020,More than One Race,1088390.17
+2195,Late,MD-PhD,Female,2020,More than One Race,929619.8200000001
+2196,Mid,MD-PhD,Female,2020,More than One Race,3246213.91
+2197,Early,Other,Female,2020,More than One Race,149128.82
+2198,Mid,Other,Female,2020,More than One Race,288695.18
+2199,Early,PhD,Female,2020,More than One Race,36056761.64
+2200,Late,PhD,Female,2020,More than One Race,7921956.14
+2201,Mid,PhD,Female,2020,More than One Race,20484467.31
+2202,Early,MD,Male,2020,More than One Race,2724342.54
+2203,Late,MD,Male,2020,More than One Race,5073940.45
+2204,Mid,MD,Male,2020,More than One Race,14643404.4
+2205,Early,MD-PhD,Male,2020,More than One Race,10603538.85
+2206,Late,MD-PhD,Male,2020,More than One Race,1877105.57
+2207,Mid,MD-PhD,Male,2020,More than One Race,23956945.3
+2208,Early,Other,Male,2020,More than One Race,945447.17
+2209,Early,PhD,Male,2020,More than One Race,49393727.73
+2210,Late,PhD,Male,2020,More than One Race,9450106.53
+2211,Mid,PhD,Male,2020,More than One Race,31388907.3
+2212,Early,MD,Male,1985,Native Hawaiian or Other Pacific Islander,334651.86
+2213,Mid,MD,Male,1985,Native Hawaiian or Other Pacific Islander,2226224.3
+2214,Early,PhD,Male,1985,Native Hawaiian or Other Pacific Islander,292336.54
+2215,Mid,PhD,Male,1985,Native Hawaiian or Other Pacific Islander,750066.82
+2216,Early,MD,Male,1986,Native Hawaiian or Other Pacific Islander,317786.44
+2217,Mid,MD,Male,1986,Native Hawaiian or Other Pacific Islander,2137071.07
+2218,Early,PhD,Male,1986,Native Hawaiian or Other Pacific Islander,278483.13
+2219,Mid,PhD,Male,1986,Native Hawaiian or Other Pacific Islander,608929.97
+2220,Early,MD,Male,1987,Native Hawaiian or Other Pacific Islander,357375.12
+2221,Mid,MD,Male,1987,Native Hawaiian or Other Pacific Islander,2168203.93
+2222,Early,PhD,Male,1987,Native Hawaiian or Other Pacific Islander,273913.12
+2223,Mid,PhD,Male,1987,Native Hawaiian or Other Pacific Islander,656603.22
+2224,Early,MD,Male,1988,Native Hawaiian or Other Pacific Islander,422851.6
+2225,Mid,MD,Male,1988,Native Hawaiian or Other Pacific Islander,2185601.42
+2226,Early,PhD,Male,1988,Native Hawaiian or Other Pacific Islander,603898.25
+2227,Mid,PhD,Male,1988,Native Hawaiian or Other Pacific Islander,782702.32
+2228,Early,MD,Male,1989,Native Hawaiian or Other Pacific Islander,351888.13
+2229,Mid,MD,Male,1989,Native Hawaiian or Other Pacific Islander,2202272.48
+2230,Early,PhD,Male,1989,Native Hawaiian or Other Pacific Islander,540061.49
+2231,Mid,PhD,Male,1989,Native Hawaiian or Other Pacific Islander,752550.0800000001
+2232,Early,MD,Male,1990,Native Hawaiian or Other Pacific Islander,282252.83
+2233,Mid,MD,Male,1990,Native Hawaiian or Other Pacific Islander,3342568.78
+2234,Early,PhD,Male,1990,Native Hawaiian or Other Pacific Islander,834596.5700000001
+2235,Mid,PhD,Male,1990,Native Hawaiian or Other Pacific Islander,282275.07
+2236,Early,MD,Male,1991,Native Hawaiian or Other Pacific Islander,317400.64
+2237,Mid,MD,Male,1991,Native Hawaiian or Other Pacific Islander,3659040.04
+2238,Early,PhD,Male,1991,Native Hawaiian or Other Pacific Islander,1171084.29
+2239,Mid,PhD,Male,1991,Native Hawaiian or Other Pacific Islander,351871.9
+2240,Early,MD,Male,1992,Native Hawaiian or Other Pacific Islander,314753.63
+2241,Mid,MD,Male,1992,Native Hawaiian or Other Pacific Islander,3762015.4000000004
+2242,Early,PhD,Male,1992,Native Hawaiian or Other Pacific Islander,1162700.0899999999
+2243,Mid,PhD,Male,1992,Native Hawaiian or Other Pacific Islander,356974.34
+2244,Mid,MD,Male,1993,Native Hawaiian or Other Pacific Islander,3411001.71
+2245,Early,PhD,Male,1993,Native Hawaiian or Other Pacific Islander,399547.97
+2246,Mid,PhD,Male,1993,Native Hawaiian or Other Pacific Islander,391858.48
+2247,Late,MD,Male,1994,Native Hawaiian or Other Pacific Islander,3398084.49
+2248,Mid,MD,Male,1994,Native Hawaiian or Other Pacific Islander,687852.0
+2249,Early,PhD,Male,1994,Native Hawaiian or Other Pacific Islander,250692.43
+2250,Mid,PhD,Male,1994,Native Hawaiian or Other Pacific Islander,385578.77
+2251,Late,MD,Male,1995,Native Hawaiian or Other Pacific Islander,3348466.4
+2252,Mid,MD,Male,1995,Native Hawaiian or Other Pacific Islander,705000.08
+2253,Early,PhD,Male,1995,Native Hawaiian or Other Pacific Islander,162051.12
+2254,Mid,PhD,Male,1995,Native Hawaiian or Other Pacific Islander,816866.05
+2255,Early,PhD,Female,1996,Native Hawaiian or Other Pacific Islander,197713.45
+2256,Late,MD,Male,1996,Native Hawaiian or Other Pacific Islander,2787320.96
+2257,Mid,MD,Male,1996,Native Hawaiian or Other Pacific Islander,627941.91
+2258,Early,PhD,Male,1996,Native Hawaiian or Other Pacific Islander,152499.56
+2259,Late,PhD,Male,1996,Native Hawaiian or Other Pacific Islander,392793.6
+2260,Mid,PhD,Male,1996,Native Hawaiian or Other Pacific Islander,809611.85
+2261,Early,PhD,Female,1997,Native Hawaiian or Other Pacific Islander,194909.05
+2262,Late,MD,Male,1997,Native Hawaiian or Other Pacific Islander,2334746.46
+2263,Mid,MD,Male,1997,Native Hawaiian or Other Pacific Islander,736764.1
+2264,Early,PhD,Male,1997,Native Hawaiian or Other Pacific Islander,289222.24
+2265,Late,PhD,Male,1997,Native Hawaiian or Other Pacific Islander,397338.39
+2266,Mid,PhD,Male,1997,Native Hawaiian or Other Pacific Islander,771373.68
+2267,Early,PhD,Female,1998,Native Hawaiian or Other Pacific Islander,195358.35
+2268,Late,MD,Male,1998,Native Hawaiian or Other Pacific Islander,564964.41
+2269,Mid,MD,Male,1998,Native Hawaiian or Other Pacific Islander,1282579.21
+2270,Early,PhD,Male,1998,Native Hawaiian or Other Pacific Islander,140679.87
+2271,Mid,PhD,Male,1998,Native Hawaiian or Other Pacific Islander,823900.83
+2272,Early,PhD,Female,1999,Native Hawaiian or Other Pacific Islander,196937.5
+2273,Late,MD,Male,1999,Native Hawaiian or Other Pacific Islander,2407408.88
+2274,Mid,MD,Male,1999,Native Hawaiian or Other Pacific Islander,1890397.56
+2275,Late,PhD,Male,1999,Native Hawaiian or Other Pacific Islander,414298.01
+2276,Mid,PhD,Male,1999,Native Hawaiian or Other Pacific Islander,377034.14
+2277,Early,PhD,Female,2000,Native Hawaiian or Other Pacific Islander,537503.64
+2278,Late,MD,Male,2000,Native Hawaiian or Other Pacific Islander,2295870.37
+2279,Mid,MD,Male,2000,Native Hawaiian or Other Pacific Islander,2671977.5999999996
+2280,Late,PhD,Male,2000,Native Hawaiian or Other Pacific Islander,1082112.85
+2281,Mid,PhD,Male,2000,Native Hawaiian or Other Pacific Islander,853875.66
+2282,Early,PhD,Female,2001,Native Hawaiian or Other Pacific Islander,988933.95
+2283,Late,MD,Male,2001,Native Hawaiian or Other Pacific Islander,2214724.01
+2284,Mid,MD,Male,2001,Native Hawaiian or Other Pacific Islander,2916288.95
+2285,Early,PhD,Male,2001,Native Hawaiian or Other Pacific Islander,419698.48
+2286,Late,PhD,Male,2001,Native Hawaiian or Other Pacific Islander,2081428.26
+2287,Mid,PhD,Male,2001,Native Hawaiian or Other Pacific Islander,483430.66
+2288,Early,PhD,Female,2002,Native Hawaiian or Other Pacific Islander,966725.11
+2289,Early,MD,Male,2002,Native Hawaiian or Other Pacific Islander,550228.25
+2290,Late,MD,Male,2002,Native Hawaiian or Other Pacific Islander,2836754.56
+2291,Mid,MD,Male,2002,Native Hawaiian or Other Pacific Islander,3091384.34
+2292,Early,PhD,Male,2002,Native Hawaiian or Other Pacific Islander,731204.48
+2293,Late,PhD,Male,2002,Native Hawaiian or Other Pacific Islander,1964184.49
+2294,Mid,PhD,Male,2002,Native Hawaiian or Other Pacific Islander,1494713.49
+2295,Early,PhD,Female,2003,Native Hawaiian or Other Pacific Islander,1109105.44
+2296,Early,MD,Male,2003,Native Hawaiian or Other Pacific Islander,1182063.43
+2297,Late,MD,Male,2003,Native Hawaiian or Other Pacific Islander,2708616.31
+2298,Mid,MD,Male,2003,Native Hawaiian or Other Pacific Islander,3265995.56
+2299,Early,PhD,Male,2003,Native Hawaiian or Other Pacific Islander,1399530.81
+2300,Late,PhD,Male,2003,Native Hawaiian or Other Pacific Islander,1574050.95
+2301,Mid,PhD,Male,2003,Native Hawaiian or Other Pacific Islander,873363.87
+2302,Mid,MD,Female,2004,Native Hawaiian or Other Pacific Islander,126178.14
+2303,Early,PhD,Female,2004,Native Hawaiian or Other Pacific Islander,718488.75
+2304,Mid,PhD,Female,2004,Native Hawaiian or Other Pacific Islander,367740.87
+2305,Early,MD,Male,2004,Native Hawaiian or Other Pacific Islander,1826921.14
+2306,Late,MD,Male,2004,Native Hawaiian or Other Pacific Islander,3030078.37
+2307,Mid,MD,Male,2004,Native Hawaiian or Other Pacific Islander,3334112.96
+2308,Early,PhD,Male,2004,Native Hawaiian or Other Pacific Islander,1285148.7
+2309,Late,PhD,Male,2004,Native Hawaiian or Other Pacific Islander,959263.99
+2310,Mid,PhD,Male,2004,Native Hawaiian or Other Pacific Islander,841994.34
+2311,Mid,MD,Female,2005,Native Hawaiian or Other Pacific Islander,121453.07
+2312,Early,PhD,Female,2005,Native Hawaiian or Other Pacific Islander,806577.1699999999
+2313,Mid,PhD,Female,2005,Native Hawaiian or Other Pacific Islander,353969.86
+2314,Early,MD,Male,2005,Native Hawaiian or Other Pacific Islander,1758197.12
+2315,Late,MD,Male,2005,Native Hawaiian or Other Pacific Islander,791739.41
+2316,Mid,MD,Male,2005,Native Hawaiian or Other Pacific Islander,2348589.29
+2317,Early,PhD,Male,2005,Native Hawaiian or Other Pacific Islander,1322874.19
+2318,Late,PhD,Male,2005,Native Hawaiian or Other Pacific Islander,384113.64
+2319,Mid,PhD,Male,2005,Native Hawaiian or Other Pacific Islander,1199875.88
+2320,Early,PhD,Female,2006,Native Hawaiian or Other Pacific Islander,409663.23
+2321,Mid,PhD,Female,2006,Native Hawaiian or Other Pacific Islander,330357.33
+2322,Early,MD,Male,2006,Native Hawaiian or Other Pacific Islander,1538097.53
+2323,Late,MD,Male,2006,Native Hawaiian or Other Pacific Islander,754968.21
+2324,Mid,MD,Male,2006,Native Hawaiian or Other Pacific Islander,1573638.76
+2325,Mid,MD-PhD,Male,2006,Native Hawaiian or Other Pacific Islander,104890.88
+2326,Early,PhD,Male,2006,Native Hawaiian or Other Pacific Islander,1157366.0
+2327,Late,PhD,Male,2006,Native Hawaiian or Other Pacific Islander,521132.87
+2328,Mid,PhD,Male,2006,Native Hawaiian or Other Pacific Islander,994608.92
+2329,Early,Other,Female,2007,Native Hawaiian or Other Pacific Islander,46293.4
+2330,Early,PhD,Female,2007,Native Hawaiian or Other Pacific Islander,961944.0
+2331,Mid,PhD,Female,2007,Native Hawaiian or Other Pacific Islander,309051.63
+2332,Early,MD,Male,2007,Native Hawaiian or Other Pacific Islander,657020.87
+2333,Late,MD,Male,2007,Native Hawaiian or Other Pacific Islander,876489.09
+2334,Mid,MD,Male,2007,Native Hawaiian or Other Pacific Islander,1357704.98
+2335,Mid,MD-PhD,Male,2007,Native Hawaiian or Other Pacific Islander,98126.06
+2336,Early,PhD,Male,2007,Native Hawaiian or Other Pacific Islander,1273846.77
+2337,Late,PhD,Male,2007,Native Hawaiian or Other Pacific Islander,1477709.14
+2338,Mid,PhD,Male,2007,Native Hawaiian or Other Pacific Islander,1375319.83
+2339,Early,PhD,Female,2008,Native Hawaiian or Other Pacific Islander,1139284.4
+2340,Late,PhD,Female,2008,Native Hawaiian or Other Pacific Islander,196325.81
+2341,Early,MD,Male,2008,Native Hawaiian or Other Pacific Islander,517323.19
+2342,Late,MD,Male,2008,Native Hawaiian or Other Pacific Islander,1586506.94
+2343,Mid,MD,Male,2008,Native Hawaiian or Other Pacific Islander,1433755.74
+2344,Early,PhD,Male,2008,Native Hawaiian or Other Pacific Islander,1533642.81
+2345,Late,PhD,Male,2008,Native Hawaiian or Other Pacific Islander,2050314.7000000002
+2346,Mid,PhD,Male,2008,Native Hawaiian or Other Pacific Islander,370184.05
+2347,Early,PhD,Female,2009,Native Hawaiian or Other Pacific Islander,533989.39
+2348,Late,PhD,Female,2009,Native Hawaiian or Other Pacific Islander,196046.01
+2349,Mid,PhD,Female,2009,Native Hawaiian or Other Pacific Islander,361231.94
+2350,Early,MD,Male,2009,Native Hawaiian or Other Pacific Islander,468273.67
+2351,Late,MD,Male,2009,Native Hawaiian or Other Pacific Islander,1945932.35
+2352,Mid,MD,Male,2009,Native Hawaiian or Other Pacific Islander,1150898.44
+2353,Early,PhD,Male,2009,Native Hawaiian or Other Pacific Islander,1340288.3399999999
+2354,Late,PhD,Male,2009,Native Hawaiian or Other Pacific Islander,1680058.16
+2355,Mid,PhD,Male,2009,Native Hawaiian or Other Pacific Islander,1132791.57
+2356,Early,PhD,Female,2010,Native Hawaiian or Other Pacific Islander,757493.29
+2357,Late,PhD,Female,2010,Native Hawaiian or Other Pacific Islander,190260.2
+2358,Late,MD,Male,2010,Native Hawaiian or Other Pacific Islander,1879447.2999999998
+2359,Mid,MD,Male,2010,Native Hawaiian or Other Pacific Islander,273072.02
+2360,Early,PhD,Male,2010,Native Hawaiian or Other Pacific Islander,1434834.47
+2361,Late,PhD,Male,2010,Native Hawaiian or Other Pacific Islander,859953.55
+2362,Mid,PhD,Male,2010,Native Hawaiian or Other Pacific Islander,1096049.19
+2363,Early,PhD,Female,2011,Native Hawaiian or Other Pacific Islander,437071.45
+2364,Late,PhD,Female,2011,Native Hawaiian or Other Pacific Islander,179419.2
+2365,Mid,PhD,Female,2011,Native Hawaiian or Other Pacific Islander,328620.67
+2366,Late,MD,Male,2011,Native Hawaiian or Other Pacific Islander,1764490.5
+2367,Early,PhD,Male,2011,Native Hawaiian or Other Pacific Islander,883149.05
+2368,Late,PhD,Male,2011,Native Hawaiian or Other Pacific Islander,829847.22
+2369,Mid,PhD,Male,2011,Native Hawaiian or Other Pacific Islander,1413655.33
+2370,Early,PhD,Female,2012,Native Hawaiian or Other Pacific Islander,469610.05
+2371,Late,PhD,Female,2012,Native Hawaiian or Other Pacific Islander,354299.83
+2372,Mid,PhD,Female,2012,Native Hawaiian or Other Pacific Islander,562280.17
+2373,Late,MD,Male,2012,Native Hawaiian or Other Pacific Islander,1685984.85
+2374,Early,PhD,Male,2012,Native Hawaiian or Other Pacific Islander,2467295.72
+2375,Mid,PhD,Male,2012,Native Hawaiian or Other Pacific Islander,1360568.78
+2376,Early,PhD,Female,2013,Native Hawaiian or Other Pacific Islander,768910.03
+2377,Mid,PhD,Female,2013,Native Hawaiian or Other Pacific Islander,483700.68
+2378,Late,MD,Male,2013,Native Hawaiian or Other Pacific Islander,971085.89
+2379,Early,PhD,Male,2013,Native Hawaiian or Other Pacific Islander,1407693.86
+2380,Mid,PhD,Male,2013,Native Hawaiian or Other Pacific Islander,501360.58999999997
+2381,Early,PhD,Female,2014,Native Hawaiian or Other Pacific Islander,1251825.48
+2382,Late,PhD,Female,2014,Native Hawaiian or Other Pacific Islander,132380.46
+2383,Mid,PhD,Female,2014,Native Hawaiian or Other Pacific Islander,622545.3
+2384,Early,PhD,Male,2014,Native Hawaiian or Other Pacific Islander,1767669.32
+2385,Late,PhD,Male,2014,Native Hawaiian or Other Pacific Islander,524626.3
+2386,Mid,PhD,Male,2014,Native Hawaiian or Other Pacific Islander,482711.79000000004
+2387,Early,MD,Female,2015,Native Hawaiian or Other Pacific Islander,130785.49
+2388,Mid,MD,Female,2015,Native Hawaiian or Other Pacific Islander,373212.32
+2389,Early,PhD,Female,2015,Native Hawaiian or Other Pacific Islander,1260083.6600000001
+2390,Late,PhD,Female,2015,Native Hawaiian or Other Pacific Islander,130290.11
+2391,Mid,PhD,Female,2015,Native Hawaiian or Other Pacific Islander,215955.72
+2392,Early,MD-PhD,Male,2015,Native Hawaiian or Other Pacific Islander,464853.17
+2393,Early,PhD,Male,2015,Native Hawaiian or Other Pacific Islander,1884718.05
+2394,Late,PhD,Male,2015,Native Hawaiian or Other Pacific Islander,82031.75
+2395,Mid,PhD,Male,2015,Native Hawaiian or Other Pacific Islander,1861342.08
+2396,Mid,MD,Female,2016,Native Hawaiian or Other Pacific Islander,2464509.72
+2397,Early,PhD,Female,2016,Native Hawaiian or Other Pacific Islander,544804.67
+2398,Early,MD-PhD,Male,2016,Native Hawaiian or Other Pacific Islander,450530.57
+2399,Early,PhD,Male,2016,Native Hawaiian or Other Pacific Islander,4800845.99
+2400,Mid,PhD,Male,2016,Native Hawaiian or Other Pacific Islander,1534751.41
+2401,Mid,MD,Female,2017,Native Hawaiian or Other Pacific Islander,2503238.49
+2402,Early,MD-PhD,Female,2017,Native Hawaiian or Other Pacific Islander,406002.67
+2403,Early,PhD,Female,2017,Native Hawaiian or Other Pacific Islander,1089822.39
+2404,Mid,PhD,Female,2017,Native Hawaiian or Other Pacific Islander,271028.83
+2405,Early,MD-PhD,Male,2017,Native Hawaiian or Other Pacific Islander,447799.54
+2406,Early,PhD,Male,2017,Native Hawaiian or Other Pacific Islander,1200204.4300000002
+2407,Mid,PhD,Male,2017,Native Hawaiian or Other Pacific Islander,1717221.83
+2408,Mid,MD,Female,2018,Native Hawaiian or Other Pacific Islander,2571362.32
+2409,Early,MD-PhD,Female,2018,Native Hawaiian or Other Pacific Islander,398247.62
+2410,Early,PhD,Female,2018,Native Hawaiian or Other Pacific Islander,1538581.6600000001
+2411,Mid,PhD,Female,2018,Native Hawaiian or Other Pacific Islander,818722.04
+2412,Mid,MD-PhD,Male,2018,Native Hawaiian or Other Pacific Islander,424566.68
+2413,Early,PhD,Male,2018,Native Hawaiian or Other Pacific Islander,1055920.37
+2414,Mid,PhD,Male,2018,Native Hawaiian or Other Pacific Islander,1630423.7
+2415,Mid,MD,Female,2019,Native Hawaiian or Other Pacific Islander,2399960.43
+2416,Early,MD-PhD,Female,2019,Native Hawaiian or Other Pacific Islander,389999.91
+2417,Early,PhD,Female,2019,Native Hawaiian or Other Pacific Islander,1556967.63
+2418,Mid,PhD,Female,2019,Native Hawaiian or Other Pacific Islander,1223051.05
+2419,Early,MD-PhD,Male,2019,Native Hawaiian or Other Pacific Islander,391741.91
+2420,Mid,MD-PhD,Male,2019,Native Hawaiian or Other Pacific Islander,415773.9
+2421,Early,PhD,Male,2019,Native Hawaiian or Other Pacific Islander,1290598.69
+2422,Late,PhD,Male,2019,Native Hawaiian or Other Pacific Islander,200368.45
+2423,Mid,PhD,Male,2019,Native Hawaiian or Other Pacific Islander,1649679.6099999999
+2424,Mid,MD,Female,2020,Native Hawaiian or Other Pacific Islander,2344292.19
+2425,Early,MD-PhD,Female,2020,Native Hawaiian or Other Pacific Islander,733424.87
+2426,Early,PhD,Female,2020,Native Hawaiian or Other Pacific Islander,1149412.0699999998
+2427,Mid,PhD,Female,2020,Native Hawaiian or Other Pacific Islander,2040957.79
+2428,Early,MD-PhD,Male,2020,Native Hawaiian or Other Pacific Islander,388545.04
+2429,Early,PhD,Male,2020,Native Hawaiian or Other Pacific Islander,1170716.32
+2430,Mid,PhD,Male,2020,Native Hawaiian or Other Pacific Islander,1093874.1400000001
+2431,Early,MD,Female,1985,White,21163450.85
+2432,Mid,MD,Female,1985,White,13899239.129999999
+2433,Early,MD-PhD,Female,1985,White,9155531.43
+2434,Late,MD-PhD,Female,1985,White,911239.14
+2435,Mid,MD-PhD,Female,1985,White,5995943.449999999
+2436,Early,Other,Female,1985,White,1632966.2
+2437,Mid,Other,Female,1985,White,1475876.27
+2438,Early,PhD,Female,1985,White,291097434.0
+2439,Late,PhD,Female,1985,White,112328.97
+2440,Mid,PhD,Female,1985,White,60871659.4
+2441,Early,MD,Male,1985,White,378055381.15
+2442,Late,MD,Male,1985,White,71492295.54
+2443,Mid,MD,Male,1985,White,371339236.8
+2444,Early,MD-PhD,Male,1985,White,157610322.13
+2445,Late,MD-PhD,Male,1985,White,8043528.35
+2446,Mid,MD-PhD,Male,1985,White,157742478.46
+2447,Early,Other,Male,1985,White,7090090.8100000005
+2448,Late,Other,Male,1985,White,1547422.3900000001
+2449,Mid,Other,Male,1985,White,4828805.95
+2450,Early,PhD,Male,1985,White,1294127714.53
+2451,Late,PhD,Male,1985,White,38269130.68
+2452,Mid,PhD,Male,1985,White,342261026.68
+2453,Early,MD,Female,1986,White,27900995.33
+2454,Mid,MD,Female,1986,White,14805662.37
+2455,Early,MD-PhD,Female,1986,White,9310773.44
+2456,Mid,MD-PhD,Female,1986,White,7682601.59
+2457,Early,Other,Female,1986,White,1382611.81
+2458,Mid,Other,Female,1986,White,1900432.43
+2459,Early,PhD,Female,1986,White,323801669.6
+2460,Late,PhD,Female,1986,White,107796.79
+2461,Mid,PhD,Female,1986,White,75432271.99
+2462,Early,MD,Male,1986,White,389481755.64
+2463,Late,MD,Male,1986,White,68537762.36
+2464,Mid,MD,Male,1986,White,401180888.49
+2465,Early,MD-PhD,Male,1986,White,168370881.67
+2466,Late,MD-PhD,Male,1986,White,13991879.7
+2467,Mid,MD-PhD,Male,1986,White,168446965.3
+2468,Early,Other,Male,1986,White,6785857.71
+2469,Late,Other,Male,1986,White,1518980.1400000001
+2470,Mid,Other,Male,1986,White,9362697.73
+2471,Early,PhD,Male,1986,White,1291546403.02
+2472,Late,PhD,Male,1986,White,46823750.33
+2473,Mid,PhD,Male,1986,White,422316237.2
+2474,Early,MD,Female,1987,White,39214413.77
+2475,Late,MD,Female,1987,White,1369004.2
+2476,Mid,MD,Female,1987,White,12636189.62
+2477,Early,MD-PhD,Female,1987,White,14377110.78
+2478,Late,MD-PhD,Female,1987,White,1521510.2
+2479,Mid,MD-PhD,Female,1987,White,6933195.92
+2480,Early,Other,Female,1987,White,1941607.04
+2481,Mid,Other,Female,1987,White,1907966.03
+2482,Early,PhD,Female,1987,White,380864385.38
+2483,Late,PhD,Female,1987,White,2632375.2800000003
+2484,Mid,PhD,Female,1987,White,96609297.75
+2485,Early,MD,Male,1987,White,496923118.49
+2486,Late,MD,Male,1987,White,97583494.23
+2487,Mid,MD,Male,1987,White,454942355.46
+2488,Early,MD-PhD,Male,1987,White,200797111.88
+2489,Late,MD-PhD,Male,1987,White,31180351.509999998
+2490,Mid,MD-PhD,Male,1987,White,195562616.7
+2491,Early,Other,Male,1987,White,6954002.41
+2492,Late,Other,Male,1987,White,956165.29
+2493,Mid,Other,Male,1987,White,9810576.37
+2494,Early,PhD,Male,1987,White,1466087319.38
+2495,Late,PhD,Male,1987,White,61384845.42
+2496,Mid,PhD,Male,1987,White,546808601.96
+2497,Early,MD,Female,1988,White,55892779.69
+2498,Late,MD,Female,1988,White,6910659.1899999995
+2499,Mid,MD,Female,1988,White,21890160.19
+2500,Early,MD-PhD,Female,1988,White,14033446.01
+2501,Late,MD-PhD,Female,1988,White,1460819.88
+2502,Mid,MD-PhD,Female,1988,White,6900046.66
+2503,Early,Other,Female,1988,White,2580050.5300000003
+2504,Late,Other,Female,1988,White,741746.26
+2505,Mid,Other,Female,1988,White,2186963.96
+2506,Early,PhD,Female,1988,White,379973237.87
+2507,Late,PhD,Female,1988,White,4574711.03
+2508,Mid,PhD,Female,1988,White,123780153.73
+2509,Early,MD,Male,1988,White,497868909.11
+2510,Late,MD,Male,1988,White,93150159.53
+2511,Mid,MD,Male,1988,White,546539167.07
+2512,Early,MD-PhD,Male,1988,White,202373718.67
+2513,Late,MD-PhD,Male,1988,White,39597903.63
+2514,Mid,MD-PhD,Male,1988,White,213716547.42
+2515,Early,Other,Male,1988,White,7103919.47
+2516,Late,Other,Male,1988,White,1378787.1400000001
+2517,Mid,Other,Male,1988,White,14988471.37
+2518,Early,PhD,Male,1988,White,1477017247.38
+2519,Late,PhD,Male,1988,White,85870651.81
+2520,Mid,PhD,Male,1988,White,685018665.35
+2521,Early,MD,Female,1989,White,69728618.48
+2522,Late,MD,Female,1989,White,5168559.44
+2523,Mid,MD,Female,1989,White,25678331.81
+2524,Early,MD-PhD,Female,1989,White,11872697.8
+2525,Late,MD-PhD,Female,1989,White,1420971.52
+2526,Mid,MD-PhD,Female,1989,White,11615198.62
+2527,Early,Other,Female,1989,White,2924575.75
+2528,Mid,Other,Female,1989,White,2710513.07
+2529,Early,PhD,Female,1989,White,418194212.24
+2530,Late,PhD,Female,1989,White,4926707.54
+2531,Mid,PhD,Female,1989,White,171062833.96
+2532,Early,MD,Male,1989,White,504651677.65
+2533,Late,MD,Male,1989,White,121049937.7
+2534,Mid,MD,Male,1989,White,610352701.12
+2535,Early,MD-PhD,Male,1989,White,215412654.09
+2536,Late,MD-PhD,Male,1989,White,45601291.28
+2537,Mid,MD-PhD,Male,1989,White,238061838.98
+2538,Early,Other,Male,1989,White,7567483.03
+2539,Late,Other,Male,1989,White,1282981.9
+2540,Mid,Other,Male,1989,White,15921036.23
+2541,Early,PhD,Male,1989,White,1523796216.76
+2542,Late,PhD,Male,1989,White,100578368.67
+2543,Mid,PhD,Male,1989,White,823147847.35
+2544,Early,MD,Female,1990,White,78263122.62
+2545,Late,MD,Female,1990,White,6118449.2
+2546,Mid,MD,Female,1990,White,32224538.04
+2547,Early,MD-PhD,Female,1990,White,14392048.99
+2548,Late,MD-PhD,Female,1990,White,427911.53
+2549,Mid,MD-PhD,Female,1990,White,11172125.22
+2550,Early,Other,Female,1990,White,3196497.27
+2551,Late,Other,Female,1990,White,2376991.85
+2552,Mid,Other,Female,1990,White,999232.31
+2553,Early,PhD,Female,1990,White,439523475.86
+2554,Late,PhD,Female,1990,White,6190891.68
+2555,Mid,PhD,Female,1990,White,216676635.82
+2556,Early,MD,Male,1990,White,498071996.24
+2557,Late,MD,Male,1990,White,121995986.24
+2558,Mid,MD,Male,1990,White,655735578.41
+2559,Early,MD-PhD,Male,1990,White,226854274.91
+2560,Late,MD-PhD,Male,1990,White,51403032.19
+2561,Mid,MD-PhD,Male,1990,White,247132549.76
+2562,Early,Other,Male,1990,White,6001539.07
+2563,Late,Other,Male,1990,White,823022.97
+2564,Mid,Other,Male,1990,White,16760025.71
+2565,Early,PhD,Male,1990,White,1471162728.43
+2566,Late,PhD,Male,1990,White,120765326.55
+2567,Mid,PhD,Male,1990,White,954753244.32
+2568,Early,MD,Female,1991,White,82589179.08
+2569,Late,MD,Female,1991,White,2110613.59
+2570,Mid,MD,Female,1991,White,50782046.83
+2571,Early,MD-PhD,Female,1991,White,19045441.76
+2572,Late,MD-PhD,Female,1991,White,424295.04
+2573,Mid,MD-PhD,Female,1991,White,12736147.14
+2574,Early,Other,Female,1991,White,3274312.2
+2575,Late,Other,Female,1991,White,3473699.83
+2576,Mid,Other,Female,1991,White,558741.9099999999
+2577,Early,PhD,Female,1991,White,480150955.55
+2578,Late,PhD,Female,1991,White,11127890.02
+2579,Mid,PhD,Female,1991,White,275953597.81
+2580,Early,MD,Male,1991,White,520223403.59
+2581,Late,MD,Male,1991,White,145985075.3
+2582,Mid,MD,Male,1991,White,662699928.0
+2583,Early,MD-PhD,Male,1991,White,260127148.72
+2584,Late,MD-PhD,Male,1991,White,50686087.14
+2585,Mid,MD-PhD,Male,1991,White,250410432.12
+2586,Early,Other,Male,1991,White,9144210.27
+2587,Late,Other,Male,1991,White,773914.9199999999
+2588,Mid,Other,Male,1991,White,15591526.700000001
+2589,Early,PhD,Male,1991,White,1531862373.0
+2590,Late,PhD,Male,1991,White,151088356.9
+2591,Mid,PhD,Male,1991,White,1168086231.91
+2592,Early,MD,Female,1992,White,89812396.31
+2593,Late,MD,Female,1992,White,1274973.2
+2594,Mid,MD,Female,1992,White,59875182.36
+2595,Early,MD-PhD,Female,1992,White,21586119.02
+2596,Late,MD-PhD,Female,1992,White,1287715.75
+2597,Mid,MD-PhD,Female,1992,White,13836521.110000001
+2598,Early,Other,Female,1992,White,4920885.04
+2599,Late,Other,Female,1992,White,4459404.63
+2600,Mid,Other,Female,1992,White,679508.56
+2601,Early,PhD,Female,1992,White,502638184.4
+2602,Late,PhD,Female,1992,White,14915351.18
+2603,Mid,PhD,Female,1992,White,338246371.43
+2604,Early,MD,Male,1992,White,536987394.34
+2605,Late,MD,Male,1992,White,160475877.22
+2606,Mid,MD,Male,1992,White,772923360.53
+2607,Early,MD-PhD,Male,1992,White,262885628.05
+2608,Late,MD-PhD,Male,1992,White,63699139.82
+2609,Mid,MD-PhD,Male,1992,White,275328974.2
+2610,Early,Other,Male,1992,White,7056350.77
+2611,Late,Other,Male,1992,White,1237990.0
+2612,Mid,Other,Male,1992,White,16374081.799999999
+2613,Early,PhD,Male,1992,White,1563024593.47
+2614,Late,PhD,Male,1992,White,174349383.87
+2615,Mid,PhD,Male,1992,White,1353441697.39
+2616,Early,MD,Female,1993,White,104658743.12
+2617,Late,MD,Female,1993,White,3578080.6
+2618,Mid,MD,Female,1993,White,61445323.11
+2619,Early,MD-PhD,Female,1993,White,25425815.13
+2620,Late,MD-PhD,Female,1993,White,1145549.0699999998
+2621,Mid,MD-PhD,Female,1993,White,15047912.92
+2622,Early,Other,Female,1993,White,7596076.3
+2623,Late,Other,Female,1993,White,5104230.17
+2624,Mid,Other,Female,1993,White,204903.96
+2625,Early,PhD,Female,1993,White,509364961.67
+2626,Late,PhD,Female,1993,White,18950867.54
+2627,Mid,PhD,Female,1993,White,393889191.68
+2628,Early,MD,Male,1993,White,470999035.08
+2629,Late,MD,Male,1993,White,208518938.4
+2630,Mid,MD,Male,1993,White,813775009.56
+2631,Early,MD-PhD,Male,1993,White,259269327.63
+2632,Late,MD-PhD,Male,1993,White,82690193.36
+2633,Mid,MD-PhD,Male,1993,White,294836293.22
+2634,Early,Other,Male,1993,White,8949374.94
+2635,Late,Other,Male,1993,White,824669.36
+2636,Mid,Other,Male,1993,White,14819335.49
+2637,Early,PhD,Male,1993,White,1477935479.22
+2638,Late,PhD,Male,1993,White,186271784.77
+2639,Mid,PhD,Male,1993,White,1504191661.55
+2640,Early,MD,Female,1994,White,105398982.77
+2641,Late,MD,Female,1994,White,6258469.64
+2642,Mid,MD,Female,1994,White,68552822.33
+2643,Early,MD-PhD,Female,1994,White,29243999.58
+2644,Late,MD-PhD,Female,1994,White,3734660.1199999996
+2645,Mid,MD-PhD,Female,1994,White,22008286.8
+2646,Early,Other,Female,1994,White,5136130.36
+2647,Late,Other,Female,1994,White,5578748.03
+2648,Mid,Other,Female,1994,White,1949036.6500000001
+2649,Early,PhD,Female,1994,White,541949760.32
+2650,Late,PhD,Female,1994,White,28891051.72
+2651,Mid,PhD,Female,1994,White,468584881.76
+2652,Early,MD,Male,1994,White,498973843.7
+2653,Late,MD,Male,1994,White,242774425.34
+2654,Mid,MD,Male,1994,White,815693033.7
+2655,Early,MD-PhD,Male,1994,White,267718472.06
+2656,Late,MD-PhD,Male,1994,White,91579790.62
+2657,Mid,MD-PhD,Male,1994,White,314059865.59
+2658,Early,Other,Male,1994,White,11558927.71
+2659,Late,Other,Male,1994,White,430805.79
+2660,Mid,Other,Male,1994,White,16513460.32
+2661,Early,PhD,Male,1994,White,1450994287.6
+2662,Late,PhD,Male,1994,White,223676708.4
+2663,Mid,PhD,Male,1994,White,1678692082.73
+2664,Early,MD,Female,1995,White,112916309.19
+2665,Late,MD,Female,1995,White,7252684.1
+2666,Mid,MD,Female,1995,White,78688977.74
+2667,Early,MD-PhD,Female,1995,White,31278456.34
+2668,Late,MD-PhD,Female,1995,White,4632934.62
+2669,Mid,MD-PhD,Female,1995,White,24739762.35
+2670,Early,Other,Female,1995,White,2902520.51
+2671,Late,Other,Female,1995,White,4544911.46
+2672,Mid,Other,Female,1995,White,8015225.57
+2673,Early,PhD,Female,1995,White,521766984.75
+2674,Late,PhD,Female,1995,White,33665481.75
+2675,Mid,PhD,Female,1995,White,514699578.85
+2676,Early,MD,Male,1995,White,478610688.57
+2677,Late,MD,Male,1995,White,270613680.89
+2678,Mid,MD,Male,1995,White,866773237.3
+2679,Early,MD-PhD,Male,1995,White,259855632.71
+2680,Late,MD-PhD,Male,1995,White,91685255.74
+2681,Mid,MD-PhD,Male,1995,White,370419025.37
+2682,Early,Other,Male,1995,White,8962586.04
+2683,Late,Other,Male,1995,White,2339181.2899999996
+2684,Mid,Other,Male,1995,White,11547586.33
+2685,Early,PhD,Male,1995,White,1397837674.37
+2686,Late,PhD,Male,1995,White,218525256.03
+2687,Mid,PhD,Male,1995,White,1805427618.9
+2688,Early,MD,Female,1996,White,108112541.51
+2689,Late,MD,Female,1996,White,6331431.25
+2690,Mid,MD,Female,1996,White,95816928.24
+2691,Early,MD-PhD,Female,1996,White,35158749.29
+2692,Late,MD-PhD,Female,1996,White,5954261.1
+2693,Mid,MD-PhD,Female,1996,White,30067108.85
+2694,Early,Other,Female,1996,White,3563044.68
+2695,Late,Other,Female,1996,White,3313400.34
+2696,Mid,Other,Female,1996,White,6366765.8
+2697,Early,PhD,Female,1996,White,509580102.06
+2698,Late,PhD,Female,1996,White,53415033.54
+2699,Mid,PhD,Female,1996,White,620591133.73
+2700,Early,MD,Male,1996,White,474169203.86
+2701,Late,MD,Male,1996,White,312600021.06
+2702,Mid,MD,Male,1996,White,907249168.26
+2703,Early,MD-PhD,Male,1996,White,282772352.35
+2704,Late,MD-PhD,Male,1996,White,112575086.84
+2705,Mid,MD-PhD,Male,1996,White,381935388.22
+2706,Early,Other,Male,1996,White,6913378.57
+2707,Late,Other,Male,1996,White,1541425.44
+2708,Mid,Other,Male,1996,White,15353522.120000001
+2709,Early,PhD,Male,1996,White,1418451212.46
+2710,Late,PhD,Male,1996,White,276374567.45
+2711,Mid,PhD,Male,1996,White,1993388229.31
+2712,Early,MD,Female,1997,White,103195511.62
+2713,Late,MD,Female,1997,White,10183303.16
+2714,Mid,MD,Female,1997,White,96226870.69
+2715,Early,MD-PhD,Female,1997,White,31977157.28
+2716,Late,MD-PhD,Female,1997,White,12416647.940000001
+2717,Mid,MD-PhD,Female,1997,White,33831111.38
+2718,Early,Other,Female,1997,White,4651304.24
+2719,Late,Other,Female,1997,White,4525311.68
+2720,Mid,Other,Female,1997,White,7530032.09
+2721,Early,PhD,Female,1997,White,518627108.24
+2722,Late,PhD,Female,1997,White,65486703.949999996
+2723,Mid,PhD,Female,1997,White,696804018.88
+2724,Early,MD,Male,1997,White,513200441.6
+2725,Late,MD,Male,1997,White,355699591.7
+2726,Mid,MD,Male,1997,White,972593814.78
+2727,Early,MD-PhD,Male,1997,White,321779283.53
+2728,Late,MD-PhD,Male,1997,White,121405691.88
+2729,Mid,MD-PhD,Male,1997,White,406127324.51
+2730,Early,Other,Male,1997,White,9909318.15
+2731,Late,Other,Male,1997,White,2500939.17
+2732,Mid,Other,Male,1997,White,16990890.78
+2733,Early,PhD,Male,1997,White,1417594757.13
+2734,Late,PhD,Male,1997,White,312828535.0
+2735,Mid,PhD,Male,1997,White,2219246585.35
+2736,Early,MD,Female,1998,White,98701694.65
+2737,Late,MD,Female,1998,White,18067682.9
+2738,Mid,MD,Female,1998,White,130651684.92
+2739,Early,MD-PhD,Female,1998,White,37094390.15
+2740,Late,MD-PhD,Female,1998,White,9475707.97
+2741,Mid,MD-PhD,Female,1998,White,32537972.73
+2742,Early,Other,Female,1998,White,3138356.77
+2743,Late,Other,Female,1998,White,5501174.029999999
+2744,Mid,Other,Female,1998,White,10189181.559999999
+2745,Early,PhD,Female,1998,White,546385337.91
+2746,Late,PhD,Female,1998,White,92166663.73
+2747,Mid,PhD,Female,1998,White,768758246.69
+2748,Early,MD,Male,1998,White,494506187.21999997
+2749,Late,MD,Male,1998,White,399148927.3
+2750,Mid,MD,Male,1998,White,1091494076.42
+2751,Early,MD-PhD,Male,1998,White,317761937.2
+2752,Late,MD-PhD,Male,1998,White,149687617.95
+2753,Mid,MD-PhD,Male,1998,White,426178571.58
+2754,Early,Other,Male,1998,White,10308318.21
+2755,Late,Other,Male,1998,White,5825312.57
+2756,Mid,Other,Male,1998,White,14592488.05
+2757,Early,PhD,Male,1998,White,1411198044.5
+2758,Late,PhD,Male,1998,White,387471815.9
+2759,Mid,PhD,Male,1998,White,2403317677.0
+2760,Early,MD,Female,1999,White,112943361.76
+2761,Late,MD,Female,1999,White,24008359.18
+2762,Mid,MD,Female,1999,White,161566012.8
+2763,Early,MD-PhD,Female,1999,White,40495943.45
+2764,Late,MD-PhD,Female,1999,White,9928021.16
+2765,Mid,MD-PhD,Female,1999,White,40796835.9
+2766,Early,Other,Female,1999,White,2637666.6
+2767,Late,Other,Female,1999,White,6592071.83
+2768,Mid,Other,Female,1999,White,10050076.7
+2769,Early,PhD,Female,1999,White,638958909.12
+2770,Late,PhD,Female,1999,White,122596669.83
+2771,Mid,PhD,Female,1999,White,899588593.77
+2772,Early,MD,Male,1999,White,517518472.95
+2773,Late,MD,Male,1999,White,462910752.56
+2774,Mid,MD,Male,1999,White,1276971647.26
+2775,Early,MD-PhD,Male,1999,White,342917046.51
+2776,Late,MD-PhD,Male,1999,White,161741855.07
+2777,Mid,MD-PhD,Male,1999,White,483062789.53
+2778,Early,Other,Male,1999,White,8088889.0
+2779,Late,Other,Male,1999,White,6412752.34
+2780,Mid,Other,Male,1999,White,18482704.88
+2781,Early,PhD,Male,1999,White,1467812876.01
+2782,Late,PhD,Male,1999,White,526734667.22
+2783,Mid,PhD,Male,1999,White,2597165870.95
+2784,Early,MD,Female,2000,White,122517723.81
+2785,Late,MD,Female,2000,White,29601963.71
+2786,Mid,MD,Female,2000,White,216954512.92
+2787,Early,MD-PhD,Female,2000,White,42396112.25
+2788,Late,MD-PhD,Female,2000,White,13247747.91
+2789,Mid,MD-PhD,Female,2000,White,60101434.93
+2790,Early,Other,Female,2000,White,3176263.85
+2791,Late,Other,Female,2000,White,4935008.67
+2792,Mid,Other,Female,2000,White,11148965.55
+2793,Early,PhD,Female,2000,White,670731337.58
+2794,Late,PhD,Female,2000,White,173679629.33
+2795,Mid,PhD,Female,2000,White,1050981052.97
+2796,Early,MD,Male,2000,White,546837229.85
+2797,Late,MD,Male,2000,White,525094789.15
+2798,Mid,MD,Male,2000,White,1467326438.73
+2799,Early,MD-PhD,Male,2000,White,368762803.09
+2800,Late,MD-PhD,Male,2000,White,199872530.4
+2801,Mid,MD-PhD,Male,2000,White,551522569.64
+2802,Early,Other,Male,2000,White,4511767.38
+2803,Late,Other,Male,2000,White,7867932.07
+2804,Mid,Other,Male,2000,White,30212568.66
+2805,Early,PhD,Male,2000,White,1575752331.71
+2806,Late,PhD,Male,2000,White,686004953.12
+2807,Mid,PhD,Male,2000,White,2907163257.56
+2808,Early,MD,Female,2001,White,135789999.19
+2809,Late,MD,Female,2001,White,41026265.41
+2810,Mid,MD,Female,2001,White,268096135.28
+2811,Early,MD-PhD,Female,2001,White,59635532.35
+2812,Late,MD-PhD,Female,2001,White,15322627.06
+2813,Mid,MD-PhD,Female,2001,White,66452679.84
+2814,Early,Other,Female,2001,White,4554792.65
+2815,Late,Other,Female,2001,White,5849598.21
+2816,Mid,Other,Female,2001,White,14050410.12
+2817,Early,PhD,Female,2001,White,712856163.38
+2818,Late,PhD,Female,2001,White,233078984.64
+2819,Mid,PhD,Female,2001,White,1169899233.97
+2820,Early,MD,Male,2001,White,567885826.54
+2821,Late,MD,Male,2001,White,642236915.34
+2822,Mid,MD,Male,2001,White,1624298232.77
+2823,Early,MD-PhD,Male,2001,White,389249173.5
+2824,Late,MD-PhD,Male,2001,White,223139847.5
+2825,Mid,MD-PhD,Male,2001,White,642132958.58
+2826,Early,Other,Male,2001,White,11424157.99
+2827,Late,Other,Male,2001,White,12560568.22
+2828,Mid,Other,Male,2001,White,32121394.490000002
+2829,Early,PhD,Male,2001,White,1698199080.45
+2830,Late,PhD,Male,2001,White,935132443.39
+2831,Mid,PhD,Male,2001,White,3136119465.94
+2832,Early,MD,Female,2002,White,126604057.02
+2833,Late,MD,Female,2002,White,45749418.22
+2834,Mid,MD,Female,2002,White,348777160.09
+2835,Early,MD-PhD,Female,2002,White,56981002.93
+2836,Late,MD-PhD,Female,2002,White,17032805.41
+2837,Mid,MD-PhD,Female,2002,White,69598853.89
+2838,Early,Other,Female,2002,White,7427785.16
+2839,Late,Other,Female,2002,White,8136185.0
+2840,Mid,Other,Female,2002,White,15557865.4
+2841,Early,PhD,Female,2002,White,754967101.3
+2842,Late,PhD,Female,2002,White,298197720.46
+2843,Mid,PhD,Female,2002,White,1296044510.4
+2844,Early,MD,Male,2002,White,579068486.5
+2845,Late,MD,Male,2002,White,731240307.48
+2846,Mid,MD,Male,2002,White,1732751490.04
+2847,Early,MD-PhD,Male,2002,White,358824676.22
+2848,Late,MD-PhD,Male,2002,White,237576507.08
+2849,Mid,MD-PhD,Male,2002,White,770804532.92
+2850,Early,Other,Male,2002,White,11674852.69
+2851,Late,Other,Male,2002,White,22169901.92
+2852,Mid,Other,Male,2002,White,29929883.0
+2853,Early,PhD,Male,2002,White,1736045784.97
+2854,Late,PhD,Male,2002,White,1098118958.68
+2855,Mid,PhD,Male,2002,White,3408746687.45
+2856,Early,MD,Female,2003,White,152957130.68
+2857,Late,MD,Female,2003,White,62169984.75
+2858,Mid,MD,Female,2003,White,361632610.02
+2859,Early,MD-PhD,Female,2003,White,59840682.769999996
+2860,Late,MD-PhD,Female,2003,White,16431404.32
+2861,Mid,MD-PhD,Female,2003,White,93275156.96
+2862,Early,Other,Female,2003,White,8105769.26
+2863,Late,Other,Female,2003,White,6477786.680000001
+2864,Mid,Other,Female,2003,White,20911735.23
+2865,Early,PhD,Female,2003,White,775797857.07
+2866,Late,PhD,Female,2003,White,342182172.65
+2867,Mid,PhD,Female,2003,White,1385517807.7
+2868,Early,MD,Male,2003,White,528957961.22
+2869,Late,MD,Male,2003,White,839272187.35
+2870,Mid,MD,Male,2003,White,1867198766.54
+2871,Early,MD-PhD,Male,2003,White,357354242.86
+2872,Late,MD-PhD,Male,2003,White,302012106.82
+2873,Mid,MD-PhD,Male,2003,White,801153680.87
+2874,Early,Other,Male,2003,White,13474508.82
+2875,Late,Other,Male,2003,White,27532323.59
+2876,Mid,Other,Male,2003,White,32994730.0
+2877,Early,PhD,Male,2003,White,1804146378.03
+2878,Late,PhD,Male,2003,White,1236982001.99
+2879,Mid,PhD,Male,2003,White,3530143574.36
+2880,Early,MD,Female,2004,White,131674576.6
+2881,Late,MD,Female,2004,White,70987565.31
+2882,Mid,MD,Female,2004,White,415711216.66
+2883,Early,MD-PhD,Female,2004,White,63548606.8
+2884,Late,MD-PhD,Female,2004,White,18903922.45
+2885,Mid,MD-PhD,Female,2004,White,106442402.3
+2886,Early,Other,Female,2004,White,7639648.62
+2887,Late,Other,Female,2004,White,9571540.86
+2888,Mid,Other,Female,2004,White,17184380.45
+2889,Early,PhD,Female,2004,White,816392941.33
+2890,Late,PhD,Female,2004,White,388758842.12
+2891,Mid,PhD,Female,2004,White,1405629193.37
+2892,Early,MD,Male,2004,White,482683144.39
+2893,Late,MD,Male,2004,White,919344873.12
+2894,Mid,MD,Male,2004,White,1895789096.35
+2895,Early,MD-PhD,Male,2004,White,335665001.83
+2896,Late,MD-PhD,Male,2004,White,317538000.73
+2897,Mid,MD-PhD,Male,2004,White,864995721.52
+2898,Early,Other,Male,2004,White,11773653.469999999
+2899,Late,Other,Male,2004,White,30048406.12
+2900,Mid,Other,Male,2004,White,28251357.28
+2901,Early,PhD,Male,2004,White,1770630923.24
+2902,Late,PhD,Male,2004,White,1403188994.64
+2903,Mid,PhD,Male,2004,White,3593094808.93
+2904,Early,MD,Female,2005,White,123446567.23
+2905,Late,MD,Female,2005,White,72463574.24
+2906,Mid,MD,Female,2005,White,439063254.68
+2907,Early,MD-PhD,Female,2005,White,52150901.88
+2908,Late,MD-PhD,Female,2005,White,16877910.689999998
+2909,Mid,MD-PhD,Female,2005,White,112931874.28
+2910,Early,Other,Female,2005,White,8243728.34
+2911,Late,Other,Female,2005,White,10817055.549999999
+2912,Mid,Other,Female,2005,White,18462665.47
+2913,Early,PhD,Female,2005,White,812402975.03
+2914,Late,PhD,Female,2005,White,436449442.65
+2915,Mid,PhD,Female,2005,White,1438051852.31
+2916,Early,MD,Male,2005,White,446408120.61
+2917,Late,MD,Male,2005,White,960945130.29
+2918,Mid,MD,Male,2005,White,1889752267.12
+2919,Early,MD-PhD,Male,2005,White,303767327.5
+2920,Late,MD-PhD,Male,2005,White,299334309.4
+2921,Mid,MD-PhD,Male,2005,White,870697276.09
+2922,Early,Other,Male,2005,White,14160924.96
+2923,Late,Other,Male,2005,White,31275461.349999998
+2924,Mid,Other,Male,2005,White,25712702.82
+2925,Early,PhD,Male,2005,White,1688906792.03
+2926,Late,PhD,Male,2005,White,1500448425.83
+2927,Mid,PhD,Male,2005,White,3516185386.73
+2928,Early,MD,Female,2006,White,114210633.16
+2929,Late,MD,Female,2006,White,63596966.16
+2930,Mid,MD,Female,2006,White,430184531.48
+2931,Early,MD-PhD,Female,2006,White,51654224.45
+2932,Late,MD-PhD,Female,2006,White,24485152.930000003
+2933,Mid,MD-PhD,Female,2006,White,101488418.67
+2934,Early,Other,Female,2006,White,5646835.67
+2935,Late,Other,Female,2006,White,11959761.98
+2936,Mid,Other,Female,2006,White,19897266.27
+2937,Early,PhD,Female,2006,White,760927841.67
+2938,Late,PhD,Female,2006,White,454879864.94
+2939,Mid,PhD,Female,2006,White,1416559827.12
+2940,Early,MD,Male,2006,White,345935899.53
+2941,Late,MD,Male,2006,White,1137437834.42
+2942,Mid,MD,Male,2006,White,1599201861.22
+2943,Early,MD-PhD,Male,2006,White,248602152.03
+2944,Late,MD-PhD,Male,2006,White,278892079.76
+2945,Mid,MD-PhD,Male,2006,White,809436493.55
+2946,Early,Other,Male,2006,White,9356422.02
+2947,Late,Other,Male,2006,White,23735629.32
+2948,Mid,Other,Male,2006,White,29449007.67
+2949,Early,PhD,Male,2006,White,1540173801.99
+2950,Late,PhD,Male,2006,White,1597528567.85
+2951,Mid,PhD,Male,2006,White,3242437671.19
+2952,Early,MD,Female,2007,White,107791477.47
+2953,Late,MD,Female,2007,White,80056044.51
+2954,Mid,MD,Female,2007,White,407085927.24
+2955,Early,MD-PhD,Female,2007,White,55071109.82
+2956,Late,MD-PhD,Female,2007,White,27030914.080000002
+2957,Mid,MD-PhD,Female,2007,White,99718275.24
+2958,Early,Other,Female,2007,White,4802652.74
+2959,Late,Other,Female,2007,White,13858150.43
+2960,Mid,Other,Female,2007,White,15266929.46
+2961,Early,PhD,Female,2007,White,780264755.72
+2962,Late,PhD,Female,2007,White,475982348.27
+2963,Mid,PhD,Female,2007,White,1376672035.17
+2964,Early,MD,Male,2007,White,288471514.76
+2965,Late,MD,Male,2007,White,1128403161.04
+2966,Mid,MD,Male,2007,White,1536982753.01
+2967,Early,MD-PhD,Male,2007,White,217330650.65
+2968,Late,MD-PhD,Male,2007,White,288881667.53
+2969,Mid,MD-PhD,Male,2007,White,797670086.34
+2970,Early,Other,Male,2007,White,7087504.5
+2971,Late,Other,Male,2007,White,20874291.43
+2972,Mid,Other,Male,2007,White,31790628.48
+2973,Early,PhD,Male,2007,White,1507441153.05
+2974,Late,PhD,Male,2007,White,1666467603.48
+2975,Mid,PhD,Male,2007,White,3075145559.93
+2976,Early,MD,Female,2008,White,98747456.11
+2977,Late,MD,Female,2008,White,82126591.8
+2978,Mid,MD,Female,2008,White,411119657.29
+2979,Early,MD-PhD,Female,2008,White,44603751.8
+2980,Late,MD-PhD,Female,2008,White,22565136.24
+2981,Mid,MD-PhD,Female,2008,White,96364690.75
+2982,Early,Other,Female,2008,White,5590146.64
+2983,Late,Other,Female,2008,White,10315298.75
+2984,Mid,Other,Female,2008,White,10231548.26
+2985,Early,PhD,Female,2008,White,768064384.67
+2986,Late,PhD,Female,2008,White,485925819.21
+2987,Mid,PhD,Female,2008,White,1278960940.46
+2988,Early,MD,Male,2008,White,256722963.91
+2989,Late,MD,Male,2008,White,1090147942.9
+2990,Mid,MD,Male,2008,White,1382623678.65
+2991,Early,MD-PhD,Male,2008,White,204138506.19
+2992,Late,MD-PhD,Male,2008,White,274695773.9
+2993,Mid,MD-PhD,Male,2008,White,755162099.69
+2994,Early,Other,Male,2008,White,6650196.68
+2995,Late,Other,Male,2008,White,17952180.47
+2996,Mid,Other,Male,2008,White,24514122.25
+2997,Early,PhD,Male,2008,White,1407788146.32
+2998,Late,PhD,Male,2008,White,1667805988.21
+2999,Mid,PhD,Male,2008,White,2806198504.09
+3000,Early,MD,Female,2009,White,100550892.89
+3001,Late,MD,Female,2009,White,82600225.56
+3002,Mid,MD,Female,2009,White,402269557.51
+3003,Early,MD-PhD,Female,2009,White,48845102.91
+3004,Late,MD-PhD,Female,2009,White,24700036.41
+3005,Mid,MD-PhD,Female,2009,White,108820436.28
+3006,Early,Other,Female,2009,White,5201356.109999999
+3007,Late,Other,Female,2009,White,10420582.75
+3008,Mid,Other,Female,2009,White,8542946.63
+3009,Early,PhD,Female,2009,White,756296804.39
+3010,Late,PhD,Female,2009,White,605149176.01
+3011,Mid,PhD,Female,2009,White,1194789967.51
+3012,Early,MD,Male,2009,White,243518238.65
+3013,Late,MD,Male,2009,White,1083026710.12
+3014,Mid,MD,Male,2009,White,1286789380.13
+3015,Early,MD-PhD,Male,2009,White,198162623.24
+3016,Late,MD-PhD,Male,2009,White,297036997.35
+3017,Mid,MD-PhD,Male,2009,White,736988182.38
+3018,Early,Other,Male,2009,White,5799064.7
+3019,Late,Other,Male,2009,White,15119465.49
+3020,Mid,Other,Male,2009,White,29980329.43
+3021,Early,PhD,Male,2009,White,1402178861.04
+3022,Late,PhD,Male,2009,White,1715598464.83
+3023,Mid,PhD,Male,2009,White,2729386606.39
+3024,Early,MD,Female,2010,White,97467591.3
+3025,Late,MD,Female,2010,White,96390053.79
+3026,Mid,MD,Female,2010,White,355415963.88
+3027,Early,MD-PhD,Female,2010,White,52227734.61
+3028,Late,MD-PhD,Female,2010,White,28427352.96
+3029,Mid,MD-PhD,Female,2010,White,110366006.64
+3030,Early,Other,Female,2010,White,5924477.69
+3031,Late,Other,Female,2010,White,13696194.74
+3032,Mid,Other,Female,2010,White,10774808.37
+3033,Early,PhD,Female,2010,White,802646091.21
+3034,Late,PhD,Female,2010,White,641897246.02
+3035,Mid,PhD,Female,2010,White,1155314633.09
+3036,Early,MD,Male,2010,White,226167376.43
+3037,Late,MD,Male,2010,White,1047775814.03
+3038,Mid,MD,Male,2010,White,1278299819.04
+3039,Early,MD-PhD,Male,2010,White,212566500.25
+3040,Late,MD-PhD,Male,2010,White,307884130.15
+3041,Mid,MD-PhD,Male,2010,White,729543976.75
+3042,Early,Other,Male,2010,White,3027013.05
+3043,Late,Other,Male,2010,White,23580905.06
+3044,Mid,Other,Male,2010,White,27930610.49
+3045,Early,PhD,Male,2010,White,1373817869.39
+3046,Late,PhD,Male,2010,White,1833613775.29
+3047,Mid,PhD,Male,2010,White,2560571151.71
+3048,Early,MD,Female,2011,White,102284356.06
+3049,Late,MD,Female,2011,White,125966367.89
+3050,Mid,MD,Female,2011,White,309090050.7
+3051,Early,MD-PhD,Female,2011,White,52749907.36
+3052,Late,MD-PhD,Female,2011,White,33488458.78
+3053,Mid,MD-PhD,Female,2011,White,119516004.57000001
+3054,Early,Other,Female,2011,White,6937460.93
+3055,Late,Other,Female,2011,White,6873711.72
+3056,Mid,Other,Female,2011,White,14743308.4
+3057,Early,PhD,Female,2011,White,799529879.88
+3058,Late,PhD,Female,2011,White,630501175.13
+3059,Mid,PhD,Female,2011,White,1154101013.52
+3060,Early,MD,Male,2011,White,218569053.99
+3061,Late,MD,Male,2011,White,1046058540.56
+3062,Mid,MD,Male,2011,White,1133638112.86
+3063,Early,MD-PhD,Male,2011,White,184044956.01
+3064,Late,MD-PhD,Male,2011,White,319828035.54
+3065,Mid,MD-PhD,Male,2011,White,705709821.56
+3066,Early,Other,Male,2011,White,6260896.84
+3067,Late,Other,Male,2011,White,23909894.580000002
+3068,Mid,Other,Male,2011,White,26724997.02
+3069,Early,PhD,Male,2011,White,1378231673.95
+3070,Late,PhD,Male,2011,White,1842176454.64
+3071,Mid,PhD,Male,2011,White,2331444054.92
+3072,Early,MD,Female,2012,White,101251400.67999999
+3073,Late,MD,Female,2012,White,140933065.14
+3074,Mid,MD,Female,2012,White,331340098.46999997
+3075,Early,MD-PhD,Female,2012,White,57356339.97
+3076,Late,MD-PhD,Female,2012,White,31384422.41
+3077,Mid,MD-PhD,Female,2012,White,127353452.86
+3078,Early,Other,Female,2012,White,8178966.87
+3079,Late,Other,Female,2012,White,12296149.52
+3080,Mid,Other,Female,2012,White,14445484.5
+3081,Early,PhD,Female,2012,White,819084287.69
+3082,Late,PhD,Female,2012,White,626097978.92
+3083,Mid,PhD,Female,2012,White,1163968895.3
+3084,Early,MD,Male,2012,White,201572924.84
+3085,Late,MD,Male,2012,White,1030005077.14
+3086,Mid,MD,Male,2012,White,1078059128.22
+3087,Early,MD-PhD,Male,2012,White,183730936.14
+3088,Late,MD-PhD,Male,2012,White,346703349.97
+3089,Mid,MD-PhD,Male,2012,White,664795911.77
+3090,Early,Other,Male,2012,White,5025369.68
+3091,Late,Other,Male,2012,White,25382489.0
+3092,Mid,Other,Male,2012,White,31707877.7
+3093,Early,PhD,Male,2012,White,1384047177.72
+3094,Late,PhD,Male,2012,White,1869846489.71
+3095,Mid,PhD,Male,2012,White,2198307293.79
+3096,Early,MD,Female,2013,White,87344712.4
+3097,Late,MD,Female,2013,White,141355813.18
+3098,Mid,MD,Female,2013,White,259622709.19
+3099,Early,MD-PhD,Female,2013,White,52237528.82
+3100,Late,MD-PhD,Female,2013,White,38359574.95
+3101,Mid,MD-PhD,Female,2013,White,125669383.69
+3102,Early,Other,Female,2013,White,6043675.41
+3103,Late,Other,Female,2013,White,7455231.28
+3104,Mid,Other,Female,2013,White,15556638.42
+3105,Early,PhD,Female,2013,White,764618925.69
+3106,Late,PhD,Female,2013,White,593173019.11
+3107,Mid,PhD,Female,2013,White,1009259270.45
+3108,Early,MD,Male,2013,White,189637424.33
+3109,Late,MD,Male,2013,White,1040181824.17
+3110,Mid,MD,Male,2013,White,905064312.62
+3111,Early,MD-PhD,Male,2013,White,173184346.63
+3112,Late,MD-PhD,Male,2013,White,355130879.13
+3113,Mid,MD-PhD,Male,2013,White,617396006.99
+3114,Early,Other,Male,2013,White,5142269.92
+3115,Late,Other,Male,2013,White,16529215.73
+3116,Mid,Other,Male,2013,White,27472444.63
+3117,Early,PhD,Male,2013,White,1259396503.77
+3118,Late,PhD,Male,2013,White,1767892030.72
+3119,Mid,PhD,Male,2013,White,1974290878.01
+3120,Early,MD,Female,2014,White,91123369.59
+3121,Late,MD,Female,2014,White,167593354.8
+3122,Mid,MD,Female,2014,White,309303973.99
+3123,Early,MD-PhD,Female,2014,White,43565624.07
+3124,Late,MD-PhD,Female,2014,White,40426950.68
+3125,Mid,MD-PhD,Female,2014,White,163153127.0
+3126,Early,Other,Female,2014,White,4340518.0600000005
+3127,Late,Other,Female,2014,White,5978315.33
+3128,Mid,Other,Female,2014,White,15239660.41
+3129,Early,PhD,Female,2014,White,794672856.73
+3130,Late,PhD,Female,2014,White,634699079.69
+3131,Mid,PhD,Female,2014,White,990785257.81
+3132,Early,MD,Male,2014,White,233843513.57999998
+3133,Late,MD,Male,2014,White,1110607402.1
+3134,Mid,MD,Male,2014,White,844096196.92
+3135,Early,MD-PhD,Male,2014,White,158611710.21
+3136,Late,MD-PhD,Male,2014,White,417937132.67
+3137,Mid,MD-PhD,Male,2014,White,615912983.76
+3138,Early,Other,Male,2014,White,8961151.13
+3139,Late,Other,Male,2014,White,17926998.66
+3140,Mid,Other,Male,2014,White,21209417.029999997
+3141,Early,PhD,Male,2014,White,1300707347.64
+3142,Late,PhD,Male,2014,White,1857794254.0
+3143,Mid,PhD,Male,2014,White,1964725829.26
+3144,Early,MD,Female,2015,White,89276702.71
+3145,Late,MD,Female,2015,White,171095862.4
+3146,Mid,MD,Female,2015,White,286349899.91
+3147,Early,MD-PhD,Female,2015,White,54784365.54
+3148,Late,MD-PhD,Female,2015,White,38387093.82
+3149,Mid,MD-PhD,Female,2015,White,157172870.07
+3150,Early,Other,Female,2015,White,8882944.64
+3151,Late,Other,Female,2015,White,7020566.0200000005
+3152,Mid,Other,Female,2015,White,10122565.719999999
+3153,Early,PhD,Female,2015,White,820046890.78
+3154,Late,PhD,Female,2015,White,665630583.6
+3155,Mid,PhD,Female,2015,White,994104221.58
+3156,Early,MD,Male,2015,White,194243867.27
+3157,Late,MD,Male,2015,White,1060593779.02
+3158,Mid,MD,Male,2015,White,714548141.73
+3159,Early,MD-PhD,Male,2015,White,140541897.14
+3160,Late,MD-PhD,Male,2015,White,434414191.36
+3161,Mid,MD-PhD,Male,2015,White,571114431.68
+3162,Early,Other,Male,2015,White,9955697.5
+3163,Late,Other,Male,2015,White,17239511.51
+3164,Mid,Other,Male,2015,White,21418393.97
+3165,Early,PhD,Male,2015,White,1325496473.58
+3166,Late,PhD,Male,2015,White,1895294144.86
+3167,Mid,PhD,Male,2015,White,1970494072.89
+3168,Early,MD,Female,2016,White,97357102.06
+3169,Late,MD,Female,2016,White,176658078.82
+3170,Mid,MD,Female,2016,White,277567784.63
+3171,Early,MD-PhD,Female,2016,White,60134393.11
+3172,Late,MD-PhD,Female,2016,White,51767725.65
+3173,Mid,MD-PhD,Female,2016,White,170397740.87
+3174,Early,Other,Female,2016,White,7645555.12
+3175,Late,Other,Female,2016,White,8559999.44
+3176,Mid,Other,Female,2016,White,10044265.1
+3177,Early,PhD,Female,2016,White,876582736.79
+3178,Late,PhD,Female,2016,White,706849197.86
+3179,Mid,PhD,Female,2016,White,1089769977.47
+3180,Early,MD,Male,2016,White,213756476.99
+3181,Late,MD,Male,2016,White,1138748968.7
+3182,Mid,MD,Male,2016,White,698675609.07
+3183,Early,MD-PhD,Male,2016,White,155667030.9
+3184,Late,MD-PhD,Male,2016,White,483293198.69
+3185,Mid,MD-PhD,Male,2016,White,580711797.01
+3186,Early,Other,Male,2016,White,9659659.76
+3187,Late,Other,Male,2016,White,17952917.74
+3188,Mid,Other,Male,2016,White,21313851.94
+3189,Early,PhD,Male,2016,White,1353643389.1
+3190,Late,PhD,Male,2016,White,1966976385.3
+3191,Mid,PhD,Male,2016,White,2049214187.49
+3192,Early,MD,Female,2017,White,99387473.75
+3193,Late,MD,Female,2017,White,247804954.60999998
+3194,Mid,MD,Female,2017,White,243801685.17
+3195,Early,MD-PhD,Female,2017,White,59602372.3
+3196,Late,MD-PhD,Female,2017,White,68923312.74
+3197,Mid,MD-PhD,Female,2017,White,176745044.38
+3198,Early,Other,Female,2017,White,9779578.58
+3199,Late,Other,Female,2017,White,10642325.72
+3200,Mid,Other,Female,2017,White,14235273.620000001
+3201,Early,PhD,Female,2017,White,958185675.85
+3202,Late,PhD,Female,2017,White,791722275.03
+3203,Mid,PhD,Female,2017,White,1138266147.25
+3204,Early,MD,Male,2017,White,216056068.82
+3205,Late,MD,Male,2017,White,1191465293.07
+3206,Mid,MD,Male,2017,White,658933990.06
+3207,Early,MD-PhD,Male,2017,White,140289932.45
+3208,Late,MD-PhD,Male,2017,White,515202681.04
+3209,Mid,MD-PhD,Male,2017,White,566434283.73
+3210,Early,Other,Male,2017,White,11985971.55
+3211,Late,Other,Male,2017,White,25896047.21
+3212,Mid,Other,Male,2017,White,21781881.830000002
+3213,Early,PhD,Male,2017,White,1461653952.83
+3214,Late,PhD,Male,2017,White,2005280381.17
+3215,Mid,PhD,Male,2017,White,2005628604.79
+3216,Early,MD,Female,2018,White,115229625.8
+3217,Late,MD,Female,2018,White,275695699.21999997
+3218,Mid,MD,Female,2018,White,278302930.02
+3219,Early,MD-PhD,Female,2018,White,53599689.089999996
+3220,Late,MD-PhD,Female,2018,White,79741239.37
+3221,Mid,MD-PhD,Female,2018,White,170890121.82
+3222,Early,Other,Female,2018,White,11882761.64
+3223,Late,Other,Female,2018,White,10159580.33
+3224,Mid,Other,Female,2018,White,17950908.51
+3225,Early,PhD,Female,2018,White,1048259794.31
+3226,Late,PhD,Female,2018,White,847353129.4
+3227,Mid,PhD,Female,2018,White,1216705568.34
+3228,Early,MD,Male,2018,White,246088856.93
+3229,Late,MD,Male,2018,White,1246395723.27
+3230,Mid,MD,Male,2018,White,623708059.17
+3231,Early,MD-PhD,Male,2018,White,158342483.14000002
+3232,Late,MD-PhD,Male,2018,White,542654690.0
+3233,Mid,MD-PhD,Male,2018,White,529680065.35
+3234,Early,Other,Male,2018,White,15694644.02
+3235,Late,Other,Male,2018,White,22243270.48
+3236,Mid,Other,Male,2018,White,25884055.38
+3237,Early,PhD,Male,2018,White,1510761327.36
+3238,Late,PhD,Male,2018,White,1946886379.09
+3239,Mid,PhD,Male,2018,White,2133144568.29
+3240,Early,MD,Female,2019,White,116040542.78999999
+3241,Late,MD,Female,2019,White,290041310.04
+3242,Mid,MD,Female,2019,White,326101734.13
+3243,Early,MD-PhD,Female,2019,White,68015782.64
+3244,Late,MD-PhD,Female,2019,White,71934446.45
+3245,Mid,MD-PhD,Female,2019,White,181062914.3
+3246,Early,Other,Female,2019,White,14953452.290000001
+3247,Late,Other,Female,2019,White,12006991.67
+3248,Mid,Other,Female,2019,White,33269908.14
+3249,Early,PhD,Female,2019,White,1167286503.86
+3250,Late,PhD,Female,2019,White,889426350.95
+3251,Mid,PhD,Female,2019,White,1370488531.83
+3252,Early,MD,Male,2019,White,220324390.74
+3253,Late,MD,Male,2019,White,1237336194.87
+3254,Mid,MD,Male,2019,White,668737491.83
+3255,Early,MD-PhD,Male,2019,White,172803210.91
+3256,Late,MD-PhD,Male,2019,White,581001452.97
+3257,Mid,MD-PhD,Male,2019,White,521004761.56
+3258,Early,Other,Male,2019,White,19425746.29
+3259,Late,Other,Male,2019,White,23563817.29
+3260,Mid,Other,Male,2019,White,24544168.55
+3261,Early,PhD,Male,2019,White,1650537701.99
+3262,Late,PhD,Male,2019,White,2106441339.36
+3263,Mid,PhD,Male,2019,White,2172582010.36
+3264,Early,MD,Female,2020,White,143310786.73
+3265,Late,MD,Female,2020,White,291411720.12
+3266,Mid,MD,Female,2020,White,320240847.55
+3267,Early,MD-PhD,Female,2020,White,66831877.86
+3268,Late,MD-PhD,Female,2020,White,96402256.27
+3269,Mid,MD-PhD,Female,2020,White,185672627.29
+3270,Early,Other,Female,2020,White,14980540.28
+3271,Late,Other,Female,2020,White,14807938.56
+3272,Mid,Other,Female,2020,White,26506490.14
+3273,Early,PhD,Female,2020,White,1252670977.3
+3274,Late,PhD,Female,2020,White,911555027.2
+3275,Mid,PhD,Female,2020,White,1461831376.77
+3276,Early,MD,Male,2020,White,235817650.15
+3277,Late,MD,Male,2020,White,1338055962.43
+3278,Mid,MD,Male,2020,White,653723901.53
+3279,Early,MD-PhD,Male,2020,White,159921240.07
+3280,Late,MD-PhD,Male,2020,White,587121803.24
+3281,Mid,MD-PhD,Male,2020,White,542869784.14
+3282,Early,Other,Male,2020,White,22538783.77
+3283,Late,Other,Male,2020,White,38373811.07
+3284,Mid,Other,Male,2020,White,31427478.15
+3285,Early,PhD,Male,2020,White,1644763119.55
+3286,Late,PhD,Male,2020,White,2057442011.15
+3287,Mid,PhD,Male,2020,White,2267880190.83
