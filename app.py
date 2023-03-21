@@ -22,12 +22,12 @@ server = app.server
 #host files on github
 path = 'https://raw.githubusercontent.com/linnilinnil/NIH-Fundings-Dashboard/main/data/'
 
+fatal = pd.read_csv(path+'fatal.csv')
+nonfatal = pd.read_csv(path+'nonfatal.csv')
 #read in file, for demo purpose they all come from pre-saved csv.
 fund_org = pd.read_csv(path + "fund_org_avg.csv")
 fund_pi = pd.read_csv(path + "fund_pi_avg.csv")
 fund_proj = pd.read_csv(path + "fund_proj_avg.csv")
-fatal = pd.read_csv(path+'fatal.csv')
-nonfatal = pd.read_csv(path+'nonfatal.csv')
 divsum = pd.read_csv(path + 'divsum.csv')
 pag = pd.read_csv(path + 'pag.csv')
 #filter options
@@ -349,5 +349,5 @@ def update_div(val,hov):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True,port="7000")
+    app.run_server(debug=True,port="8000")
 
