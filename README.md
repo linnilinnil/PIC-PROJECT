@@ -9,14 +9,16 @@ We suggest that you create a separate virtual environment running Python 3 for t
 
 
 Run in Terminal/Command Prompt:
+<br>
+1. Clone the project
 
 `git clone -b main https://github.com/linnilinnil/NIH-Fundings-Dashboard.git`
 
-Enter the directory:
+2. Enter the directory:
 
 `cd NIH-Fundings-Dashboard`
 
-
+3. Create virtual environment
 
 `python3 -m virtualenv venv`
 
@@ -29,12 +31,11 @@ In Windows:
 `venv\Scripts\activate`
 
 
-
-To install all of the required packages to this environment, simply run:
+4. To install all of the required packages to this environment, simply run:
 
 `pip install -r requirements.txt`
 
-and all of the required pip packages will be installed. 
+
 
 The app will be able to run by running the *app.py* file directly.  
 
