@@ -36,8 +36,9 @@ In Windows:
 `pip install -r requirements.txt`
 
 
+5. Lunch the dashboard
 
-The app will be able to run by running the *app.py* file directly.  
+Running the *app.py* file directly:
 
 `python3 app.py`  
 
